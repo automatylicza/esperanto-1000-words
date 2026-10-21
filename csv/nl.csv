@@ -1,0 +1,1001 @@
+rank,word,part_of_speech,dutch,per_million
+1,la,article,"de, het",60872.6
+2,mi,pronoun,"ik, mij",44461.8
+3,esti,verb,zijn,40933.8
+4,vi,pronoun,"jij, je, u, jullie",25023.8
+5,ne,particle,"nee, niet",24162.6
+6,li,pronoun,"hij, hem",16212.2
+7,de,preposition,"van, uit, door",15991.5
+8,al,preposition,"naar, aan, tot",14901.9
+9,en,preposition,"in, binnen",14241.1
+10,ke,conjunction,dat (voegwoord),11849.6
+11,kaj,conjunction,en,11331.8
+12,tio,correlative,dat (iets),10763.0
+13,ĉu,particle,of; leidt een ja/nee-vraag in,10352.5
+14,ni,pronoun,"wij, ons",10077.2
+15,ŝi,pronoun,"zij, haar (enkelvoud)",8607.8
+16,tiu,correlative,"die, dat, die daar",8421.1
+17,mia,possessive,mijn,7759.4
+18,por,preposition,"voor, om te",7021.5
+19,povi,verb,kunnen,6606.7
+20,kiu,correlative,"wie, welke, die",6485.8
+21,havi,verb,hebben,6342.6
+22,ili,pronoun,"zij, ze, hen (meervoud)",5824.4
+23,ĉi,particle,"hier, deze (zoals in tiu ĉi)",5538.4
+24,ĝi,pronoun,het,5272.9
+25,sia,possessive,"zijn eigen, haar eigen, hun eigen",5229.9
+26,pri,preposition,over (een onderwerp),5222.0
+27,fari,verb,"doen, maken",5113.3
+28,kio,correlative,wat,5080.7
+29,via,possessive,"jouw, uw, jullie",4979.4
+30,diri,verb,zeggen,4600.4
+31,voli,verb,willen,4553.1
+32,pli,adverb,meer,4279.7
+33,kun,preposition,met,4041.4
+34,kiel,correlative,"hoe, zoals",4040.2
+35,scii,verb,weten,3648.9
+36,oni,pronoun,men,3517.9
+37,ĉiu,correlative,"elke, ieder, iedereen",3377.8
+38,da,preposition,van (na een hoeveelheid),3185.5
+39,devi,verb,moeten,3152.1
+40,iri,verb,gaan,3050.1
+41,tie,correlative,daar,2985.3
+42,sed,conjunction,maar,2967.6
+43,kiam,correlative,"wanneer, als (tijd)",2860.3
+44,tre,adverb,"zeer, heel",2826.6
+45,el,preposition,uit,2797.5
+46,se,conjunction,"als, indien",2632.5
+47,ŝati,verb,"leuk vinden, waarderen",2560.2
+48,ol,conjunction,dan (bij vergelijking),2485.4
+49,lia,possessive,zijn (van hem),2398.3
+50,paroli,verb,"spreken, praten",2367.4
+51,nur,adverb,"alleen, slechts, maar",2360.0
+52,vidi,verb,zien,2349.9
+53,sur,preposition,op,2309.1
+54,plej,adverb,meest (overtreffende trap),2189.4
+55,homo,noun,mens,2181.0
+56,per,preposition,"met, door middel van",2181.0
+57,bona,adjective,goed,1958.4
+58,unu,numeral,"een, één",1926.9
+59,je,preposition,"om, op, aan (algemeen voorzetsel)",1855.0
+60,nia,possessive,"ons, onze",1837.9
+61,veni,verb,komen,1815.4
+62,dum,preposition,"tijdens, terwijl",1759.7
+63,alia,adjective,ander,1727.1
+64,kial,correlative,waarom,1704.3
+65,io,correlative,iets,1669.7
+66,nun,adverb,nu,1629.6
+67,kredi,verb,geloven,1629.4
+68,tiel,correlative,"zo, op die manier",1620.8
+69,pro,preposition,"wegens, vanwege",1616.5
+70,jam,adverb,"al, reeds",1597.7
+71,neniam,correlative,nooit,1591.3
+72,bone,adverb,goed,1587.2
+73,kie,correlative,waar,1567.1
+74,si,pronoun,zich,1565.4
+75,iu,correlative,"iemand, een zekere",1564.6
+76,ĉio,correlative,alles,1541.9
+77,ankoraŭ,adverb,nog,1528.0
+78,tempo,noun,tijd,1523.1
+79,ĉiam,correlative,altijd,1495.1
+80,pensi,verb,denken,1480.5
+81,granda,adjective,groot,1473.3
+82,multa,adjective,veel,1448.0
+83,manĝi,verb,eten,1443.3
+84,bezoni,verb,nodig hebben,1431.7
+85,aŭ,conjunction,of,1408.2
+86,antaŭ,preposition,"voor, vóór",1401.0
+87,neniu,correlative,"niemand, geen",1310.1
+88,libro,noun,boek,1296.7
+89,infano,noun,kind,1290.7
+90,jaro,noun,jaar,1289.9
+91,lingvo,noun,taal,1247.2
+92,multe,adverb,"veel, erg",1222.8
+93,kiom,correlative,hoeveel,1217.3
+94,vere,adverb,"echt, werkelijk",1214.6
+95,vivo,noun,leven,1210.8
+96,tago,noun,dag,1197.8
+97,okazi,verb,"gebeuren, plaatsvinden",1193.7
+98,ŝia,possessive,haar (van haar),1186.3
+99,trovi,verb,vinden,1186.1
+100,du,numeral,twee,1185.9
+101,doni,verb,geven,1146.0
+102,post,preposition,"na, achter",1135.5
+103,domo,noun,huis,1132.8
+104,ĉe,preposition,"bij, aan",1130.7
+105,nenio,correlative,niets,1129.9
+106,hodiaŭ,adverb,vandaag,1124.7
+107,tro,adverb,"te, te veel",1119.9
+108,ankaŭ,adverb,ook,1112.4
+109,plu,adverb,"verder, langer",1108.8
+110,helpi,verb,helpen,1100.0
+111,aĉeti,verb,kopen,1090.3
+112,resti,verb,blijven,1079.6
+113,mono,noun,geld,1078.1
+114,afero,noun,"zaak, ding, aangelegenheid",1074.0
+115,ĉar,conjunction,"omdat, want",1073.6
+116,amiko,noun,vriend,1040.9
+117,bela,adjective,"mooi, knap",1007.4
+118,nova,adjective,nieuw,1001.4
+119,tute,adverb,"helemaal, volledig",999.5
+120,peti,verb,"vragen om, verzoeken",976.2
+121,kompreni,verb,begrijpen,950.7
+122,eĉ,adverb,zelfs,940.6
+123,tuta,adjective,"heel, geheel",931.3
+124,bonvoli,verb,de goedheid hebben (bonvolu: alstublieft),917.2
+125,laboro,noun,"werk, arbeid",901.1
+126,labori,verb,werken,897.5
+127,ĝis,preposition,tot,893.4
+128,jen,particle,"kijk, hier is",888.6
+129,vivi,verb,leven,886.5
+130,iom,correlative,"wat, een beetje",879.7
+131,atendi,verb,"wachten, verwachten",875.2
+132,laŭ,preposition,"volgens, langs",873.0
+133,patro,noun,vader,860.1
+134,sen,preposition,zonder,846.4
+135,rigardi,verb,"kijken naar, bekijken",845.7
+136,provi,verb,proberen,845.4
+137,lerni,verb,leren,842.3
+138,aŭto,noun,auto,836.6
+139,tiom,correlative,zoveel,834.6
+140,legi,verb,lezen,827.6
+141,vorto,noun,woord,821.7
+142,tri,numeral,drie,819.5
+143,kelka,adjective,"enkele, een paar",803.7
+144,aŭdi,verb,horen,800.5
+145,ami,verb,"houden van, liefhebben",792.9
+146,loĝi,verb,wonen,789.0
+147,horo,noun,uur,784.7
+148,deziri,verb,"verlangen, wensen",777.7
+149,ofte,adverb,vaak,773.4
+150,ajn,particle,"ook maar, dan ook (bij ki- en i-woorden)",765.6
+151,senti,verb,voelen,764.4
+152,sola,adjective,"alleen, enig",758.4
+153,mem,particle,zelf,756.7
+154,mondo,noun,wereld,752.4
+155,problemo,noun,probleem,751.6
+156,viro,noun,man,746.3
+157,hundo,noun,hond,742.8
+158,kia,correlative,wat voor,740.1
+159,eble,adverb,"misschien, mogelijk",738.7
+160,lasi,verb,laten,735.1
+161,koni,verb,kennen,726.9
+162,tia,correlative,"zo'n, zulk",725.5
+163,ŝajni,verb,"schijnen, lijken",724.7
+164,hejme,adverb,thuis,716.1
+165,lando,noun,land,698.8
+166,uzi,verb,gebruiken,697.4
+167,morgaŭ,adverb,morgen,677.3
+168,hieraŭ,adverb,gisteren,674.6
+169,preni,verb,"nemen, pakken",672.9
+170,opinii,verb,"vinden, menen",672.7
+171,iam,correlative,"ooit, eens",666.7
+172,ludi,verb,spelen,666.5
+173,patrino,noun,moeder,663.3
+174,virino,noun,vrouw,662.8
+175,ĉambro,noun,kamer,653.8
+176,inter,preposition,"tussen, onder",653.3
+177,alveni,verb,aankomen,640.0
+178,kontraŭ,preposition,"tegen, tegenover",637.7
+179,ekzisti,verb,bestaan,635.2
+180,unua,adjective,eerste,634.1
+181,akvo,noun,water,630.7
+182,morti,verb,"sterven, doodgaan",628.0
+183,skribi,verb,schrijven,628.0
+184,lernejo,noun,school,626.1
+185,franca,adjective,Frans,625.9
+186,sukcesi,verb,"slagen, succes hebben",624.7
+187,ja,particle,"immers, wel (nadruk)",619.9
+188,demandi,verb,vragen (een vraag stellen),617.3
+189,urbo,noun,stad,613.2
+190,foriri,verb,"weggaan, vertrekken",611.7
+191,forgesi,verb,vergeten,592.1
+192,trinki,verb,drinken,588.7
+193,angla,adjective,Engels,582.5
+194,rajti,verb,"mogen, het recht hebben",579.1
+195,do,particle,"dus, dan",576.2
+196,frazo,noun,zin,572.7
+197,dek,numeral,tien,568.1
+198,tuj,adverb,"meteen, onmiddellijk",563.5
+199,nomo,noun,naam,556.6
+200,aspekti,verb,eruitzien,553.7
+201,demando,noun,vraag,550.6
+202,kato,noun,kat,550.6
+203,iĝi,verb,worden,543.6
+204,viziti,verb,bezoeken,533.0
+205,kapabli,verb,"in staat zijn, kunnen",526.6
+206,perdi,verb,verliezen,520.9
+207,ricevi,verb,"ontvangen, krijgen",520.1
+208,dio,noun,"God, god",517.3
+209,reveni,verb,terugkomen,516.8
+210,rapide,adverb,snel,514.8
+211,preskaŭ,adverb,bijna,512.0
+212,timi,verb,"vrezen, bang zijn",510.1
+213,ilia,possessive,hun,510.0
+214,sufiĉe,adverb,"genoeg, voldoende",507.4
+215,dormi,verb,slapen,505.5
+216,longe,adverb,lang,504.8
+217,pordo,noun,deur,494.2
+218,knabo,noun,jongen,491.5
+219,ĉesi,verb,"ophouden, stoppen",483.2
+220,plaĉi,verb,"bevallen, aanstaan",482.5
+221,frato,noun,broer,480.8
+222,esperi,verb,hopen,479.5
+223,okulo,noun,oog,478.9
+224,komenci,verb,beginnen,476.9
+225,mano,noun,hand,475.5
+226,vero,noun,waarheid,472.8
+227,tiam,correlative,"toen, dan",470.2
+228,knabino,noun,meisje,469.7
+229,malbona,adjective,slecht,468.3
+230,edzino,noun,"echtgenote, vrouw",461.8
+231,renkonti,verb,ontmoeten,461.1
+232,ideo,noun,idee,459.0
+233,instruisto,noun,"leraar, onderwijzer",450.8
+234,loko,noun,plaats,450.8
+235,simple,adverb,"gewoon, eenvoudig",449.6
+236,necesi,verb,nodig zijn,444.6
+237,filo,noun,zoon,444.3
+238,persono,noun,persoon,443.8
+239,serĉi,verb,zoeken,435.4
+240,studi,verb,studeren,435.0
+241,gepatro,noun,ouder (vader of moeder),431.4
+242,vojo,noun,weg,430.6
+243,meti,verb,"zetten, plaatsen, leggen",429.2
+244,montri,verb,"tonen, laten zien",428.9
+245,baldaŭ,adverb,binnenkort,428.7
+246,denove,adverb,opnieuw,424.9
+247,juna,adjective,jong,423.9
+248,lasta,adjective,laatste,420.6
+249,memori,verb,"zich herinneren, onthouden",417.0
+250,ebli,verb,mogelijk zijn,414.8
+251,grava,adjective,belangrijk,410.0
+252,longa,adjective,lang,406.4
+253,feliĉa,adjective,gelukkig,405.7
+254,eraro,noun,"fout, vergissing",398.2
+255,amo,noun,liefde,397.0
+256,tra,preposition,door,392.2
+257,letero,noun,brief,391.3
+258,atingi,verb,bereiken,388.9
+259,troviĝi,verb,"zich bevinden, te vinden zijn",388.2
+260,aŭskulti,verb,luisteren,388.1
+261,fratino,noun,"zus, zuster",388.1
+262,arbo,noun,boom,387.2
+263,apud,preposition,"naast, bij",385.8
+264,scipovi,verb,"kunnen, beheersen",385.5
+265,nek,conjunction,noch,383.1
+266,antaŭe,adverb,"eerder, vroeger",382.6
+267,decidi,verb,"beslissen, besluiten",381.9
+268,malgranda,adjective,klein,381.7
+269,nokto,noun,nacht,381.2
+270,eliri,verb,"naar buiten gaan, verlaten",380.9
+271,respondi,verb,antwoorden,378.8
+272,vespere,adverb,'s avonds,377.9
+273,semajno,noun,week,376.7
+274,propra,adjective,eigen,369.7
+275,certe,adverb,zeker,368.2
+276,fojo,noun,"keer, maal",366.8
+277,sama,adjective,"dezelfde, gelijk",366.8
+278,vera,adjective,"waar, echt",362.0
+279,poste,adverb,"daarna, later",361.0
+280,sub,preposition,onder,355.3
+281,familio,noun,familie,355.1
+282,fariĝi,verb,worden,354.3
+283,frue,adverb,vroeg,350.7
+284,esperanto,noun,Esperanto (de taal),349.3
+285,ĵus,adverb,"net, zojuist",349.3
+286,ambaŭ,adjective,beide,348.1
+287,sidi,verb,zitten,342.8
+288,pagi,verb,betalen,341.1
+289,eniri,verb,"binnengaan, binnenkomen",339.2
+290,alta,adjective,"hoog, groot (van gestalte)",337.0
+291,ŝanĝi,verb,"veranderen, wisselen",336.1
+292,kafo,noun,koffie,330.4
+293,kvin,numeral,vijf,330.1
+294,kuracisto,noun,"dokter, arts",329.9
+295,facile,adverb,"gemakkelijk, makkelijk",328.4
+296,ekde,preposition,"sinds, vanaf",327.9
+297,malpli,adverb,minder,325.8
+298,helpo,noun,hulp,325.3
+299,tablo,noun,tafel,324.8
+300,ruĝa,adjective,rood,322.2
+301,fenestro,noun,"raam, venster",321.2
+302,gravi,verb,belangrijk zijn,320.1
+303,tamen,adverb,"toch, echter",316.7
+304,ĉirkaŭ,preposition,"rond, om, ongeveer",313.6
+305,filmo,noun,film,312.9
+306,malnova,adjective,oud,309.7
+307,trajno,noun,trein,309.5
+308,rakonti,verb,vertellen,309.3
+309,forlasi,verb,verlaten,309.0
+310,koro,noun,hart,308.0
+311,akcepti,verb,"aannemen, accepteren",307.8
+312,tero,noun,"aarde, grond",307.6
+313,kanti,verb,zingen,307.3
+314,pasigi,verb,doorbrengen (tijd),306.3
+315,jes,particle,ja,306.1
+316,sendi,verb,"sturen, zenden",305.4
+317,sinjoro,noun,"meneer, heer",305.4
+318,blanka,adjective,wit,305.2
+319,malfermi,verb,openen,305.1
+320,manki,verb,"ontbreken, missen",303.9
+321,naĝi,verb,zwemmen,303.7
+322,matene,adverb,'s ochtends,300.9
+323,opinio,noun,mening,300.8
+324,kvazaŭ,conjunction,alsof,299.9
+325,igi,verb,"maken, ertoe brengen",298.2
+326,mortigi,verb,"doden, vermoorden",295.5
+327,preferi,verb,"de voorkeur geven aan, liever hebben",293.9
+328,morto,noun,dood,293.1
+329,intenci,verb,"van plan zijn, voornemens zijn",292.5
+330,stari,verb,staan,292.2
+331,minuto,noun,minuut,291.7
+332,strato,noun,straat,289.1
+333,verŝajne,adverb,waarschijnlijk,286.9
+334,malfacile,adverb,"moeilijk, met moeite",286.2
+335,floro,noun,bloem,285.9
+336,teni,verb,"houden, vasthouden",285.3
+337,kune,adverb,samen,285.0
+338,instrui,verb,"onderwijzen, lesgeven",283.5
+339,fini,verb,"beëindigen, afmaken",283.1
+340,konsideri,verb,"beschouwen, overwegen",282.8
+341,gajni,verb,"winnen, verdienen",281.9
+342,filino,noun,dochter,280.2
+343,verda,adjective,groen,279.9
+344,monato,noun,maand,278.8
+345,kapo,noun,hoofd,278.5
+346,dua,adjective,tweede,277.6
+347,porti,verb,"dragen, brengen",277.3
+348,plenumi,verb,"vervullen, uitvoeren",276.6
+349,bedaŭri,verb,"betreuren, spijt hebben",275.4
+350,ĉiutage,adverb,"elke dag, dagelijks",275.1
+351,muziko,noun,muziek,270.1
+352,ĝardeno,noun,tuin,267.8
+353,kuri,verb,"rennen, hardlopen",265.8
+354,besto,noun,dier,265.4
+355,festo,noun,feest,265.3
+356,agi,verb,"handelen, doen",264.8
+357,historio,noun,geschiedenis,264.1
+358,ĉielo,noun,"hemel, lucht",262.5
+359,zorgi,verb,"zorgen, zich bekommeren",262.4
+360,finfine,adverb,"eindelijk, uiteindelijk",262.0
+361,signifi,verb,betekenen,260.5
+362,iomete,adverb,een beetje,260.0
+363,manĝaĵo,noun,"eten, voedsel",259.3
+364,fali,verb,vallen,259.1
+365,sekvi,verb,volgen,258.9
+366,ege,adverb,"uiterst, buitengewoon",257.9
+367,rivero,noun,rivier,257.2
+368,respondo,noun,antwoord,256.2
+369,kutime,adverb,gewoonlijk,255.7
+370,telefoni,verb,"bellen, telefoneren",251.6
+371,maniero,noun,manier,250.5
+372,nomi,verb,"noemen, benoemen",249.8
+373,klarigi,verb,uitleggen,247.6
+374,studento,noun,student,247.6
+375,forta,adjective,sterk,246.6
+376,milito,noun,oorlog,246.2
+377,mil,numeral,duizend,245.9
+378,birdo,noun,vogel,244.5
+379,nigra,adjective,zwart,244.5
+380,situacio,noun,"situatie, toestand",244.5
+381,vetero,noun,weer,244.0
+382,surhavi,verb,"aanhebben, dragen (kleding)",243.3
+383,suno,noun,zon,243.0
+384,naskiĝi,verb,geboren worden,242.5
+385,elekti,verb,"kiezen, uitkiezen",242.1
+386,plia,adjective,"verder, extra",241.3
+387,kapti,verb,"vangen, grijpen",240.4
+388,malfacila,adjective,"moeilijk, lastig",240.4
+389,arbaro,noun,bos,239.6
+390,veturi,verb,"rijden, reizen (met een voertuig)",239.6
+391,momento,noun,"ogenblik, moment",238.5
+392,danko,noun,dank,237.5
+393,kosti,verb,kosten,237.3
+394,plena,adjective,"vol, volledig",236.0
+395,krom,preposition,"behalve, naast",235.8
+396,parto,noun,deel,235.6
+397,fidi,verb,vertrouwen,235.3
+398,plano,noun,plan,234.2
+399,certi,verb,zeker zijn,234.1
+400,germana,adjective,Duits,234.1
+401,pluvi,verb,regenen,233.6
+402,edzo,noun,"echtgenoot, man",232.5
+403,maljuna,adjective,oud (van mensen),232.4
+404,mensogi,verb,liegen,232.4
+405,celo,noun,"doel, bedoeling",229.6
+406,konsenti,verb,"het eens zijn, instemmen",227.6
+407,permesi,verb,"toestaan, toelaten",226.5
+408,atenti,verb,"opletten, aandacht schenken",225.5
+409,same,adverb,"eveneens, op dezelfde manier",225.5
+410,japana,adjective,Japans,224.6
+411,vizaĝo,noun,gezicht,224.3
+412,vendi,verb,verkopen,224.1
+413,kvar,numeral,vier,223.8
+414,komputilo,noun,computer,223.4
+415,certa,adjective,"zeker, vast",222.9
+416,plori,verb,"huilen, wenen",221.7
+417,vino,noun,wijn,220.7
+418,ekstere,adverb,buiten,220.2
+419,novaĵo,noun,"nieuws, nieuwtje",219.5
+420,ĝia,possessive,zijn (van het),218.5
+421,malfrue,adverb,laat,218.5
+422,temi,verb,gaan over,218.3
+423,kvankam,conjunction,hoewel,217.4
+424,pano,noun,brood,217.1
+425,funkcii,verb,"functioneren, werken",216.2
+426,fakte,adverb,"in feite, eigenlijk",215.9
+427,alporti,verb,"brengen, halen",213.8
+428,pardoni,verb,vergeven,213.8
+429,for,adverb,weg,212.8
+430,ĝuste,adverb,"precies, juist",212.5
+431,kies,correlative,wiens,211.8
+432,kreski,verb,groeien,211.8
+433,daŭri,verb,"duren, voortduren",210.7
+434,konduki,verb,"leiden, brengen",209.7
+435,lumo,noun,licht,209.4
+436,blua,adjective,blauw,209.0
+437,akiri,verb,"verkrijgen, verwerven",208.7
+438,vojaĝi,verb,reizen,208.0
+439,teo,noun,thee,207.8
+440,akcidento,noun,"ongeluk, ongeval",207.7
+441,riĉa,adjective,rijk,206.6
+442,kaŝi,verb,"verbergen, verstoppen",206.5
+443,ho,interjection,oh,206.3
+444,pomo,noun,appel,206.1
+445,malami,verb,haten,205.6
+446,lavi,verb,wassen,205.4
+447,maro,noun,zee,205.3
+448,donaco,noun,"geschenk, cadeau",204.9
+449,ludo,noun,spel,204.7
+450,lito,noun,bed,204.4
+451,interesa,adjective,interessant,203.9
+452,ĉevalo,noun,paard,202.2
+453,stulta,adjective,dom,202.2
+454,stranga,adjective,"vreemd, raar",202.0
+455,promesi,verb,beloven,201.1
+456,tasko,noun,"taak, opdracht",199.9
+457,homa,adjective,menselijk,199.8
+458,pasi,verb,"voorbijgaan, passeren",199.6
+459,skatolo,noun,doos,199.6
+460,fumi,verb,roken,199.4
+461,rimarki,verb,"opmerken, merken",199.1
+462,traduki,verb,vertalen,198.4
+463,venki,verb,"overwinnen, winnen",197.7
+464,foto,noun,foto,197.4
+465,popolo,noun,volk,195.5
+466,restoracio,noun,restaurant,195.5
+467,finiĝi,verb,"eindigen, aflopen",195.1
+468,parko,noun,park,195.0
+469,tial,correlative,daarom,194.8
+470,buso,noun,bus,194.5
+471,fermi,verb,"sluiten, dichtdoen",193.3
+472,aparteni,verb,"behoren tot, toebehoren",193.1
+473,muro,noun,muur,193.1
+474,polico,noun,politie,193.1
+475,spekti,verb,"toekijken, kijken naar",192.6
+476,vojaĝo,noun,reis,191.7
+477,regi,verb,"regeren, heersen",190.5
+478,multo,noun,"grote hoeveelheid, veel",190.3
+479,trafi,verb,"raken, treffen",190.2
+480,kaŭzi,verb,veroorzaken,189.8
+481,ridi,verb,lachen,189.5
+482,unue,adverb,"eerst, ten eerste",189.5
+483,venonta,adjective,"volgende, komende",188.8
+484,ekzameno,noun,"examen, toets",188.3
+485,farti,verb,"zich voelen, het maken (gezondheid)",187.6
+486,lakto,noun,melk,187.6
+487,ĝui,verb,genieten,187.4
+488,nomiĝi,verb,heten,187.3
+489,aperi,verb,verschijnen,186.7
+490,ĝusta,adjective,"juist, correct",186.7
+491,super,preposition,"boven, over",186.4
+492,malfrui,verb,te laat zijn,185.5
+493,fiŝo,noun,vis,185.4
+494,supozi,verb,"veronderstellen, aannemen",184.7
+495,haro,noun,haar,184.5
+496,leĝo,noun,wet,184.3
+497,ĝoji,verb,"blij zijn, zich verheugen",184.0
+498,fakto,noun,feit,183.7
+499,ĉeesti,verb,aanwezig zijn,183.0
+500,kuŝi,verb,liggen,182.6
+501,imagi,verb,"zich voorstellen, zich verbeelden",182.5
+502,daŭre,adverb,voortdurend,181.3
+503,pravi,verb,gelijk hebben,181.1
+504,kisi,verb,"kussen, zoenen",180.7
+505,oficejo,noun,"kantoor, bureau",180.2
+506,ŝategi,verb,"erg leuk vinden, zeer waarderen",180.2
+507,ulo,noun,"vent, kerel",179.9
+508,amikino,noun,vriendin,179.7
+509,bildo,noun,"beeld, afbeelding",179.5
+510,lernanto,noun,leerling,179.0
+511,tridek,numeral,dertig,179.0
+512,biciklo,noun,fiets,178.0
+513,malsana,adjective,ziek,177.8
+514,korpo,noun,lichaam,177.7
+515,nokte,adverb,'s nachts,177.7
+516,plura,adjective,"meerdere, verscheidene",177.5
+517,ŝuo,noun,schoen,176.6
+518,konsilo,noun,"raad, advies",176.5
+519,kialo,noun,reden,176.3
+520,reĝo,noun,koning,175.9
+521,sento,noun,gevoel,175.9
+522,monto,noun,berg,175.6
+523,almenaŭ,adverb,"minstens, tenminste",175.3
+524,apenaŭ,adverb,"nauwelijks, amper",175.3
+525,pasinta,adjective,"vorig, afgelopen",175.3
+526,precize,adverb,"precies, nauwkeurig",175.3
+527,nu,particle,"nou, welnu",175.1
+528,simili,verb,lijken op,174.9
+529,voĉo,noun,stem,174.4
+530,voki,verb,roepen,174.2
+531,suferi,verb,lijden,174.1
+532,fino,noun,einde,173.9
+533,ŝlosilo,noun,sleutel,173.5
+534,komenciĝi,verb,beginnen (onovergankelijk),173.4
+535,sukceso,noun,succes,173.4
+536,rifuzi,verb,"weigeren, afwijzen",173.2
+537,laca,adjective,moe,173.0
+538,glaso,noun,glas,172.5
+539,eta,adjective,"klein, piepklein",171.8
+540,konstrui,verb,bouwen,171.8
+541,preta,adjective,"klaar, gereed",171.3
+542,verki,verb,"schrijven (een werk), componeren",170.8
+543,alvoki,verb,oproepen,170.4
+544,kuiri,verb,koken,170.3
+545,dudek,numeral,twintig,170.1
+546,temo,noun,"onderwerp, thema",169.2
+547,libera,adjective,vrij,168.6
+548,prepari,verb,"voorbereiden, klaarmaken",168.4
+549,solvi,verb,oplossen,167.5
+550,flugi,verb,vliegen,167.4
+551,pluvo,noun,regen,167.2
+552,hejmo,noun,"huis, thuis",166.3
+553,rezulto,noun,"resultaat, uitkomst",166.2
+554,ŝipo,noun,schip,166.0
+555,rakonto,noun,verhaal,165.8
+556,telefono,noun,telefoon,165.3
+557,ŝanco,noun,kans,164.3
+558,rompi,verb,breken,163.4
+559,ŝteli,verb,stelen,162.4
+560,aĝo,noun,leeftijd,162.0
+561,malantaŭ,preposition,achter,161.5
+562,feliĉo,noun,geluk,161.4
+563,eviti,verb,"vermijden, ontwijken",161.0
+564,konstruaĵo,noun,gebouw,161.0
+565,seĝo,noun,stoel,160.7
+566,ekscii,verb,"te weten komen, vernemen",160.3
+567,ĵeti,verb,"gooien, werpen",160.2
+568,biero,noun,bier,159.5
+569,purigi,verb,"schoonmaken, reinigen",159.5
+570,subite,adverb,plotseling,159.0
+571,malamiko,noun,vijand,158.8
+572,postuli,verb,"eisen, vereisen",158.6
+573,preti,verb,klaar zijn,158.4
+574,vento,noun,wind,158.3
+575,kanto,noun,lied,157.8
+576,prezo,noun,prijs,157.8
+577,dolaro,noun,dollar,157.1
+578,des,particle,des te (in ju pli … des pli: hoe meer … des te meer),156.9
+579,sano,noun,gezondheid,156.9
+580,ŝajne,adverb,"blijkbaar, schijnbaar",156.7
+581,sinjorino,noun,mevrouw,156.7
+582,kuko,noun,"taart, koek",156.6
+583,forto,noun,kracht,156.0
+584,vortaro,noun,woordenboek,156.0
+585,hotelo,noun,hotel,155.9
+586,decido,noun,"besluit, beslissing",155.5
+587,ĝeni,verb,"storen, hinderen",155.5
+588,rezigni,verb,"opgeven, afzien van",155.4
+589,fine,adverb,"eindelijk, tot slot",155.2
+590,frukto,noun,"fruit, vrucht",154.7
+591,panjo,noun,mama,154.0
+592,danci,verb,dansen,153.8
+593,simpla,adjective,eenvoudig,153.8
+594,duono,noun,helft,152.3
+595,proponi,verb,"voorstellen, aanbieden",152.3
+596,scivoli,verb,"nieuwsgierig zijn, zich afvragen",151.9
+597,koloro,noun,kleur,151.6
+598,malsano,noun,ziekte,151.6
+599,varma,adjective,warm,151.6
+600,reiri,verb,teruggaan,151.2
+601,kelkfoje,adverb,"soms, enkele keren",151.1
+602,bebo,noun,baby,150.9
+603,pripensi,verb,"overdenken, nadenken over",150.4
+604,aĵo,noun,"ding, voorwerp",150.2
+605,piedo,noun,voet,150.2
+606,nepre,adverb,"beslist, absoluut",150.0
+607,bedaŭrinde,adverb,helaas,149.9
+608,folio,noun,blad,149.9
+609,regulo,noun,regel,149.7
+610,ses,numeral,zes,149.7
+611,estonteco,noun,toekomst,149.5
+612,farita,adjective,"gedaan, gemaakt",149.5
+613,okupata,adjective,"bezig, bezet",149.4
+614,ovo,noun,ei,149.4
+615,projekto,noun,"project, plan",149.2
+616,starigi,verb,"oprichten, rechtop zetten",148.8
+617,ŝatata,adjective,"geliefd, favoriet",148.7
+618,aldoni,verb,toevoegen,148.5
+619,fama,adjective,"beroemd, befaamd",148.0
+620,prezenti,verb,"voorstellen, presenteren",148.0
+621,aĝa,adjective,"bejaard, op leeftijd",147.6
+622,fajro,noun,vuur,147.3
+623,bonega,adjective,"uitstekend, geweldig",147.1
+624,kristnasko,noun,Kerstmis,147.0
+625,halti,verb,"stoppen, halt houden",146.6
+626,bruna,adjective,bruin,145.8
+627,posedi,verb,bezitten,145.8
+628,diferenco,noun,verschil,145.4
+629,ia,correlative,"een of andere, van enige soort",145.2
+630,penso,noun,gedachte,144.7
+631,promeni,verb,wandelen,144.7
+632,krei,verb,"scheppen, creëren",144.4
+633,erari,verb,"zich vergissen, dwalen",144.2
+634,animo,noun,"ziel, gemoed",143.9
+635,danki,verb,"bedanken, danken",143.7
+636,najbaro,noun,buur,142.8
+637,ŝanĝiĝi,verb,veranderen (onovergankelijk),142.5
+638,flanko,noun,"kant, zijde",142.3
+639,malbone,adverb,slecht,142.0
+640,propono,noun,"voorstel, aanbod",142.0
+641,trakti,verb,behandelen,141.8
+642,neĝo,noun,sneeuw,141.1
+643,malvarma,adjective,koud,140.8
+644,usona,adjective,Amerikaans (van de VS),140.3
+645,ju,particle,hoe (in ju pli … des pli: hoe meer … des te meer),139.2
+646,vilaĝo,noun,dorp,139.1
+647,enlitiĝi,verb,naar bed gaan,138.9
+648,edziĝi,verb,trouwen (van een man),138.7
+649,ellitiĝi,verb,opstaan (uit bed),138.7
+650,proksime,adverb,"dichtbij, nabij",138.6
+651,registaro,noun,regering,138.6
+652,insulo,noun,eiland,138.4
+653,rajto,noun,recht,138.2
+654,prefere,adverb,"liever, bij voorkeur",137.7
+655,aviadilo,noun,vliegtuig,137.2
+656,boni,verb,goed zijn,137.2
+657,ĉapelo,noun,hoed,136.7
+658,malmulta,adjective,weinig,136.3
+659,emi,verb,"geneigd zijn, neigen",136.2
+660,valori,verb,"waard zijn, gelden",136.2
+661,inviti,verb,uitnodigen,136.0
+662,ĉemizo,noun,overhemd,135.8
+663,anstataŭ,preposition,in plaats van,135.5
+664,konfesi,verb,"bekennen, belijden",135.5
+665,malaperi,verb,verdwijnen,135.5
+666,klaso,noun,klas,135.1
+667,facila,adjective,"gemakkelijk, eenvoudig",135.0
+668,ĉina,adjective,Chinees,134.6
+669,robo,noun,jurk,134.6
+670,vesto,noun,kledingstuk,134.4
+671,stiri,verb,"sturen, besturen",134.3
+672,terura,adjective,"verschrikkelijk, afschuwelijk",134.1
+673,tuŝi,verb,aanraken,133.8
+674,diskuti,verb,"bespreken, discussiëren",133.2
+675,afabla,adjective,"vriendelijk, aardig",133.1
+676,sufiĉi,verb,"volstaan, genoeg zijn",132.9
+677,interesi,verb,interesseren,132.2
+678,romano,noun,roman,132.2
+679,nuntempe,adverb,tegenwoordig,132.0
+680,proksima,adjective,"dichtbij, nabij",132.0
+681,malsama,adjective,"verschillend, anders",131.7
+682,okazo,noun,"gelegenheid, geval",131.5
+683,stelo,noun,ster,131.4
+684,danĝera,adjective,gevaarlijk,131.2
+685,viando,noun,vlees,131.0
+686,kuirejo,noun,keuken,130.8
+687,savi,verb,redden,130.8
+688,horloĝo,noun,"klok, horloge",130.7
+689,malŝati,verb,"niet leuk vinden, een hekel hebben aan",130.3
+690,proksimume,adverb,ongeveer,130.3
+691,relative,adverb,relatief,130.3
+692,ekiri,verb,"vertrekken, op weg gaan",129.8
+693,mateno,noun,ochtend,129.3
+694,paco,noun,vrede,129.3
+695,vespermanĝo,noun,avondeten,129.3
+696,ĉie,correlative,overal,129.1
+697,espero,noun,hoop,128.8
+698,kastelo,noun,kasteel,128.8
+699,naturo,noun,natuur,128.6
+700,nombro,noun,"getal, aantal",128.6
+701,sekreto,noun,geheim,128.1
+702,kampo,noun,veld,127.9
+703,konsisti,verb,bestaan (uit),127.9
+704,malfermita,adjective,"open, geopend",127.8
+705,inteligenta,adjective,"intelligent, slim",127.6
+706,celi,verb,"mikken op, beogen",127.4
+707,dento,noun,tand,127.2
+708,vestaĵo,noun,kledingstuk,127.2
+709,luno,noun,maan,126.7
+710,leciono,noun,les,126.2
+711,malmulte,adverb,weinig,126.0
+712,situi,verb,"gelegen zijn, zich bevinden",126.0
+713,aero,noun,lucht,125.7
+714,doloro,noun,pijn,125.7
+715,forigi,verb,"verwijderen, wegdoen",125.7
+716,brako,noun,arm,125.5
+717,arto,noun,kunst,125.4
+718,neniel,correlative,op geen enkele manier,125.2
+719,avo,noun,"grootvader, opa",124.5
+720,mesaĝo,noun,bericht,124.5
+721,plani,verb,plannen,124.3
+722,aĝi,verb,… jaar oud zijn,124.1
+723,informo,noun,"informatie, inlichting",124.1
+724,vespero,noun,avond,124.1
+725,religio,noun,"religie, godsdienst",124.0
+726,kutimi,verb,"gewoon zijn te, plegen",123.6
+727,ree,adverb,"weer, opnieuw",123.6
+728,flava,adjective,geel,123.3
+729,ago,noun,"daad, handeling",123.1
+730,universitato,noun,universiteit,122.9
+731,plezuro,noun,"plezier, genoegen",122.6
+732,rusa,adjective,Russisch,122.4
+733,sako,noun,zak,122.4
+734,revo,noun,droom,121.9
+735,daŭrigi,verb,"voortzetten, doorgaan met",121.7
+736,manĝo,noun,"maaltijd, eten",121.7
+737,biblioteko,noun,bibliotheek,121.6
+738,foje,adverb,"eens, soms",121.6
+739,interesiĝi,verb,"belangstelling hebben, geïnteresseerd zijn",121.6
+740,onklo,noun,oom,121.6
+741,mallonga,adjective,kort,121.4
+742,nutraĵo,noun,"voedsel, levensmiddel",121.4
+743,fremda,adjective,"vreemd, buitenlands",121.2
+744,ripari,verb,"repareren, herstellen",120.9
+745,sperto,noun,ervaring,120.5
+746,taso,noun,"kopje, kop",120.2
+747,ŝajnigi,verb,"doen alsof, voorwenden",120.0
+748,konduti,verb,zich gedragen,119.7
+749,soni,verb,klinken,119.7
+750,rapidi,verb,zich haasten,119.5
+751,konservi,verb,bewaren,119.2
+752,tria,adjective,derde,119.2
+753,rilato,noun,"relatie, verband",119.0
+754,malkovri,verb,ontdekken,118.8
+755,vekiĝi,verb,wakker worden,118.7
+756,amuza,adjective,"grappig, amusant",118.1
+757,pardono,noun,vergeving,117.6
+758,elteni,verb,"verdragen, uithouden",117.5
+759,diversa,adjective,"verschillend, divers",117.3
+760,lago,noun,meer,117.3
+761,partopreni,verb,deelnemen,117.1
+762,koleri,verb,boos zijn,116.9
+763,saĝa,adjective,wijs,116.8
+764,dika,adjective,dik,116.4
+765,cent,numeral,honderd,116.3
+766,teamo,noun,"team, ploeg",116.1
+767,kunveno,noun,"bijeenkomst, vergadering",115.9
+768,agrabla,adjective,"aangenaam, prettig",115.7
+769,butiko,noun,winkel,115.7
+770,konduto,noun,gedrag,115.7
+771,eblo,noun,mogelijkheid,115.2
+772,scio,noun,kennis,115.2
+773,konsili,verb,"adviseren, aanraden",115.1
+774,multekosta,adjective,duur,115.1
+775,danĝero,noun,gevaar,114.9
+776,pura,adjective,"schoon, zuiver",114.7
+777,bruo,noun,"lawaai, geluid",114.5
+778,esprimi,verb,uitdrukken,114.5
+779,timo,noun,"angst, vrees",114.5
+780,deziro,noun,"wens, verlangen",114.4
+781,planedo,noun,planeet,114.4
+782,ĉefurbo,noun,hoofdstad,114.2
+783,kalkuli,verb,"rekenen, berekenen",114.2
+784,mortinta,adjective,"dood, gestorven",114.2
+785,malofte,adverb,zelden,114.0
+786,silenti,verb,zwijgen,114.0
+787,taŭgi,verb,"deugen, geschikt zijn",113.9
+788,buŝo,noun,mond,113.5
+789,malrapide,adverb,langzaam,113.5
+790,dolori,verb,pijn doen,113.3
+791,hejmtasko,noun,huiswerk,113.3
+792,estro,noun,"leider, baas",113.0
+793,renkontiĝi,verb,elkaar ontmoeten,113.0
+794,rozo,noun,roos,112.8
+795,orelo,noun,oor,112.7
+796,konata,adjective,bekend,112.1
+797,grupo,noun,groep,112.0
+798,kioma,adjective,hoeveelste (in volgorde),112.0
+799,solvo,noun,oplossing,112.0
+800,somero,noun,zomer,112.0
+801,ŝerco,noun,grap,111.8
+802,hispana,adjective,Spaans,111.5
+803,sep,numeral,zeven,111.3
+804,posteno,noun,"functie, baan, post",111.1
+805,sciigi,verb,"laten weten, op de hoogte brengen",111.1
+806,freneza,adjective,"gek, krankzinnig",110.9
+807,plendi,verb,klagen,110.9
+808,kontroli,verb,controleren,110.4
+809,junulo,noun,"jongere, jongeman",110.1
+810,prezidanto,noun,"voorzitter, president",110.1
+811,ferio,noun,"vakantie, vrije dag",109.7
+812,kontenta,adjective,tevreden,109.1
+813,mensogo,noun,leugen,109.1
+814,ie,correlative,ergens,108.7
+815,neniom,correlative,"niets, in het geheel niet",108.7
+816,stacidomo,noun,station,108.7
+817,ŝtono,noun,steen,108.7
+818,surmeti,verb,"aantrekken, opzetten",108.7
+819,gazeto,noun,"krant, tijdschrift",108.5
+820,kruro,noun,been,108.5
+821,medikamento,noun,"medicijn, geneesmiddel",108.5
+822,malgraŭ,preposition,ondanks,108.4
+823,ĉarma,adjective,"charmant, bekoorlijk",107.9
+824,maljunulo,noun,"oude man, oudere",107.9
+825,bati,verb,slaan,107.7
+826,france,adverb,in het Frans,107.7
+827,avino,noun,"grootmoeder, oma",107.3
+828,jarcento,noun,eeuw,107.2
+829,levi,verb,"optillen, opheffen",107.2
+830,gasto,noun,gast,107.0
+831,meriti,verb,"verdienen, waard zijn",107.0
+832,aliulo,noun,iemand anders,106.8
+833,komenco,noun,begin,106.8
+834,malfacili,verb,moeilijk zijn,106.8
+835,belega,adjective,prachtig,106.7
+836,paĉjo,noun,papa,106.7
+837,posttagmeze,adverb,'s middags,106.7
+838,edziniĝi,verb,trouwen (van een vrouw),106.5
+839,tranĉilo,noun,mes,106.5
+840,dependi,verb,afhangen,106.3
+841,menso,noun,"geest, verstand",106.3
+842,botelo,noun,fles,106.0
+843,donaci,verb,"schenken, cadeau geven",106.0
+844,fojfoje,adverb,"af en toe, nu en dan",106.0
+845,koramikino,noun,vriendin (liefdespartner),106.0
+846,griza,adjective,grijs,105.8
+847,konscii,verb,zich bewust zijn,105.5
+848,ponto,noun,brug,105.3
+849,rekoni,verb,herkennen,105.3
+850,batali,verb,"vechten, strijden",104.9
+851,disponi,verb,beschikken over,104.9
+852,malsanulejo,noun,ziekenhuis,104.9
+853,formo,noun,vorm,104.8
+854,ene,adverb,"binnen, erin",104.3
+855,drinki,verb,alcohol drinken,103.9
+856,enhavi,verb,"bevatten, inhouden",103.7
+857,klopodi,verb,"moeite doen, streven, pogen",103.7
+858,veri,verb,waar zijn,103.7
+859,ĝustatempe,adverb,"op tijd, tijdig",103.6
+860,eskapi,verb,"ontsnappen, ontkomen",103.4
+861,krii,verb,"schreeuwen, roepen",103.4
+862,kaŭzo,noun,oorzaak,103.1
+863,ordo,noun,orde,103.1
+864,supo,noun,soep,103.1
+865,okupita,adjective,"bezig, bezet",102.9
+866,enamiĝi,verb,verliefd worden,102.7
+867,forte,adverb,"sterk, krachtig",102.7
+868,politiko,noun,politiek,102.7
+869,bongusta,adjective,"lekker, smakelijk",102.4
+870,televido,noun,televisie,102.4
+871,entrepreno,noun,"onderneming, project",102.0
+872,peco,noun,stuk,102.0
+873,turni,verb,"draaien, keren",102.0
+874,klare,adverb,duidelijk,101.9
+875,mirinda,adjective,"wonderlijk, verbazingwekkend",101.7
+876,marŝi,verb,"lopen, marcheren",101.3
+877,rideti,verb,glimlachen,101.3
+878,ĉefa,adjective,"hoofd-, voornaamste",101.0
+879,fermita,adjective,gesloten,101.0
+880,observi,verb,"waarnemen, observeren",100.8
+881,papero,noun,papier,100.8
+882,ties,correlative,"van die, diens",100.8
+883,sonĝo,noun,droom (tijdens de slaap),100.5
+884,teksto,noun,tekst,100.5
+885,demeti,verb,"uitdoen, neerleggen",100.3
+886,akompani,verb,begeleiden,100.1
+887,antikva,adjective,"oud, antiek",100.1
+888,aserti,verb,beweren,100.1
+889,ŝtato,noun,staat,99.8
+890,elekto,noun,"keuze, verkiezing",99.6
+891,ĝojo,noun,"vreugde, blijdschap",99.6
+892,maltrafi,verb,"missen, mislopen",99.6
+893,ok,numeral,acht,99.6
+894,traduko,noun,vertaling,99.6
+895,rimedo,noun,middel,99.1
+896,ripozi,verb,"rusten, uitrusten",98.9
+897,malriĉa,adjective,arm,98.8
+898,rapida,adjective,"snel, vlug",98.8
+899,regiono,noun,"streek, regio",98.6
+900,banko,noun,bank,97.9
+901,lundo,noun,maandag,97.9
+902,kutimo,noun,gewoonte,97.6
+903,malsati,verb,honger hebben,97.4
+904,scienco,noun,wetenschap,97.2
+905,sekva,adjective,volgende,96.5
+906,subteni,verb,"steunen, ondersteunen",96.4
+907,preĝejo,noun,kerk,95.7
+908,sistemo,noun,systeem,95.7
+909,superi,verb,overtreffen,95.7
+910,konvinki,verb,overtuigen,95.5
+911,malproksime,adverb,ver weg,95.5
+912,vintro,noun,winter,95.3
+913,saluto,noun,"groet, begroeting",95.2
+914,miliono,noun,miljoen,95.0
+915,matematiko,noun,wiskunde,94.8
+916,soldato,noun,soldaat,94.8
+917,firmao,noun,"bedrijf, firma",94.7
+918,frapi,verb,"slaan, kloppen",94.7
+919,grandega,adjective,"enorm, reusachtig",94.7
+920,kompreneble,adverb,"natuurlijk, vanzelfsprekend",94.7
+921,kulturo,noun,cultuur,94.7
+922,mendi,verb,bestellen,94.7
+923,supre,adverb,"boven, omhoog",94.7
+924,kapablo,noun,"vermogen, bekwaamheid",94.5
+925,raporto,noun,"verslag, rapport",94.3
+926,veki,verb,wekken,94.3
+927,komuna,adjective,"gemeenschappelijk, gezamenlijk",94.1
+928,okulvitro,noun,bril,94.1
+929,loĝejo,noun,woning,94.0
+930,kara,adjective,"lief, dierbaar, duur",93.8
+931,paŝo,noun,stap,93.8
+932,sango,noun,bloed,93.8
+933,sorto,noun,lot,93.8
+934,homaro,noun,mensheid,93.6
+935,malhelpi,verb,"verhinderen, belemmeren",93.6
+936,bileto,noun,"kaartje, ticket",93.1
+937,kinejo,noun,bioscoop,92.8
+938,eksterlande,adverb,in het buitenland,92.6
+939,sperti,verb,"ervaren, beleven",92.6
+940,memoro,noun,"geheugen, herinnering",92.4
+941,nutri,verb,voeden,92.4
+942,serioza,adjective,"serieus, ernstig",92.4
+943,artikolo,noun,artikel,92.3
+944,hararo,noun,"haar, haardos",92.3
+945,kolekti,verb,verzamelen,91.9
+946,libereco,noun,vrijheid,91.9
+947,trans,preposition,"over, aan de overkant van",91.9
+948,mantelo,noun,"jas, mantel",91.7
+949,sukero,noun,suiker,91.7
+950,samtempe,adverb,tegelijkertijd,91.6
+951,nubo,noun,wolk,91.2
+952,internacia,adjective,internationaal,91.1
+953,koncerne,adverb,"met betrekking tot, betreffende",91.1
+954,perfekta,adjective,"perfect, volmaakt",91.1
+955,sidiĝi,verb,gaan zitten,91.1
+956,utili,verb,"nuttig zijn, baten",91.1
+957,parolado,noun,"toespraak, lezing",90.9
+958,tagmanĝo,noun,"lunch, middagmaal",90.9
+959,malplena,adjective,leeg,90.7
+960,rigardo,noun,blik,90.7
+961,freŝa,adjective,"vers, fris",90.5
+962,premi,verb,"drukken, persen",90.5
+963,devo,noun,plicht,90.2
+964,haltigi,verb,"stoppen, tot stilstand brengen",90.2
+965,malsukcesi,verb,mislukken,90.2
+966,krimo,noun,"misdaad, misdrijf",90.0
+967,manko,noun,"gebrek, tekort",90.0
+968,adreso,noun,adres,89.9
+969,socio,noun,"maatschappij, samenleving",89.9
+970,sesa,adjective,zesde,89.7
+971,trompi,verb,bedriegen,89.7
+972,ĵurnalo,noun,krant,89.5
+973,promeso,noun,belofte,89.5
+974,malsani,verb,ziek zijn,89.3
+975,nazo,noun,neus,89.3
+976,utila,adjective,nuttig,89.3
+977,itala,adjective,Italiaans,89.0
+978,stacio,noun,"station, halte",89.0
+979,fieri,verb,trots zijn,88.7
+980,kurso,noun,cursus,88.5
+981,armilo,noun,wapen,88.3
+982,prizorgi,verb,"zorgen voor, verzorgen",88.1
+983,advokato,noun,advocaat,88.0
+984,flughaveno,noun,luchthaven,88.0
+985,numero,noun,nummer,88.0
+986,dubi,verb,twijfelen,87.8
+987,plenigi,verb,vullen,87.8
+988,verko,noun,werk (kunst of literatuur),87.8
+989,eŭropa,adjective,Europees,87.5
+990,tagmanĝi,verb,lunchen,87.5
+991,antaŭa,adjective,"vorig, voorgaand",87.1
+992,maltrankviliĝi,verb,"onrustig worden, zich zorgen maken",87.1
+993,protekti,verb,beschermen,87.1
+994,redoni,verb,teruggeven,87.1
+995,malfacilaĵo,noun,moeilijkheid,86.8
+996,natura,adjective,natuurlijk,86.8
+997,necesa,adjective,"nodig, noodzakelijk",86.8
+998,taŭga,adjective,"geschikt, bruikbaar",86.6
+999,malbono,noun,"het kwade, iets slechts",86.4
+1000,fingro,noun,vinger,86.3

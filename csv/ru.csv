@@ -1,0 +1,1001 @@
+rank,word,part_of_speech,russian,per_million
+1,la,article,определённый артикль,60872.6
+2,mi,pronoun,я,44461.8
+3,esti,verb,быть,40933.8
+4,vi,pronoun,"ты, вы",25023.8
+5,ne,particle,"не, нет",24162.6
+6,li,pronoun,он,16212.2
+7,de,preposition,"от, из, с; принадлежность",15991.5
+8,al,preposition,"к, в (направление)",14901.9
+9,en,preposition,в,14241.1
+10,ke,conjunction,"что, чтобы (союз)",11849.6
+11,kaj,conjunction,и,11331.8
+12,tio,correlative,"то, это",10763.0
+13,ĉu,particle,ли; вопросительная частица,10352.5
+14,ni,pronoun,мы,10077.2
+15,ŝi,pronoun,она,8607.8
+16,tiu,correlative,"тот, этот",8421.1
+17,mia,possessive,мой,7759.4
+18,por,preposition,"для, ради, чтобы",7021.5
+19,povi,verb,мочь,6606.7
+20,kiu,correlative,"кто, который",6485.8
+21,havi,verb,иметь,6342.6
+22,ili,pronoun,они,5824.4
+23,ĉi,particle,"здесь, этот (как в tiu ĉi)",5538.4
+24,ĝi,pronoun,"оно (о предметах, животных)",5272.9
+25,sia,possessive,свой,5229.9
+26,pri,preposition,"о, об, про",5222.0
+27,fari,verb,делать,5113.3
+28,kio,correlative,что,5080.7
+29,via,possessive,"твой, ваш",4979.4
+30,diri,verb,сказать,4600.4
+31,voli,verb,хотеть,4553.1
+32,pli,adverb,"более, больше",4279.7
+33,kun,preposition,с (вместе с),4041.4
+34,kiel,correlative,как,4040.2
+35,scii,verb,знать (факты),3648.9
+36,oni,pronoun,неопределённое лицо («говорят»),3517.9
+37,ĉiu,correlative,"каждый, всякий",3377.8
+38,da,preposition,(после слова количества),3185.5
+39,devi,verb,"быть должным, надо",3152.1
+40,iri,verb,"идти, ехать",3050.1
+41,tie,correlative,там,2985.3
+42,sed,conjunction,"но, а",2967.6
+43,kiam,correlative,когда,2860.3
+44,tre,adverb,очень,2826.6
+45,el,preposition,из,2797.5
+46,se,conjunction,если,2632.5
+47,ŝati,verb,"любить, ценить",2560.2
+48,ol,conjunction,чем (при сравнении),2485.4
+49,lia,possessive,его,2398.3
+50,paroli,verb,говорить,2367.4
+51,nur,adverb,только,2360.0
+52,vidi,verb,видеть,2349.9
+53,sur,preposition,на,2309.1
+54,plej,adverb,"наиболее, самый",2189.4
+55,homo,noun,человек,2181.0
+56,per,preposition,"посредством, с помощью",2181.0
+57,bona,adjective,"хороший, добрый",1958.4
+58,unu,numeral,один,1926.9
+59,je,preposition,общий предлог (je la tria: в три часа),1855.0
+60,nia,possessive,наш,1837.9
+61,veni,verb,"приходить, приезжать",1815.4
+62,dum,preposition,"во время, в течение, пока",1759.7
+63,alia,adjective,"другой, иной",1727.1
+64,kial,correlative,"почему, зачем",1704.3
+65,io,correlative,"что-то, нечто",1669.7
+66,nun,adverb,"теперь, сейчас",1629.6
+67,kredi,verb,"верить, полагать",1629.4
+68,tiel,correlative,"так, таким образом",1620.8
+69,pro,preposition,"из-за, ради",1616.5
+70,jam,adverb,уже,1597.7
+71,neniam,correlative,никогда,1591.3
+72,bone,adverb,хорошо,1587.2
+73,kie,correlative,где,1567.1
+74,si,pronoun,"себя, себе (возвратное)",1565.4
+75,iu,correlative,"кто-то, какой-то",1564.6
+76,ĉio,correlative,всё,1541.9
+77,ankoraŭ,adverb,ещё,1528.0
+78,tempo,noun,время,1523.1
+79,ĉiam,correlative,всегда,1495.1
+80,pensi,verb,думать,1480.5
+81,granda,adjective,"большой, крупный",1473.3
+82,multa,adjective,"многие, много",1448.0
+83,manĝi,verb,"есть, кушать",1443.3
+84,bezoni,verb,нуждаться,1431.7
+85,aŭ,conjunction,или,1408.2
+86,antaŭ,preposition,"перед, до",1401.0
+87,neniu,correlative,"никто, никакой",1310.1
+88,libro,noun,книга,1296.7
+89,infano,noun,"ребёнок, дитя",1290.7
+90,jaro,noun,год,1289.9
+91,lingvo,noun,язык,1247.2
+92,multe,adverb,много,1222.8
+93,kiom,correlative,сколько,1217.3
+94,vere,adverb,"действительно, правда",1214.6
+95,vivo,noun,жизнь,1210.8
+96,tago,noun,день,1197.8
+97,okazi,verb,"случаться, происходить",1193.7
+98,ŝia,possessive,её,1186.3
+99,trovi,verb,"находить, найти",1186.1
+100,du,numeral,два,1185.9
+101,doni,verb,"давать, дать",1146.0
+102,post,preposition,"после, позади",1135.5
+103,domo,noun,дом,1132.8
+104,ĉe,preposition,"у, при",1130.7
+105,nenio,correlative,"ничто, ничего",1129.9
+106,hodiaŭ,adverb,сегодня,1124.7
+107,tro,adverb,слишком,1119.9
+108,ankaŭ,adverb,"тоже, также",1112.4
+109,plu,adverb,"дальше, ещё",1108.8
+110,helpi,verb,помогать,1100.0
+111,aĉeti,verb,"покупать, купить",1090.3
+112,resti,verb,оставаться,1079.6
+113,mono,noun,деньги,1078.1
+114,afero,noun,"дело, вещь",1074.0
+115,ĉar,conjunction,"потому что, так как",1073.6
+116,amiko,noun,друг,1040.9
+117,bela,adjective,красивый,1007.4
+118,nova,adjective,новый,1001.4
+119,tute,adverb,"совсем, полностью",999.5
+120,peti,verb,просить,976.2
+121,kompreni,verb,понимать,950.7
+122,eĉ,adverb,даже,940.6
+123,tuta,adjective,"весь, целый",931.3
+124,bonvoli,verb,быть любезным (bonvolu: пожалуйста),917.2
+125,laboro,noun,"работа, труд",901.1
+126,labori,verb,работать,897.5
+127,ĝis,preposition,до,893.4
+128,jen,particle,вот,888.6
+129,vivi,verb,жить,886.5
+130,iom,correlative,"немного, сколько-то",879.7
+131,atendi,verb,ждать,875.2
+132,laŭ,preposition,"по, согласно",873.0
+133,patro,noun,отец,860.1
+134,sen,preposition,без,846.4
+135,rigardi,verb,смотреть,845.7
+136,provi,verb,"пробовать, пытаться",845.4
+137,lerni,verb,"учиться, изучать",842.3
+138,aŭto,noun,"автомобиль, машина",836.6
+139,tiom,correlative,столько,834.6
+140,legi,verb,читать,827.6
+141,vorto,noun,слово,821.7
+142,tri,numeral,три,819.5
+143,kelka,adjective,"несколько, некоторый",803.7
+144,aŭdi,verb,слышать,800.5
+145,ami,verb,любить,792.9
+146,loĝi,verb,"проживать, жить (в месте)",789.0
+147,horo,noun,час,784.7
+148,deziri,verb,желать,777.7
+149,ofte,adverb,часто,773.4
+150,ajn,particle,бы ни (kiu ajn: кто бы ни),765.6
+151,senti,verb,чувствовать,764.4
+152,sola,adjective,"единственный, одинокий",758.4
+153,mem,particle,сам (подчёркивание),756.7
+154,mondo,noun,"мир, свет",752.4
+155,problemo,noun,проблема,751.6
+156,viro,noun,мужчина,746.3
+157,hundo,noun,собака,742.8
+158,kia,correlative,какой,740.1
+159,eble,adverb,"возможно, может быть",738.7
+160,lasi,verb,"оставлять, позволять",735.1
+161,koni,verb,"знать (человека, место)",726.9
+162,tia,correlative,такой,725.5
+163,ŝajni,verb,казаться,724.7
+164,hejme,adverb,дома,716.1
+165,lando,noun,страна,698.8
+166,uzi,verb,"использовать, употреблять",697.4
+167,morgaŭ,adverb,завтра,677.3
+168,hieraŭ,adverb,вчера,674.6
+169,preni,verb,"брать, взять",672.9
+170,opinii,verb,"считать, иметь мнение",672.7
+171,iam,correlative,"когда-то, когда-нибудь",666.7
+172,ludi,verb,играть,666.5
+173,patrino,noun,мать,663.3
+174,virino,noun,женщина,662.8
+175,ĉambro,noun,комната,653.8
+176,inter,preposition,"между, среди",653.3
+177,alveni,verb,"прибывать, прибыть",640.0
+178,kontraŭ,preposition,"против, напротив",637.7
+179,ekzisti,verb,существовать,635.2
+180,unua,adjective,первый,634.1
+181,akvo,noun,вода,630.7
+182,morti,verb,"умирать, умереть",628.0
+183,skribi,verb,писать,628.0
+184,lernejo,noun,школа,626.1
+185,franca,adjective,французский,625.9
+186,sukcesi,verb,"удаваться, получаться",624.7
+187,ja,particle,"ведь, же (усиление)",619.9
+188,demandi,verb,спрашивать,617.3
+189,urbo,noun,город,613.2
+190,foriri,verb,"уходить, уезжать",611.7
+191,forgesi,verb,"забывать, забыть",592.1
+192,trinki,verb,пить,588.7
+193,angla,adjective,английский,582.5
+194,rajti,verb,иметь право,579.1
+195,do,particle,"итак, значит",576.2
+196,frazo,noun,"фраза, предложение",572.7
+197,dek,numeral,десять,568.1
+198,tuj,adverb,"сразу, тотчас",563.5
+199,nomo,noun,"имя, название",556.6
+200,aspekti,verb,выглядеть,553.7
+201,demando,noun,вопрос,550.6
+202,kato,noun,"кошка, кот",550.6
+203,iĝi,verb,"становиться, стать",543.6
+204,viziti,verb,"посещать, навещать",533.0
+205,kapabli,verb,быть способным,526.6
+206,perdi,verb,"терять, потерять",520.9
+207,ricevi,verb,"получать, получить",520.1
+208,dio,noun,"Бог, бог",517.3
+209,reveni,verb,"возвращаться, вернуться",516.8
+210,rapide,adverb,быстро,514.8
+211,preskaŭ,adverb,почти,512.0
+212,timi,verb,бояться,510.1
+213,ilia,possessive,их,510.0
+214,sufiĉe,adverb,достаточно,507.4
+215,dormi,verb,спать,505.5
+216,longe,adverb,долго,504.8
+217,pordo,noun,"дверь, ворота",494.2
+218,knabo,noun,мальчик,491.5
+219,ĉesi,verb,"переставать, прекращаться",483.2
+220,plaĉi,verb,нравиться,482.5
+221,frato,noun,брат,480.8
+222,esperi,verb,надеяться,479.5
+223,okulo,noun,глаз,478.9
+224,komenci,verb,"начинать, начать",476.9
+225,mano,noun,рука (кисть),475.5
+226,vero,noun,"истина, правда",472.8
+227,tiam,correlative,тогда,470.2
+228,knabino,noun,девочка,469.7
+229,malbona,adjective,плохой,468.3
+230,edzino,noun,жена,461.8
+231,renkonti,verb,"встречать, встретить",461.1
+232,ideo,noun,"идея, мысль",459.0
+233,instruisto,noun,"учитель, преподаватель",450.8
+234,loko,noun,место,450.8
+235,simple,adverb,просто,449.6
+236,necesi,verb,быть необходимым,444.6
+237,filo,noun,сын,444.3
+238,persono,noun,"персона, лицо",443.8
+239,serĉi,verb,искать,435.4
+240,studi,verb,"изучать, учиться",435.0
+241,gepatro,noun,родитель,431.4
+242,vojo,noun,"дорога, путь",430.6
+243,meti,verb,"класть, ставить",429.2
+244,montri,verb,"показывать, показать",428.9
+245,baldaŭ,adverb,"скоро, вскоре",428.7
+246,denove,adverb,"снова, опять",424.9
+247,juna,adjective,"молодой, юный",423.9
+248,lasta,adjective,последний,420.6
+249,memori,verb,помнить,417.0
+250,ebli,verb,быть возможным,414.8
+251,grava,adjective,важный,410.0
+252,longa,adjective,"длинный, долгий",406.4
+253,feliĉa,adjective,счастливый,405.7
+254,eraro,noun,ошибка,398.2
+255,amo,noun,любовь,397.0
+256,tra,preposition,"через, сквозь",392.2
+257,letero,noun,письмо,391.3
+258,atingi,verb,"достигать, достичь",388.9
+259,troviĝi,verb,находиться,388.2
+260,aŭskulti,verb,слушать,388.1
+261,fratino,noun,сестра,388.1
+262,arbo,noun,дерево,387.2
+263,apud,preposition,"рядом с, возле",385.8
+264,scipovi,verb,уметь,385.5
+265,nek,conjunction,"ни, и не",383.1
+266,antaŭe,adverb,"раньше, прежде",382.6
+267,decidi,verb,"решать, решить",381.9
+268,malgranda,adjective,маленький,381.7
+269,nokto,noun,ночь,381.2
+270,eliri,verb,"выходить, выйти",380.9
+271,respondi,verb,отвечать,378.8
+272,vespere,adverb,вечером,377.9
+273,semajno,noun,неделя,376.7
+274,propra,adjective,"собственный, свой",369.7
+275,certe,adverb,"конечно, несомненно",368.2
+276,fojo,noun,раз,366.8
+277,sama,adjective,"тот же, такой же",366.8
+278,vera,adjective,"настоящий, истинный",362.0
+279,poste,adverb,"потом, затем",361.0
+280,sub,preposition,под,355.3
+281,familio,noun,семья,355.1
+282,fariĝi,verb,"становиться, стать",354.3
+283,frue,adverb,рано,350.7
+284,esperanto,noun,эсперанто (язык),349.3
+285,ĵus,adverb,только что,349.3
+286,ambaŭ,adjective,"оба, обе",348.1
+287,sidi,verb,сидеть,342.8
+288,pagi,verb,платить,341.1
+289,eniri,verb,"входить, войти",339.2
+290,alta,adjective,высокий,337.0
+291,ŝanĝi,verb,"менять, изменять",336.1
+292,kafo,noun,кофе,330.4
+293,kvin,numeral,пять,330.1
+294,kuracisto,noun,врач,329.9
+295,facile,adverb,легко,328.4
+296,ekde,preposition,"начиная с, с (о времени)",327.9
+297,malpli,adverb,"менее, меньше",325.8
+298,helpo,noun,помощь,325.3
+299,tablo,noun,стол,324.8
+300,ruĝa,adjective,красный,322.2
+301,fenestro,noun,окно,321.2
+302,gravi,verb,быть важным,320.1
+303,tamen,adverb,"однако, всё же",316.7
+304,ĉirkaŭ,preposition,"вокруг, около",313.6
+305,filmo,noun,фильм,312.9
+306,malnova,adjective,старый,309.7
+307,trajno,noun,поезд,309.5
+308,rakonti,verb,рассказывать,309.3
+309,forlasi,verb,"покидать, оставлять",309.0
+310,koro,noun,сердце,308.0
+311,akcepti,verb,принимать,307.8
+312,tero,noun,земля,307.6
+313,kanti,verb,петь,307.3
+314,pasigi,verb,проводить (время),306.3
+315,jes,particle,да,306.1
+316,sendi,verb,"посылать, отправлять",305.4
+317,sinjoro,noun,господин,305.4
+318,blanka,adjective,белый,305.2
+319,malfermi,verb,открывать,305.1
+320,manki,verb,"не хватать, отсутствовать",303.9
+321,naĝi,verb,плавать,303.7
+322,matene,adverb,утром,300.9
+323,opinio,noun,мнение,300.8
+324,kvazaŭ,conjunction,"будто, как будто",299.9
+325,igi,verb,"заставлять, делать (каким-то)",298.2
+326,mortigi,verb,убивать,295.5
+327,preferi,verb,предпочитать,293.9
+328,morto,noun,смерть,293.1
+329,intenci,verb,намереваться,292.5
+330,stari,verb,стоять,292.2
+331,minuto,noun,минута,291.7
+332,strato,noun,улица,289.1
+333,verŝajne,adverb,"вероятно, наверное",286.9
+334,malfacile,adverb,"трудно, с трудом",286.2
+335,floro,noun,цветок,285.9
+336,teni,verb,держать,285.3
+337,kune,adverb,вместе,285.0
+338,instrui,verb,"учить, преподавать",283.5
+339,fini,verb,"заканчивать, закончить",283.1
+340,konsideri,verb,"считать, рассматривать",282.8
+341,gajni,verb,"выигрывать, зарабатывать",281.9
+342,filino,noun,дочь,280.2
+343,verda,adjective,зелёный,279.9
+344,monato,noun,месяц,278.8
+345,kapo,noun,голова,278.5
+346,dua,adjective,второй,277.6
+347,porti,verb,"нести, носить",277.3
+348,plenumi,verb,"выполнять, исполнять",276.6
+349,bedaŭri,verb,"сожалеть, жалеть",275.4
+350,ĉiutage,adverb,"ежедневно, каждый день",275.1
+351,muziko,noun,музыка,270.1
+352,ĝardeno,noun,сад,267.8
+353,kuri,verb,"бежать, бегать",265.8
+354,besto,noun,"животное, зверь",265.4
+355,festo,noun,праздник,265.3
+356,agi,verb,"действовать, поступать",264.8
+357,historio,noun,история,264.1
+358,ĉielo,noun,"небо, небеса",262.5
+359,zorgi,verb,заботиться,262.4
+360,finfine,adverb,"наконец, в конце концов",262.0
+361,signifi,verb,"значить, означать",260.5
+362,iomete,adverb,"немного, чуть-чуть",260.0
+363,manĝaĵo,noun,"еда, пища",259.3
+364,fali,verb,"падать, упасть",259.1
+365,sekvi,verb,"следовать, идти за",258.9
+366,ege,adverb,"чрезвычайно, крайне",257.9
+367,rivero,noun,река,257.2
+368,respondo,noun,ответ,256.2
+369,kutime,adverb,обычно,255.7
+370,telefoni,verb,звонить по телефону,251.6
+371,maniero,noun,"способ, манера",250.5
+372,nomi,verb,"называть, назвать",249.8
+373,klarigi,verb,объяснять,247.6
+374,studento,noun,студент,247.6
+375,forta,adjective,сильный,246.6
+376,milito,noun,война,246.2
+377,mil,numeral,тысяча,245.9
+378,birdo,noun,птица,244.5
+379,nigra,adjective,чёрный,244.5
+380,situacio,noun,"ситуация, положение",244.5
+381,vetero,noun,погода,244.0
+382,surhavi,verb,носить (об одежде),243.3
+383,suno,noun,солнце,243.0
+384,naskiĝi,verb,родиться,242.5
+385,elekti,verb,"выбирать, избирать",242.1
+386,plia,adjective,"дополнительный, ещё один",241.3
+387,kapti,verb,"ловить, поймать",240.4
+388,malfacila,adjective,"трудный, сложный",240.4
+389,arbaro,noun,лес,239.6
+390,veturi,verb,"ехать, ездить",239.6
+391,momento,noun,"момент, миг",238.5
+392,danko,noun,благодарность,237.5
+393,kosti,verb,стоить,237.3
+394,plena,adjective,полный,236.0
+395,krom,preposition,кроме,235.8
+396,parto,noun,"часть, доля",235.6
+397,fidi,verb,"доверять, полагаться",235.3
+398,plano,noun,план,234.2
+399,certi,verb,быть уверенным,234.1
+400,germana,adjective,немецкий,234.1
+401,pluvi,verb,идти (о дожде),233.6
+402,edzo,noun,муж,232.5
+403,maljuna,adjective,"старый, пожилой (о людях)",232.4
+404,mensogi,verb,"лгать, врать",232.4
+405,celo,noun,цель,229.6
+406,konsenti,verb,соглашаться,227.6
+407,permesi,verb,"разрешать, позволять",226.5
+408,atenti,verb,обращать внимание,225.5
+409,same,adverb,"так же, одинаково",225.5
+410,japana,adjective,японский,224.6
+411,vizaĝo,noun,лицо,224.3
+412,vendi,verb,продавать,224.1
+413,kvar,numeral,четыре,223.8
+414,komputilo,noun,компьютер,223.4
+415,certa,adjective,"уверенный, определённый",222.9
+416,plori,verb,плакать,221.7
+417,vino,noun,вино,220.7
+418,ekstere,adverb,снаружи,220.2
+419,novaĵo,noun,"новость, новинка",219.5
+420,ĝia,possessive,"его, её (о предмете)",218.5
+421,malfrue,adverb,поздно,218.5
+422,temi,verb,"говориться (о чём-то), касаться",218.3
+423,kvankam,conjunction,хотя,217.4
+424,pano,noun,хлеб,217.1
+425,funkcii,verb,"функционировать, работать",216.2
+426,fakte,adverb,"фактически, на самом деле",215.9
+427,alporti,verb,"приносить, принести",213.8
+428,pardoni,verb,"прощать, простить",213.8
+429,for,adverb,прочь,212.8
+430,ĝuste,adverb,"точно, как раз",212.5
+431,kies,correlative,чей,211.8
+432,kreski,verb,расти,211.8
+433,daŭri,verb,"длиться, продолжаться",210.7
+434,konduki,verb,"вести, приводить",209.7
+435,lumo,noun,свет,209.4
+436,blua,adjective,"синий, голубой",209.0
+437,akiri,verb,"приобретать, получать",208.7
+438,vojaĝi,verb,путешествовать,208.0
+439,teo,noun,чай,207.8
+440,akcidento,noun,"несчастный случай, авария",207.7
+441,riĉa,adjective,богатый,206.6
+442,kaŝi,verb,"прятать, скрывать",206.5
+443,ho,interjection,"о, ох (междометие)",206.3
+444,pomo,noun,яблоко,206.1
+445,malami,verb,ненавидеть,205.6
+446,lavi,verb,мыть,205.4
+447,maro,noun,море,205.3
+448,donaco,noun,"подарок, дар",204.9
+449,ludo,noun,игра,204.7
+450,lito,noun,"кровать, постель",204.4
+451,interesa,adjective,интересный,203.9
+452,ĉevalo,noun,"лошадь, конь",202.2
+453,stulta,adjective,глупый,202.2
+454,stranga,adjective,странный,202.0
+455,promesi,verb,обещать,201.1
+456,tasko,noun,"задача, задание",199.9
+457,homa,adjective,человеческий,199.8
+458,pasi,verb,"проходить, пройти",199.6
+459,skatolo,noun,"коробка, ящик",199.6
+460,fumi,verb,"курить, дымить",199.4
+461,rimarki,verb,"замечать, заметить",199.1
+462,traduki,verb,переводить (на язык),198.4
+463,venki,verb,"побеждать, победить",197.7
+464,foto,noun,"фото, фотография",197.4
+465,popolo,noun,народ,195.5
+466,restoracio,noun,ресторан,195.5
+467,finiĝi,verb,"заканчиваться, закончиться",195.1
+468,parko,noun,парк,195.0
+469,tial,correlative,"поэтому, потому",194.8
+470,buso,noun,автобус,194.5
+471,fermi,verb,"закрывать, закрыть",193.3
+472,aparteni,verb,принадлежать,193.1
+473,muro,noun,стена,193.1
+474,polico,noun,полиция,193.1
+475,spekti,verb,смотреть (зрелище),192.6
+476,vojaĝo,noun,"путешествие, поездка",191.7
+477,regi,verb,"править, управлять",190.5
+478,multo,noun,"множество, масса",190.3
+479,trafi,verb,"попадать, попасть",190.2
+480,kaŭzi,verb,"вызывать, причинять",189.8
+481,ridi,verb,смеяться,189.5
+482,unue,adverb,"сначала, во-первых",189.5
+483,venonta,adjective,"следующий, будущий",188.8
+484,ekzameno,noun,экзамен,188.3
+485,farti,verb,чувствовать себя (о здоровье),187.6
+486,lakto,noun,молоко,187.6
+487,ĝui,verb,наслаждаться,187.4
+488,nomiĝi,verb,называться,187.3
+489,aperi,verb,"появляться, выходить",186.7
+490,ĝusta,adjective,"правильный, верный",186.7
+491,super,preposition,"над, сверх",186.4
+492,malfrui,verb,опаздывать,185.5
+493,fiŝo,noun,рыба,185.4
+494,supozi,verb,"предполагать, допускать",184.7
+495,haro,noun,"волос, волосы",184.5
+496,leĝo,noun,закон,184.3
+497,ĝoji,verb,радоваться,184.0
+498,fakto,noun,факт,183.7
+499,ĉeesti,verb,присутствовать,183.0
+500,kuŝi,verb,лежать,182.6
+501,imagi,verb,"воображать, представлять",182.5
+502,daŭre,adverb,"постоянно, непрерывно",181.3
+503,pravi,verb,быть правым,181.1
+504,kisi,verb,целовать,180.7
+505,oficejo,noun,"офис, контора",180.2
+506,ŝategi,verb,"очень любить, обожать",180.2
+507,ulo,noun,"тип, парень, человек",179.9
+508,amikino,noun,подруга,179.7
+509,bildo,noun,"картинка, изображение",179.5
+510,lernanto,noun,"ученик, учащийся",179.0
+511,tridek,numeral,тридцать,179.0
+512,biciklo,noun,велосипед,178.0
+513,malsana,adjective,больной,177.8
+514,korpo,noun,тело,177.7
+515,nokte,adverb,ночью,177.7
+516,plura,adjective,несколько,177.5
+517,ŝuo,noun,"туфля, ботинок",176.6
+518,konsilo,noun,совет,176.5
+519,kialo,noun,причина,176.3
+520,reĝo,noun,"король, царь",175.9
+521,sento,noun,чувство,175.9
+522,monto,noun,гора,175.6
+523,almenaŭ,adverb,"по крайней мере, хотя бы",175.3
+524,apenaŭ,adverb,"едва, еле",175.3
+525,pasinta,adjective,прошлый,175.3
+526,precize,adverb,точно,175.3
+527,nu,particle,ну,175.1
+528,simili,verb,быть похожим,174.9
+529,voĉo,noun,голос,174.4
+530,voki,verb,"звать, позвать",174.2
+531,suferi,verb,страдать,174.1
+532,fino,noun,конец,173.9
+533,ŝlosilo,noun,ключ,173.5
+534,komenciĝi,verb,"начинаться, начаться",173.4
+535,sukceso,noun,успех,173.4
+536,rifuzi,verb,"отказываться, отказывать",173.2
+537,laca,adjective,усталый,173.0
+538,glaso,noun,стакан,172.5
+539,eta,adjective,"небольшой, маленький",171.8
+540,konstrui,verb,строить,171.8
+541,preta,adjective,готовый,171.3
+542,verki,verb,"сочинять, писать (произведение)",170.8
+543,alvoki,verb,"призывать, звать",170.4
+544,kuiri,verb,"готовить (еду), варить",170.3
+545,dudek,numeral,двадцать,170.1
+546,temo,noun,тема,169.2
+547,libera,adjective,свободный,168.6
+548,prepari,verb,"готовить, подготовить",168.4
+549,solvi,verb,решать (задачу),167.5
+550,flugi,verb,"летать, лететь",167.4
+551,pluvo,noun,дождь,167.2
+552,hejmo,noun,"родной дом, очаг",166.3
+553,rezulto,noun,результат,166.2
+554,ŝipo,noun,"корабль, судно",166.0
+555,rakonto,noun,рассказ,165.8
+556,telefono,noun,телефон,165.3
+557,ŝanco,noun,шанс,164.3
+558,rompi,verb,"ломать, сломать",163.4
+559,ŝteli,verb,"красть, украсть",162.4
+560,aĝo,noun,возраст,162.0
+561,malantaŭ,preposition,"позади, за",161.5
+562,feliĉo,noun,счастье,161.4
+563,eviti,verb,избегать,161.0
+564,konstruaĵo,noun,здание,161.0
+565,seĝo,noun,стул,160.7
+566,ekscii,verb,узнать,160.3
+567,ĵeti,verb,"бросать, кидать",160.2
+568,biero,noun,пиво,159.5
+569,purigi,verb,"чистить, очищать",159.5
+570,subite,adverb,"вдруг, внезапно",159.0
+571,malamiko,noun,враг,158.8
+572,postuli,verb,требовать,158.6
+573,preti,verb,быть готовым,158.4
+574,vento,noun,ветер,158.3
+575,kanto,noun,песня,157.8
+576,prezo,noun,цена,157.8
+577,dolaro,noun,доллар,157.1
+578,des,particle,тем (ju pli… des pli: чем… тем),156.9
+579,sano,noun,здоровье,156.9
+580,ŝajne,adverb,"кажется, по-видимому",156.7
+581,sinjorino,noun,"госпожа, дама",156.7
+582,kuko,noun,"торт, пирог, кекс",156.6
+583,forto,noun,сила,156.0
+584,vortaro,noun,словарь,156.0
+585,hotelo,noun,"гостиница, отель",155.9
+586,decido,noun,решение,155.5
+587,ĝeni,verb,"беспокоить, мешать",155.5
+588,rezigni,verb,отказываться (от чего-то),155.4
+589,fine,adverb,наконец,155.2
+590,frukto,noun,"фрукт, плод",154.7
+591,panjo,noun,мама,154.0
+592,danci,verb,танцевать,153.8
+593,simpla,adjective,простой,153.8
+594,duono,noun,половина,152.3
+595,proponi,verb,предлагать,152.3
+596,scivoli,verb,"любопытствовать, хотеть знать",151.9
+597,koloro,noun,цвет,151.6
+598,malsano,noun,болезнь,151.6
+599,varma,adjective,"тёплый, горячий",151.6
+600,reiri,verb,"идти обратно, возвращаться",151.2
+601,kelkfoje,adverb,иногда,151.1
+602,bebo,noun,"младенец, малыш",150.9
+603,pripensi,verb,обдумывать,150.4
+604,aĵo,noun,"вещь, предмет",150.2
+605,piedo,noun,"нога, ступня",150.2
+606,nepre,adverb,"непременно, обязательно",150.0
+607,bedaŭrinde,adverb,к сожалению,149.9
+608,folio,noun,лист,149.9
+609,regulo,noun,правило,149.7
+610,ses,numeral,шесть,149.7
+611,estonteco,noun,будущее,149.5
+612,farita,adjective,сделанный,149.5
+613,okupata,adjective,занятой,149.4
+614,ovo,noun,яйцо,149.4
+615,projekto,noun,проект,149.2
+616,starigi,verb,"ставить, устанавливать",148.8
+617,ŝatata,adjective,любимый,148.7
+618,aldoni,verb,"добавлять, добавить",148.5
+619,fama,adjective,"известный, знаменитый",148.0
+620,prezenti,verb,"представлять, показывать",148.0
+621,aĝa,adjective,пожилой; имеющий возраст,147.6
+622,fajro,noun,огонь,147.3
+623,bonega,adjective,"превосходный, отличный",147.1
+624,kristnasko,noun,Рождество,147.0
+625,halti,verb,останавливаться,146.6
+626,bruna,adjective,коричневый,145.8
+627,posedi,verb,"владеть, обладать",145.8
+628,diferenco,noun,"различие, разница",145.4
+629,ia,correlative,какой-то,145.2
+630,penso,noun,мысль,144.7
+631,promeni,verb,"гулять, прогуливаться",144.7
+632,krei,verb,"создавать, творить",144.4
+633,erari,verb,ошибаться,144.2
+634,animo,noun,душа,143.9
+635,danki,verb,благодарить,143.7
+636,najbaro,noun,сосед,142.8
+637,ŝanĝiĝi,verb,"меняться, изменяться",142.5
+638,flanko,noun,сторона,142.3
+639,malbone,adverb,плохо,142.0
+640,propono,noun,предложение,142.0
+641,trakti,verb,"рассматривать, обращаться с",141.8
+642,neĝo,noun,снег,141.1
+643,malvarma,adjective,холодный,140.8
+644,usona,adjective,американский (США),140.3
+645,ju,particle,чем (ju pli… des pli: чем… тем),139.2
+646,vilaĝo,noun,"деревня, село",139.1
+647,enlitiĝi,verb,ложиться в постель,138.9
+648,edziĝi,verb,жениться,138.7
+649,ellitiĝi,verb,вставать с постели,138.7
+650,proksime,adverb,"близко, рядом",138.6
+651,registaro,noun,правительство,138.6
+652,insulo,noun,остров,138.4
+653,rajto,noun,право,138.2
+654,prefere,adverb,"лучше, предпочтительно",137.7
+655,aviadilo,noun,самолёт,137.2
+656,boni,verb,быть хорошим,137.2
+657,ĉapelo,noun,шляпа,136.7
+658,malmulta,adjective,"немногий, малочисленный",136.3
+659,emi,verb,быть склонным,136.2
+660,valori,verb,"стоить, иметь ценность",136.2
+661,inviti,verb,приглашать,136.0
+662,ĉemizo,noun,рубашка,135.8
+663,anstataŭ,preposition,вместо,135.5
+664,konfesi,verb,"признавать, признаваться",135.5
+665,malaperi,verb,"исчезать, пропадать",135.5
+666,klaso,noun,класс,135.1
+667,facila,adjective,"лёгкий, нетрудный",135.0
+668,ĉina,adjective,китайский,134.6
+669,robo,noun,платье,134.6
+670,vesto,noun,одежда,134.4
+671,stiri,verb,"управлять, вести (машину)",134.3
+672,terura,adjective,ужасный,134.1
+673,tuŝi,verb,"трогать, касаться",133.8
+674,diskuti,verb,обсуждать,133.2
+675,afabla,adjective,"любезный, приветливый",133.1
+676,sufiĉi,verb,"хватать, быть достаточным",132.9
+677,interesi,verb,интересовать,132.2
+678,romano,noun,роман,132.2
+679,nuntempe,adverb,"ныне, в наше время",132.0
+680,proksima,adjective,близкий,132.0
+681,malsama,adjective,"другой, различный",131.7
+682,okazo,noun,"случай, событие",131.5
+683,stelo,noun,звезда,131.4
+684,danĝera,adjective,опасный,131.2
+685,viando,noun,мясо,131.0
+686,kuirejo,noun,кухня,130.8
+687,savi,verb,спасать,130.8
+688,horloĝo,noun,часы,130.7
+689,malŝati,verb,"не любить, недолюбливать",130.3
+690,proksimume,adverb,"примерно, приблизительно",130.3
+691,relative,adverb,относительно,130.3
+692,ekiri,verb,"отправиться, пойти",129.8
+693,mateno,noun,утро,129.3
+694,paco,noun,мир (без войны),129.3
+695,vespermanĝo,noun,ужин,129.3
+696,ĉie,correlative,"везде, всюду",129.1
+697,espero,noun,надежда,128.8
+698,kastelo,noun,замок,128.8
+699,naturo,noun,природа,128.6
+700,nombro,noun,число,128.6
+701,sekreto,noun,"тайна, секрет",128.1
+702,kampo,noun,поле,127.9
+703,konsisti,verb,состоять (из),127.9
+704,malfermita,adjective,открытый,127.8
+705,inteligenta,adjective,"умный, сообразительный",127.6
+706,celi,verb,"стремиться, целиться",127.4
+707,dento,noun,зуб,127.2
+708,vestaĵo,noun,предмет одежды,127.2
+709,luno,noun,луна,126.7
+710,leciono,noun,урок,126.2
+711,malmulte,adverb,мало,126.0
+712,situi,verb,"находиться, располагаться",126.0
+713,aero,noun,воздух,125.7
+714,doloro,noun,боль,125.7
+715,forigi,verb,"удалять, убирать",125.7
+716,brako,noun,рука (от плеча до кисти),125.5
+717,arto,noun,искусство,125.4
+718,neniel,correlative,никак,125.2
+719,avo,noun,дедушка,124.5
+720,mesaĝo,noun,"сообщение, послание",124.5
+721,plani,verb,планировать,124.3
+722,aĝi,verb,быть в возрасте (скольки-то лет),124.1
+723,informo,noun,"сообщение, сведения",124.1
+724,vespero,noun,вечер,124.1
+725,religio,noun,религия,124.0
+726,kutimi,verb,иметь обыкновение,123.6
+727,ree,adverb,"снова, опять",123.6
+728,flava,adjective,жёлтый,123.3
+729,ago,noun,"действие, поступок",123.1
+730,universitato,noun,университет,122.9
+731,plezuro,noun,удовольствие,122.6
+732,rusa,adjective,русский,122.4
+733,sako,noun,"мешок, сумка",122.4
+734,revo,noun,"мечта, грёза",121.9
+735,daŭrigi,verb,продолжать,121.7
+736,manĝo,noun,"еда, приём пищи",121.7
+737,biblioteko,noun,библиотека,121.6
+738,foje,adverb,"однажды, как-то раз",121.6
+739,interesiĝi,verb,интересоваться,121.6
+740,onklo,noun,дядя,121.6
+741,mallonga,adjective,короткий,121.4
+742,nutraĵo,noun,"пища, еда",121.4
+743,fremda,adjective,"чужой, иностранный",121.2
+744,ripari,verb,"чинить, ремонтировать",120.9
+745,sperto,noun,опыт,120.5
+746,taso,noun,чашка,120.2
+747,ŝajnigi,verb,"притворяться, делать вид",120.0
+748,konduti,verb,вести себя,119.7
+749,soni,verb,звучать,119.7
+750,rapidi,verb,"спешить, торопиться",119.5
+751,konservi,verb,"сохранять, хранить",119.2
+752,tria,adjective,третий,119.2
+753,rilato,noun,"отношение, связь",119.0
+754,malkovri,verb,"открывать, обнаруживать",118.8
+755,vekiĝi,verb,просыпаться,118.7
+756,amuza,adjective,"забавный, весёлый",118.1
+757,pardono,noun,"прощение, извинение",117.6
+758,elteni,verb,"выдерживать, терпеть",117.5
+759,diversa,adjective,"разный, различный",117.3
+760,lago,noun,озеро,117.3
+761,partopreni,verb,участвовать,117.1
+762,koleri,verb,"сердиться, злиться",116.9
+763,saĝa,adjective,мудрый,116.8
+764,dika,adjective,толстый,116.4
+765,cent,numeral,сто,116.3
+766,teamo,noun,команда,116.1
+767,kunveno,noun,"собрание, встреча",115.9
+768,agrabla,adjective,приятный,115.7
+769,butiko,noun,"магазин, лавка",115.7
+770,konduto,noun,поведение,115.7
+771,eblo,noun,возможность,115.2
+772,scio,noun,знание,115.2
+773,konsili,verb,советовать,115.1
+774,multekosta,adjective,"дорогой, дорогостоящий",115.1
+775,danĝero,noun,опасность,114.9
+776,pura,adjective,чистый,114.7
+777,bruo,noun,шум,114.5
+778,esprimi,verb,выражать,114.5
+779,timo,noun,страх,114.5
+780,deziro,noun,желание,114.4
+781,planedo,noun,планета,114.4
+782,ĉefurbo,noun,столица,114.2
+783,kalkuli,verb,"считать, вычислять",114.2
+784,mortinta,adjective,"умерший, мёртвый",114.2
+785,malofte,adverb,редко,114.0
+786,silenti,verb,молчать,114.0
+787,taŭgi,verb,"годиться, подходить",113.9
+788,buŝo,noun,рот,113.5
+789,malrapide,adverb,медленно,113.5
+790,dolori,verb,болеть,113.3
+791,hejmtasko,noun,домашнее задание,113.3
+792,estro,noun,"начальник, руководитель",113.0
+793,renkontiĝi,verb,встречаться,113.0
+794,rozo,noun,роза,112.8
+795,orelo,noun,ухо,112.7
+796,konata,adjective,"известный, знакомый",112.1
+797,grupo,noun,группа,112.0
+798,kioma,adjective,который (по счёту),112.0
+799,solvo,noun,решение,112.0
+800,somero,noun,лето,112.0
+801,ŝerco,noun,шутка,111.8
+802,hispana,adjective,испанский,111.5
+803,sep,numeral,семь,111.3
+804,posteno,noun,"должность, пост",111.1
+805,sciigi,verb,"сообщать, уведомлять",111.1
+806,freneza,adjective,"безумный, сумасшедший",110.9
+807,plendi,verb,жаловаться,110.9
+808,kontroli,verb,"проверять, контролировать",110.4
+809,junulo,noun,"юноша, молодой человек",110.1
+810,prezidanto,noun,"председатель, президент",110.1
+811,ferio,noun,"выходной день, каникулы",109.7
+812,kontenta,adjective,довольный,109.1
+813,mensogo,noun,ложь,109.1
+814,ie,correlative,где-то,108.7
+815,neniom,correlative,нисколько,108.7
+816,stacidomo,noun,"вокзал, станция",108.7
+817,ŝtono,noun,камень,108.7
+818,surmeti,verb,"надевать, надеть",108.7
+819,gazeto,noun,"газета, журнал",108.5
+820,kruro,noun,нога,108.5
+821,medikamento,noun,лекарство,108.5
+822,malgraŭ,preposition,несмотря на,108.4
+823,ĉarma,adjective,"очаровательный, милый",107.9
+824,maljunulo,noun,старик,107.9
+825,bati,verb,"бить, ударять",107.7
+826,france,adverb,по-французски,107.7
+827,avino,noun,бабушка,107.3
+828,jarcento,noun,"век, столетие",107.2
+829,levi,verb,поднимать,107.2
+830,gasto,noun,гость,107.0
+831,meriti,verb,заслуживать,107.0
+832,aliulo,noun,кто-то другой,106.8
+833,komenco,noun,начало,106.8
+834,malfacili,verb,быть трудным,106.8
+835,belega,adjective,"прекрасный, великолепный",106.7
+836,paĉjo,noun,папа,106.7
+837,posttagmeze,adverb,во второй половине дня,106.7
+838,edziniĝi,verb,выходить замуж,106.5
+839,tranĉilo,noun,нож,106.5
+840,dependi,verb,зависеть,106.3
+841,menso,noun,"ум, разум",106.3
+842,botelo,noun,бутылка,106.0
+843,donaci,verb,"дарить, подарить",106.0
+844,fojfoje,adverb,"иногда, порой",106.0
+845,koramikino,noun,"возлюбленная, девушка",106.0
+846,griza,adjective,серый,105.8
+847,konscii,verb,осознавать,105.5
+848,ponto,noun,мост,105.3
+849,rekoni,verb,"узнавать, признавать",105.3
+850,batali,verb,"сражаться, драться",104.9
+851,disponi,verb,располагать (чем-то),104.9
+852,malsanulejo,noun,больница,104.9
+853,formo,noun,форма,104.8
+854,ene,adverb,внутри,104.3
+855,drinki,verb,пить (спиртное),103.9
+856,enhavi,verb,содержать,103.7
+857,klopodi,verb,"стараться, хлопотать",103.7
+858,veri,verb,быть правдой,103.7
+859,ĝustatempe,adverb,вовремя,103.6
+860,eskapi,verb,"убегать, спасаться",103.4
+861,krii,verb,кричать,103.4
+862,kaŭzo,noun,причина,103.1
+863,ordo,noun,порядок,103.1
+864,supo,noun,суп,103.1
+865,okupita,adjective,занятой,102.9
+866,enamiĝi,verb,влюбляться,102.7
+867,forte,adverb,сильно,102.7
+868,politiko,noun,политика,102.7
+869,bongusta,adjective,вкусный,102.4
+870,televido,noun,телевидение,102.4
+871,entrepreno,noun,"предприятие, начинание",102.0
+872,peco,noun,"кусок, часть",102.0
+873,turni,verb,"поворачивать, вертеть",102.0
+874,klare,adverb,ясно,101.9
+875,mirinda,adjective,"удивительный, чудесный",101.7
+876,marŝi,verb,"идти, шагать, маршировать",101.3
+877,rideti,verb,улыбаться,101.3
+878,ĉefa,adjective,"главный, основной",101.0
+879,fermita,adjective,закрытый,101.0
+880,observi,verb,"наблюдать, соблюдать",100.8
+881,papero,noun,бумага,100.8
+882,ties,correlative,того (принадлежащий тому),100.8
+883,sonĝo,noun,"сон, сновидение",100.5
+884,teksto,noun,текст,100.5
+885,demeti,verb,"снимать, класть",100.3
+886,akompani,verb,"сопровождать, провожать",100.1
+887,antikva,adjective,"древний, античный",100.1
+888,aserti,verb,"утверждать, уверять",100.1
+889,ŝtato,noun,государство,99.8
+890,elekto,noun,"выбор, выборы",99.6
+891,ĝojo,noun,радость,99.6
+892,maltrafi,verb,"промахнуться, не попасть",99.6
+893,ok,numeral,восемь,99.6
+894,traduko,noun,перевод,99.6
+895,rimedo,noun,средство,99.1
+896,ripozi,verb,отдыхать,98.9
+897,malriĉa,adjective,бедный,98.8
+898,rapida,adjective,быстрый,98.8
+899,regiono,noun,"регион, область",98.6
+900,banko,noun,банк,97.9
+901,lundo,noun,понедельник,97.9
+902,kutimo,noun,"привычка, обычай",97.6
+903,malsati,verb,"быть голодным, голодать",97.4
+904,scienco,noun,наука,97.2
+905,sekva,adjective,следующий,96.5
+906,subteni,verb,поддерживать,96.4
+907,preĝejo,noun,церковь,95.7
+908,sistemo,noun,система,95.7
+909,superi,verb,"превосходить, превзойти",95.7
+910,konvinki,verb,убеждать,95.5
+911,malproksime,adverb,далеко,95.5
+912,vintro,noun,зима,95.3
+913,saluto,noun,приветствие,95.2
+914,miliono,noun,миллион,95.0
+915,matematiko,noun,математика,94.8
+916,soldato,noun,солдат,94.8
+917,firmao,noun,"фирма, компания",94.7
+918,frapi,verb,"ударять, стучать",94.7
+919,grandega,adjective,"огромный, громадный",94.7
+920,kompreneble,adverb,"конечно, разумеется",94.7
+921,kulturo,noun,культура,94.7
+922,mendi,verb,заказывать,94.7
+923,supre,adverb,"наверху, вверху",94.7
+924,kapablo,noun,способность,94.5
+925,raporto,noun,"доклад, отчёт",94.3
+926,veki,verb,будить,94.3
+927,komuna,adjective,общий,94.1
+928,okulvitro,noun,очки,94.1
+929,loĝejo,noun,"жильё, квартира",94.0
+930,kara,adjective,"дорогой, милый",93.8
+931,paŝo,noun,шаг,93.8
+932,sango,noun,кровь,93.8
+933,sorto,noun,судьба,93.8
+934,homaro,noun,человечество,93.6
+935,malhelpi,verb,"мешать, препятствовать",93.6
+936,bileto,noun,билет,93.1
+937,kinejo,noun,кинотеатр,92.8
+938,eksterlande,adverb,за границей,92.6
+939,sperti,verb,"испытывать, переживать",92.6
+940,memoro,noun,память,92.4
+941,nutri,verb,"кормить, питать",92.4
+942,serioza,adjective,серьёзный,92.4
+943,artikolo,noun,"статья, артикль",92.3
+944,hararo,noun,"волосы, шевелюра",92.3
+945,kolekti,verb,собирать,91.9
+946,libereco,noun,свобода,91.9
+947,trans,preposition,"через, за",91.9
+948,mantelo,noun,"плащ, пальто",91.7
+949,sukero,noun,сахар,91.7
+950,samtempe,adverb,одновременно,91.6
+951,nubo,noun,облако,91.2
+952,internacia,adjective,международный,91.1
+953,koncerne,adverb,"что касается, относительно",91.1
+954,perfekta,adjective,"совершенный, безупречный",91.1
+955,sidiĝi,verb,"садиться, сесть",91.1
+956,utili,verb,быть полезным,91.1
+957,parolado,noun,"речь, выступление",90.9
+958,tagmanĝo,noun,обед,90.9
+959,malplena,adjective,пустой,90.7
+960,rigardo,noun,взгляд,90.7
+961,freŝa,adjective,свежий,90.5
+962,premi,verb,"давить, жать",90.5
+963,devo,noun,"долг, обязанность",90.2
+964,haltigi,verb,"останавливать, остановить",90.2
+965,malsukcesi,verb,потерпеть неудачу,90.2
+966,krimo,noun,преступление,90.0
+967,manko,noun,"нехватка, недостаток",90.0
+968,adreso,noun,адрес,89.9
+969,socio,noun,общество,89.9
+970,sesa,adjective,шестой,89.7
+971,trompi,verb,обманывать,89.7
+972,ĵurnalo,noun,"газета, журнал",89.5
+973,promeso,noun,обещание,89.5
+974,malsani,verb,болеть,89.3
+975,nazo,noun,нос,89.3
+976,utila,adjective,полезный,89.3
+977,itala,adjective,итальянский,89.0
+978,stacio,noun,"станция, остановка",89.0
+979,fieri,verb,гордиться,88.7
+980,kurso,noun,курс,88.5
+981,armilo,noun,оружие,88.3
+982,prizorgi,verb,"заботиться, ухаживать",88.1
+983,advokato,noun,адвокат,88.0
+984,flughaveno,noun,аэропорт,88.0
+985,numero,noun,номер,88.0
+986,dubi,verb,сомневаться,87.8
+987,plenigi,verb,"наполнять, заполнять",87.8
+988,verko,noun,"произведение, сочинение",87.8
+989,eŭropa,adjective,европейский,87.5
+990,tagmanĝi,verb,обедать,87.5
+991,antaŭa,adjective,"предыдущий, прежний",87.1
+992,maltrankviliĝi,verb,"волноваться, беспокоиться",87.1
+993,protekti,verb,защищать,87.1
+994,redoni,verb,"возвращать, отдавать",87.1
+995,malfacilaĵo,noun,"трудность, затруднение",86.8
+996,natura,adjective,"природный, естественный",86.8
+997,necesa,adjective,"необходимый, нужный",86.8
+998,taŭga,adjective,"годный, подходящий",86.6
+999,malbono,noun,зло,86.4
+1000,fingro,noun,палец,86.3

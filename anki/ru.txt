@@ -1,0 +1,1000 @@
+la	определённый артикль
+mi	я
+esti	быть
+vi	ты, вы
+ne	не, нет
+li	он
+de	от, из, с; принадлежность
+al	к, в (направление)
+en	в
+ke	что, чтобы (союз)
+kaj	и
+tio	то, это
+ĉu	ли; вопросительная частица
+ni	мы
+ŝi	она
+tiu	тот, этот
+mia	мой
+por	для, ради, чтобы
+povi	мочь
+kiu	кто, который
+havi	иметь
+ili	они
+ĉi	здесь, этот (как в tiu ĉi)
+ĝi	оно (о предметах, животных)
+sia	свой
+pri	о, об, про
+fari	делать
+kio	что
+via	твой, ваш
+diri	сказать
+voli	хотеть
+pli	более, больше
+kun	с (вместе с)
+kiel	как
+scii	знать (факты)
+oni	неопределённое лицо («говорят»)
+ĉiu	каждый, всякий
+da	(после слова количества)
+devi	быть должным, надо
+iri	идти, ехать
+tie	там
+sed	но, а
+kiam	когда
+tre	очень
+el	из
+se	если
+ŝati	любить, ценить
+ol	чем (при сравнении)
+lia	его
+paroli	говорить
+nur	только
+vidi	видеть
+sur	на
+plej	наиболее, самый
+homo	человек
+per	посредством, с помощью
+bona	хороший, добрый
+unu	один
+je	общий предлог (je la tria: в три часа)
+nia	наш
+veni	приходить, приезжать
+dum	во время, в течение, пока
+alia	другой, иной
+kial	почему, зачем
+io	что-то, нечто
+nun	теперь, сейчас
+kredi	верить, полагать
+tiel	так, таким образом
+pro	из-за, ради
+jam	уже
+neniam	никогда
+bone	хорошо
+kie	где
+si	себя, себе (возвратное)
+iu	кто-то, какой-то
+ĉio	всё
+ankoraŭ	ещё
+tempo	время
+ĉiam	всегда
+pensi	думать
+granda	большой, крупный
+multa	многие, много
+manĝi	есть, кушать
+bezoni	нуждаться
+aŭ	или
+antaŭ	перед, до
+neniu	никто, никакой
+libro	книга
+infano	ребёнок, дитя
+jaro	год
+lingvo	язык
+multe	много
+kiom	сколько
+vere	действительно, правда
+vivo	жизнь
+tago	день
+okazi	случаться, происходить
+ŝia	её
+trovi	находить, найти
+du	два
+doni	давать, дать
+post	после, позади
+domo	дом
+ĉe	у, при
+nenio	ничто, ничего
+hodiaŭ	сегодня
+tro	слишком
+ankaŭ	тоже, также
+plu	дальше, ещё
+helpi	помогать
+aĉeti	покупать, купить
+resti	оставаться
+mono	деньги
+afero	дело, вещь
+ĉar	потому что, так как
+amiko	друг
+bela	красивый
+nova	новый
+tute	совсем, полностью
+peti	просить
+kompreni	понимать
+eĉ	даже
+tuta	весь, целый
+bonvoli	быть любезным (bonvolu: пожалуйста)
+laboro	работа, труд
+labori	работать
+ĝis	до
+jen	вот
+vivi	жить
+iom	немного, сколько-то
+atendi	ждать
+laŭ	по, согласно
+patro	отец
+sen	без
+rigardi	смотреть
+provi	пробовать, пытаться
+lerni	учиться, изучать
+aŭto	автомобиль, машина
+tiom	столько
+legi	читать
+vorto	слово
+tri	три
+kelka	несколько, некоторый
+aŭdi	слышать
+ami	любить
+loĝi	проживать, жить (в месте)
+horo	час
+deziri	желать
+ofte	часто
+ajn	бы ни (kiu ajn: кто бы ни)
+senti	чувствовать
+sola	единственный, одинокий
+mem	сам (подчёркивание)
+mondo	мир, свет
+problemo	проблема
+viro	мужчина
+hundo	собака
+kia	какой
+eble	возможно, может быть
+lasi	оставлять, позволять
+koni	знать (человека, место)
+tia	такой
+ŝajni	казаться
+hejme	дома
+lando	страна
+uzi	использовать, употреблять
+morgaŭ	завтра
+hieraŭ	вчера
+preni	брать, взять
+opinii	считать, иметь мнение
+iam	когда-то, когда-нибудь
+ludi	играть
+patrino	мать
+virino	женщина
+ĉambro	комната
+inter	между, среди
+alveni	прибывать, прибыть
+kontraŭ	против, напротив
+ekzisti	существовать
+unua	первый
+akvo	вода
+morti	умирать, умереть
+skribi	писать
+lernejo	школа
+franca	французский
+sukcesi	удаваться, получаться
+ja	ведь, же (усиление)
+demandi	спрашивать
+urbo	город
+foriri	уходить, уезжать
+forgesi	забывать, забыть
+trinki	пить
+angla	английский
+rajti	иметь право
+do	итак, значит
+frazo	фраза, предложение
+dek	десять
+tuj	сразу, тотчас
+nomo	имя, название
+aspekti	выглядеть
+demando	вопрос
+kato	кошка, кот
+iĝi	становиться, стать
+viziti	посещать, навещать
+kapabli	быть способным
+perdi	терять, потерять
+ricevi	получать, получить
+dio	Бог, бог
+reveni	возвращаться, вернуться
+rapide	быстро
+preskaŭ	почти
+timi	бояться
+ilia	их
+sufiĉe	достаточно
+dormi	спать
+longe	долго
+pordo	дверь, ворота
+knabo	мальчик
+ĉesi	переставать, прекращаться
+plaĉi	нравиться
+frato	брат
+esperi	надеяться
+okulo	глаз
+komenci	начинать, начать
+mano	рука (кисть)
+vero	истина, правда
+tiam	тогда
+knabino	девочка
+malbona	плохой
+edzino	жена
+renkonti	встречать, встретить
+ideo	идея, мысль
+instruisto	учитель, преподаватель
+loko	место
+simple	просто
+necesi	быть необходимым
+filo	сын
+persono	персона, лицо
+serĉi	искать
+studi	изучать, учиться
+gepatro	родитель
+vojo	дорога, путь
+meti	класть, ставить
+montri	показывать, показать
+baldaŭ	скоро, вскоре
+denove	снова, опять
+juna	молодой, юный
+lasta	последний
+memori	помнить
+ebli	быть возможным
+grava	важный
+longa	длинный, долгий
+feliĉa	счастливый
+eraro	ошибка
+amo	любовь
+tra	через, сквозь
+letero	письмо
+atingi	достигать, достичь
+troviĝi	находиться
+aŭskulti	слушать
+fratino	сестра
+arbo	дерево
+apud	рядом с, возле
+scipovi	уметь
+nek	ни, и не
+antaŭe	раньше, прежде
+decidi	решать, решить
+malgranda	маленький
+nokto	ночь
+eliri	выходить, выйти
+respondi	отвечать
+vespere	вечером
+semajno	неделя
+propra	собственный, свой
+certe	конечно, несомненно
+fojo	раз
+sama	тот же, такой же
+vera	настоящий, истинный
+poste	потом, затем
+sub	под
+familio	семья
+fariĝi	становиться, стать
+frue	рано
+esperanto	эсперанто (язык)
+ĵus	только что
+ambaŭ	оба, обе
+sidi	сидеть
+pagi	платить
+eniri	входить, войти
+alta	высокий
+ŝanĝi	менять, изменять
+kafo	кофе
+kvin	пять
+kuracisto	врач
+facile	легко
+ekde	начиная с, с (о времени)
+malpli	менее, меньше
+helpo	помощь
+tablo	стол
+ruĝa	красный
+fenestro	окно
+gravi	быть важным
+tamen	однако, всё же
+ĉirkaŭ	вокруг, около
+filmo	фильм
+malnova	старый
+trajno	поезд
+rakonti	рассказывать
+forlasi	покидать, оставлять
+koro	сердце
+akcepti	принимать
+tero	земля
+kanti	петь
+pasigi	проводить (время)
+jes	да
+sendi	посылать, отправлять
+sinjoro	господин
+blanka	белый
+malfermi	открывать
+manki	не хватать, отсутствовать
+naĝi	плавать
+matene	утром
+opinio	мнение
+kvazaŭ	будто, как будто
+igi	заставлять, делать (каким-то)
+mortigi	убивать
+preferi	предпочитать
+morto	смерть
+intenci	намереваться
+stari	стоять
+minuto	минута
+strato	улица
+verŝajne	вероятно, наверное
+malfacile	трудно, с трудом
+floro	цветок
+teni	держать
+kune	вместе
+instrui	учить, преподавать
+fini	заканчивать, закончить
+konsideri	считать, рассматривать
+gajni	выигрывать, зарабатывать
+filino	дочь
+verda	зелёный
+monato	месяц
+kapo	голова
+dua	второй
+porti	нести, носить
+plenumi	выполнять, исполнять
+bedaŭri	сожалеть, жалеть
+ĉiutage	ежедневно, каждый день
+muziko	музыка
+ĝardeno	сад
+kuri	бежать, бегать
+besto	животное, зверь
+festo	праздник
+agi	действовать, поступать
+historio	история
+ĉielo	небо, небеса
+zorgi	заботиться
+finfine	наконец, в конце концов
+signifi	значить, означать
+iomete	немного, чуть-чуть
+manĝaĵo	еда, пища
+fali	падать, упасть
+sekvi	следовать, идти за
+ege	чрезвычайно, крайне
+rivero	река
+respondo	ответ
+kutime	обычно
+telefoni	звонить по телефону
+maniero	способ, манера
+nomi	называть, назвать
+klarigi	объяснять
+studento	студент
+forta	сильный
+milito	война
+mil	тысяча
+birdo	птица
+nigra	чёрный
+situacio	ситуация, положение
+vetero	погода
+surhavi	носить (об одежде)
+suno	солнце
+naskiĝi	родиться
+elekti	выбирать, избирать
+plia	дополнительный, ещё один
+kapti	ловить, поймать
+malfacila	трудный, сложный
+arbaro	лес
+veturi	ехать, ездить
+momento	момент, миг
+danko	благодарность
+kosti	стоить
+plena	полный
+krom	кроме
+parto	часть, доля
+fidi	доверять, полагаться
+plano	план
+certi	быть уверенным
+germana	немецкий
+pluvi	идти (о дожде)
+edzo	муж
+maljuna	старый, пожилой (о людях)
+mensogi	лгать, врать
+celo	цель
+konsenti	соглашаться
+permesi	разрешать, позволять
+atenti	обращать внимание
+same	так же, одинаково
+japana	японский
+vizaĝo	лицо
+vendi	продавать
+kvar	четыре
+komputilo	компьютер
+certa	уверенный, определённый
+plori	плакать
+vino	вино
+ekstere	снаружи
+novaĵo	новость, новинка
+ĝia	его, её (о предмете)
+malfrue	поздно
+temi	говориться (о чём-то), касаться
+kvankam	хотя
+pano	хлеб
+funkcii	функционировать, работать
+fakte	фактически, на самом деле
+alporti	приносить, принести
+pardoni	прощать, простить
+for	прочь
+ĝuste	точно, как раз
+kies	чей
+kreski	расти
+daŭri	длиться, продолжаться
+konduki	вести, приводить
+lumo	свет
+blua	синий, голубой
+akiri	приобретать, получать
+vojaĝi	путешествовать
+teo	чай
+akcidento	несчастный случай, авария
+riĉa	богатый
+kaŝi	прятать, скрывать
+ho	о, ох (междометие)
+pomo	яблоко
+malami	ненавидеть
+lavi	мыть
+maro	море
+donaco	подарок, дар
+ludo	игра
+lito	кровать, постель
+interesa	интересный
+ĉevalo	лошадь, конь
+stulta	глупый
+stranga	странный
+promesi	обещать
+tasko	задача, задание
+homa	человеческий
+pasi	проходить, пройти
+skatolo	коробка, ящик
+fumi	курить, дымить
+rimarki	замечать, заметить
+traduki	переводить (на язык)
+venki	побеждать, победить
+foto	фото, фотография
+popolo	народ
+restoracio	ресторан
+finiĝi	заканчиваться, закончиться
+parko	парк
+tial	поэтому, потому
+buso	автобус
+fermi	закрывать, закрыть
+aparteni	принадлежать
+muro	стена
+polico	полиция
+spekti	смотреть (зрелище)
+vojaĝo	путешествие, поездка
+regi	править, управлять
+multo	множество, масса
+trafi	попадать, попасть
+kaŭzi	вызывать, причинять
+ridi	смеяться
+unue	сначала, во-первых
+venonta	следующий, будущий
+ekzameno	экзамен
+farti	чувствовать себя (о здоровье)
+lakto	молоко
+ĝui	наслаждаться
+nomiĝi	называться
+aperi	появляться, выходить
+ĝusta	правильный, верный
+super	над, сверх
+malfrui	опаздывать
+fiŝo	рыба
+supozi	предполагать, допускать
+haro	волос, волосы
+leĝo	закон
+ĝoji	радоваться
+fakto	факт
+ĉeesti	присутствовать
+kuŝi	лежать
+imagi	воображать, представлять
+daŭre	постоянно, непрерывно
+pravi	быть правым
+kisi	целовать
+oficejo	офис, контора
+ŝategi	очень любить, обожать
+ulo	тип, парень, человек
+amikino	подруга
+bildo	картинка, изображение
+lernanto	ученик, учащийся
+tridek	тридцать
+biciklo	велосипед
+malsana	больной
+korpo	тело
+nokte	ночью
+plura	несколько
+ŝuo	туфля, ботинок
+konsilo	совет
+kialo	причина
+reĝo	король, царь
+sento	чувство
+monto	гора
+almenaŭ	по крайней мере, хотя бы
+apenaŭ	едва, еле
+pasinta	прошлый
+precize	точно
+nu	ну
+simili	быть похожим
+voĉo	голос
+voki	звать, позвать
+suferi	страдать
+fino	конец
+ŝlosilo	ключ
+komenciĝi	начинаться, начаться
+sukceso	успех
+rifuzi	отказываться, отказывать
+laca	усталый
+glaso	стакан
+eta	небольшой, маленький
+konstrui	строить
+preta	готовый
+verki	сочинять, писать (произведение)
+alvoki	призывать, звать
+kuiri	готовить (еду), варить
+dudek	двадцать
+temo	тема
+libera	свободный
+prepari	готовить, подготовить
+solvi	решать (задачу)
+flugi	летать, лететь
+pluvo	дождь
+hejmo	родной дом, очаг
+rezulto	результат
+ŝipo	корабль, судно
+rakonto	рассказ
+telefono	телефон
+ŝanco	шанс
+rompi	ломать, сломать
+ŝteli	красть, украсть
+aĝo	возраст
+malantaŭ	позади, за
+feliĉo	счастье
+eviti	избегать
+konstruaĵo	здание
+seĝo	стул
+ekscii	узнать
+ĵeti	бросать, кидать
+biero	пиво
+purigi	чистить, очищать
+subite	вдруг, внезапно
+malamiko	враг
+postuli	требовать
+preti	быть готовым
+vento	ветер
+kanto	песня
+prezo	цена
+dolaro	доллар
+des	тем (ju pli… des pli: чем… тем)
+sano	здоровье
+ŝajne	кажется, по-видимому
+sinjorino	госпожа, дама
+kuko	торт, пирог, кекс
+forto	сила
+vortaro	словарь
+hotelo	гостиница, отель
+decido	решение
+ĝeni	беспокоить, мешать
+rezigni	отказываться (от чего-то)
+fine	наконец
+frukto	фрукт, плод
+panjo	мама
+danci	танцевать
+simpla	простой
+duono	половина
+proponi	предлагать
+scivoli	любопытствовать, хотеть знать
+koloro	цвет
+malsano	болезнь
+varma	тёплый, горячий
+reiri	идти обратно, возвращаться
+kelkfoje	иногда
+bebo	младенец, малыш
+pripensi	обдумывать
+aĵo	вещь, предмет
+piedo	нога, ступня
+nepre	непременно, обязательно
+bedaŭrinde	к сожалению
+folio	лист
+regulo	правило
+ses	шесть
+estonteco	будущее
+farita	сделанный
+okupata	занятой
+ovo	яйцо
+projekto	проект
+starigi	ставить, устанавливать
+ŝatata	любимый
+aldoni	добавлять, добавить
+fama	известный, знаменитый
+prezenti	представлять, показывать
+aĝa	пожилой; имеющий возраст
+fajro	огонь
+bonega	превосходный, отличный
+kristnasko	Рождество
+halti	останавливаться
+bruna	коричневый
+posedi	владеть, обладать
+diferenco	различие, разница
+ia	какой-то
+penso	мысль
+promeni	гулять, прогуливаться
+krei	создавать, творить
+erari	ошибаться
+animo	душа
+danki	благодарить
+najbaro	сосед
+ŝanĝiĝi	меняться, изменяться
+flanko	сторона
+malbone	плохо
+propono	предложение
+trakti	рассматривать, обращаться с
+neĝo	снег
+malvarma	холодный
+usona	американский (США)
+ju	чем (ju pli… des pli: чем… тем)
+vilaĝo	деревня, село
+enlitiĝi	ложиться в постель
+edziĝi	жениться
+ellitiĝi	вставать с постели
+proksime	близко, рядом
+registaro	правительство
+insulo	остров
+rajto	право
+prefere	лучше, предпочтительно
+aviadilo	самолёт
+boni	быть хорошим
+ĉapelo	шляпа
+malmulta	немногий, малочисленный
+emi	быть склонным
+valori	стоить, иметь ценность
+inviti	приглашать
+ĉemizo	рубашка
+anstataŭ	вместо
+konfesi	признавать, признаваться
+malaperi	исчезать, пропадать
+klaso	класс
+facila	лёгкий, нетрудный
+ĉina	китайский
+robo	платье
+vesto	одежда
+stiri	управлять, вести (машину)
+terura	ужасный
+tuŝi	трогать, касаться
+diskuti	обсуждать
+afabla	любезный, приветливый
+sufiĉi	хватать, быть достаточным
+interesi	интересовать
+romano	роман
+nuntempe	ныне, в наше время
+proksima	близкий
+malsama	другой, различный
+okazo	случай, событие
+stelo	звезда
+danĝera	опасный
+viando	мясо
+kuirejo	кухня
+savi	спасать
+horloĝo	часы
+malŝati	не любить, недолюбливать
+proksimume	примерно, приблизительно
+relative	относительно
+ekiri	отправиться, пойти
+mateno	утро
+paco	мир (без войны)
+vespermanĝo	ужин
+ĉie	везде, всюду
+espero	надежда
+kastelo	замок
+naturo	природа
+nombro	число
+sekreto	тайна, секрет
+kampo	поле
+konsisti	состоять (из)
+malfermita	открытый
+inteligenta	умный, сообразительный
+celi	стремиться, целиться
+dento	зуб
+vestaĵo	предмет одежды
+luno	луна
+leciono	урок
+malmulte	мало
+situi	находиться, располагаться
+aero	воздух
+doloro	боль
+forigi	удалять, убирать
+brako	рука (от плеча до кисти)
+arto	искусство
+neniel	никак
+avo	дедушка
+mesaĝo	сообщение, послание
+plani	планировать
+aĝi	быть в возрасте (скольки-то лет)
+informo	сообщение, сведения
+vespero	вечер
+religio	религия
+kutimi	иметь обыкновение
+ree	снова, опять
+flava	жёлтый
+ago	действие, поступок
+universitato	университет
+plezuro	удовольствие
+rusa	русский
+sako	мешок, сумка
+revo	мечта, грёза
+daŭrigi	продолжать
+manĝo	еда, приём пищи
+biblioteko	библиотека
+foje	однажды, как-то раз
+interesiĝi	интересоваться
+onklo	дядя
+mallonga	короткий
+nutraĵo	пища, еда
+fremda	чужой, иностранный
+ripari	чинить, ремонтировать
+sperto	опыт
+taso	чашка
+ŝajnigi	притворяться, делать вид
+konduti	вести себя
+soni	звучать
+rapidi	спешить, торопиться
+konservi	сохранять, хранить
+tria	третий
+rilato	отношение, связь
+malkovri	открывать, обнаруживать
+vekiĝi	просыпаться
+amuza	забавный, весёлый
+pardono	прощение, извинение
+elteni	выдерживать, терпеть
+diversa	разный, различный
+lago	озеро
+partopreni	участвовать
+koleri	сердиться, злиться
+saĝa	мудрый
+dika	толстый
+cent	сто
+teamo	команда
+kunveno	собрание, встреча
+agrabla	приятный
+butiko	магазин, лавка
+konduto	поведение
+eblo	возможность
+scio	знание
+konsili	советовать
+multekosta	дорогой, дорогостоящий
+danĝero	опасность
+pura	чистый
+bruo	шум
+esprimi	выражать
+timo	страх
+deziro	желание
+planedo	планета
+ĉefurbo	столица
+kalkuli	считать, вычислять
+mortinta	умерший, мёртвый
+malofte	редко
+silenti	молчать
+taŭgi	годиться, подходить
+buŝo	рот
+malrapide	медленно
+dolori	болеть
+hejmtasko	домашнее задание
+estro	начальник, руководитель
+renkontiĝi	встречаться
+rozo	роза
+orelo	ухо
+konata	известный, знакомый
+grupo	группа
+kioma	который (по счёту)
+solvo	решение
+somero	лето
+ŝerco	шутка
+hispana	испанский
+sep	семь
+posteno	должность, пост
+sciigi	сообщать, уведомлять
+freneza	безумный, сумасшедший
+plendi	жаловаться
+kontroli	проверять, контролировать
+junulo	юноша, молодой человек
+prezidanto	председатель, президент
+ferio	выходной день, каникулы
+kontenta	довольный
+mensogo	ложь
+ie	где-то
+neniom	нисколько
+stacidomo	вокзал, станция
+ŝtono	камень
+surmeti	надевать, надеть
+gazeto	газета, журнал
+kruro	нога
+medikamento	лекарство
+malgraŭ	несмотря на
+ĉarma	очаровательный, милый
+maljunulo	старик
+bati	бить, ударять
+france	по-французски
+avino	бабушка
+jarcento	век, столетие
+levi	поднимать
+gasto	гость
+meriti	заслуживать
+aliulo	кто-то другой
+komenco	начало
+malfacili	быть трудным
+belega	прекрасный, великолепный
+paĉjo	папа
+posttagmeze	во второй половине дня
+edziniĝi	выходить замуж
+tranĉilo	нож
+dependi	зависеть
+menso	ум, разум
+botelo	бутылка
+donaci	дарить, подарить
+fojfoje	иногда, порой
+koramikino	возлюбленная, девушка
+griza	серый
+konscii	осознавать
+ponto	мост
+rekoni	узнавать, признавать
+batali	сражаться, драться
+disponi	располагать (чем-то)
+malsanulejo	больница
+formo	форма
+ene	внутри
+drinki	пить (спиртное)
+enhavi	содержать
+klopodi	стараться, хлопотать
+veri	быть правдой
+ĝustatempe	вовремя
+eskapi	убегать, спасаться
+krii	кричать
+kaŭzo	причина
+ordo	порядок
+supo	суп
+okupita	занятой
+enamiĝi	влюбляться
+forte	сильно
+politiko	политика
+bongusta	вкусный
+televido	телевидение
+entrepreno	предприятие, начинание
+peco	кусок, часть
+turni	поворачивать, вертеть
+klare	ясно
+mirinda	удивительный, чудесный
+marŝi	идти, шагать, маршировать
+rideti	улыбаться
+ĉefa	главный, основной
+fermita	закрытый
+observi	наблюдать, соблюдать
+papero	бумага
+ties	того (принадлежащий тому)
+sonĝo	сон, сновидение
+teksto	текст
+demeti	снимать, класть
+akompani	сопровождать, провожать
+antikva	древний, античный
+aserti	утверждать, уверять
+ŝtato	государство
+elekto	выбор, выборы
+ĝojo	радость
+maltrafi	промахнуться, не попасть
+ok	восемь
+traduko	перевод
+rimedo	средство
+ripozi	отдыхать
+malriĉa	бедный
+rapida	быстрый
+regiono	регион, область
+banko	банк
+lundo	понедельник
+kutimo	привычка, обычай
+malsati	быть голодным, голодать
+scienco	наука
+sekva	следующий
+subteni	поддерживать
+preĝejo	церковь
+sistemo	система
+superi	превосходить, превзойти
+konvinki	убеждать
+malproksime	далеко
+vintro	зима
+saluto	приветствие
+miliono	миллион
+matematiko	математика
+soldato	солдат
+firmao	фирма, компания
+frapi	ударять, стучать
+grandega	огромный, громадный
+kompreneble	конечно, разумеется
+kulturo	культура
+mendi	заказывать
+supre	наверху, вверху
+kapablo	способность
+raporto	доклад, отчёт
+veki	будить
+komuna	общий
+okulvitro	очки
+loĝejo	жильё, квартира
+kara	дорогой, милый
+paŝo	шаг
+sango	кровь
+sorto	судьба
+homaro	человечество
+malhelpi	мешать, препятствовать
+bileto	билет
+kinejo	кинотеатр
+eksterlande	за границей
+sperti	испытывать, переживать
+memoro	память
+nutri	кормить, питать
+serioza	серьёзный
+artikolo	статья, артикль
+hararo	волосы, шевелюра
+kolekti	собирать
+libereco	свобода
+trans	через, за
+mantelo	плащ, пальто
+sukero	сахар
+samtempe	одновременно
+nubo	облако
+internacia	международный
+koncerne	что касается, относительно
+perfekta	совершенный, безупречный
+sidiĝi	садиться, сесть
+utili	быть полезным
+parolado	речь, выступление
+tagmanĝo	обед
+malplena	пустой
+rigardo	взгляд
+freŝa	свежий
+premi	давить, жать
+devo	долг, обязанность
+haltigi	останавливать, остановить
+malsukcesi	потерпеть неудачу
+krimo	преступление
+manko	нехватка, недостаток
+adreso	адрес
+socio	общество
+sesa	шестой
+trompi	обманывать
+ĵurnalo	газета, журнал
+promeso	обещание
+malsani	болеть
+nazo	нос
+utila	полезный
+itala	итальянский
+stacio	станция, остановка
+fieri	гордиться
+kurso	курс
+armilo	оружие
+prizorgi	заботиться, ухаживать
+advokato	адвокат
+flughaveno	аэропорт
+numero	номер
+dubi	сомневаться
+plenigi	наполнять, заполнять
+verko	произведение, сочинение
+eŭropa	европейский
+tagmanĝi	обедать
+antaŭa	предыдущий, прежний
+maltrankviliĝi	волноваться, беспокоиться
+protekti	защищать
+redoni	возвращать, отдавать
+malfacilaĵo	трудность, затруднение
+natura	природный, естественный
+necesa	необходимый, нужный
+taŭga	годный, подходящий
+malbono	зло
+fingro	палец

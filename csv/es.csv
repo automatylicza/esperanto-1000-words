@@ -1,0 +1,1001 @@
+rank,word,part_of_speech,spanish,per_million
+1,la,article,"el, la, los, las",60872.6
+2,mi,pronoun,"yo, me",44461.8
+3,esti,verb,"ser, estar",40933.8
+4,vi,pronoun,"tú, usted, vosotros, ustedes",25023.8
+5,ne,particle,no,24162.6
+6,li,pronoun,él,16212.2
+7,de,preposition,"de, desde, por (agente)",15991.5
+8,al,preposition,"a, hacia",14901.9
+9,en,preposition,"en, dentro de",14241.1
+10,ke,conjunction,que (conjunción),11849.6
+11,kaj,conjunction,y,11331.8
+12,tio,correlative,eso,10763.0
+13,ĉu,particle,si; marca una pregunta de sí o no,10352.5
+14,ni,pronoun,"nosotros, nos",10077.2
+15,ŝi,pronoun,ella,8607.8
+16,tiu,correlative,"ese, aquel",8421.1
+17,mia,possessive,"mi, mío",7759.4
+18,por,preposition,"para, con el fin de",7021.5
+19,povi,verb,poder,6606.7
+20,kiu,correlative,"quién, cuál, que",6485.8
+21,havi,verb,tener,6342.6
+22,ili,pronoun,"ellos, ellas",5824.4
+23,ĉi,particle,"aquí, este (como en tiu ĉi)",5538.4
+24,ĝi,pronoun,ello (cosa o animal),5272.9
+25,sia,possessive,su (propio),5229.9
+26,pri,preposition,"sobre, acerca de",5222.0
+27,fari,verb,hacer,5113.3
+28,kio,correlative,qué,5080.7
+29,via,possessive,"tu, tuyo, vuestro, su (de usted)",4979.4
+30,diri,verb,decir,4600.4
+31,voli,verb,querer,4553.1
+32,pli,adverb,más,4279.7
+33,kun,preposition,con,4041.4
+34,kiel,correlative,"cómo, como",4040.2
+35,scii,verb,saber,3648.9
+36,oni,pronoun,"se, uno, la gente (impersonal)",3517.9
+37,ĉiu,correlative,"cada, todo, todos",3377.8
+38,da,preposition,de (tras una cantidad),3185.5
+39,devi,verb,"deber, tener que",3152.1
+40,iri,verb,ir,3050.1
+41,tie,correlative,"allí, ahí",2985.3
+42,sed,conjunction,pero,2967.6
+43,kiam,correlative,"cuándo, cuando",2860.3
+44,tre,adverb,muy,2826.6
+45,el,preposition,"de, de entre, fuera de",2797.5
+46,se,conjunction,si (condicional),2632.5
+47,ŝati,verb,"gustar, apreciar",2560.2
+48,ol,conjunction,que (en comparaciones),2485.4
+49,lia,possessive,su (de él),2398.3
+50,paroli,verb,hablar,2367.4
+51,nur,adverb,"solo, solamente",2360.0
+52,vidi,verb,ver,2349.9
+53,sur,preposition,"sobre, encima de",2309.1
+54,plej,adverb,"el más, lo más",2189.4
+55,homo,noun,"persona, ser humano",2181.0
+56,per,preposition,"con, mediante",2181.0
+57,bona,adjective,bueno,1958.4
+58,unu,numeral,"uno, un",1926.9
+59,je,preposition,preposición general (je la tria: a las tres),1855.0
+60,nia,possessive,nuestro,1837.9
+61,veni,verb,venir,1815.4
+62,dum,preposition,"durante, mientras",1759.7
+63,alia,adjective,otro,1727.1
+64,kial,correlative,por qué,1704.3
+65,io,correlative,algo,1669.7
+66,nun,adverb,ahora,1629.6
+67,kredi,verb,creer,1629.4
+68,tiel,correlative,"así, de ese modo",1620.8
+69,pro,preposition,"por, a causa de",1616.5
+70,jam,adverb,ya,1597.7
+71,neniam,correlative,nunca,1591.3
+72,bone,adverb,bien,1587.2
+73,kie,correlative,"dónde, donde",1567.1
+74,si,pronoun,"se, sí mismo",1565.4
+75,iu,correlative,"alguien, algún",1564.6
+76,ĉio,correlative,todo,1541.9
+77,ankoraŭ,adverb,"aún, todavía",1528.0
+78,tempo,noun,tiempo,1523.1
+79,ĉiam,correlative,siempre,1495.1
+80,pensi,verb,pensar,1480.5
+81,granda,adjective,grande,1473.3
+82,multa,adjective,mucho,1448.0
+83,manĝi,verb,comer,1443.3
+84,bezoni,verb,necesitar,1431.7
+85,aŭ,conjunction,o,1408.2
+86,antaŭ,preposition,"antes de, delante de",1401.0
+87,neniu,correlative,"nadie, ningún",1310.1
+88,libro,noun,libro,1296.7
+89,infano,noun,"niño, niña",1290.7
+90,jaro,noun,año,1289.9
+91,lingvo,noun,"lengua, idioma",1247.2
+92,multe,adverb,mucho,1222.8
+93,kiom,correlative,cuánto,1217.3
+94,vere,adverb,"de verdad, realmente",1214.6
+95,vivo,noun,vida,1210.8
+96,tago,noun,día,1197.8
+97,okazi,verb,"ocurrir, suceder",1193.7
+98,ŝia,possessive,su (de ella),1186.3
+99,trovi,verb,"encontrar, hallar",1186.1
+100,du,numeral,dos,1185.9
+101,doni,verb,dar,1146.0
+102,post,preposition,"después de, detrás de",1135.5
+103,domo,noun,casa,1132.8
+104,ĉe,preposition,"en, junto a, en casa de",1130.7
+105,nenio,correlative,nada,1129.9
+106,hodiaŭ,adverb,hoy,1124.7
+107,tro,adverb,demasiado,1119.9
+108,ankaŭ,adverb,también,1112.4
+109,plu,adverb,"más, además (ne plu: ya no)",1108.8
+110,helpi,verb,ayudar,1100.0
+111,aĉeti,verb,comprar,1090.3
+112,resti,verb,"quedarse, permanecer",1079.6
+113,mono,noun,dinero,1078.1
+114,afero,noun,"asunto, cosa",1074.0
+115,ĉar,conjunction,porque,1073.6
+116,amiko,noun,"amigo, amiga",1040.9
+117,bela,adjective,"bello, hermoso",1007.4
+118,nova,adjective,nuevo,1001.4
+119,tute,adverb,"totalmente, del todo",999.5
+120,peti,verb,"pedir, solicitar",976.2
+121,kompreni,verb,"entender, comprender",950.7
+122,eĉ,adverb,"incluso, hasta",940.6
+123,tuta,adjective,"todo, entero",931.3
+124,bonvoli,verb,tener la bondad de (bonvolu: por favor),917.2
+125,laboro,noun,trabajo,901.1
+126,labori,verb,trabajar,897.5
+127,ĝis,preposition,hasta,893.4
+128,jen,particle,"he aquí, aquí está",888.6
+129,vivi,verb,vivir,886.5
+130,iom,correlative,"algo, un poco",879.7
+131,atendi,verb,esperar,875.2
+132,laŭ,preposition,"según, a lo largo de",873.0
+133,patro,noun,padre,860.1
+134,sen,preposition,sin,846.4
+135,rigardi,verb,mirar,845.7
+136,provi,verb,"probar, intentar",845.4
+137,lerni,verb,aprender,842.3
+138,aŭto,noun,"coche, automóvil",836.6
+139,tiom,correlative,tanto,834.6
+140,legi,verb,leer,827.6
+141,vorto,noun,palabra,821.7
+142,tri,numeral,tres,819.5
+143,kelka,adjective,"algunos, unos cuantos",803.7
+144,aŭdi,verb,oír,800.5
+145,ami,verb,amar,792.9
+146,loĝi,verb,"habitar, residir",789.0
+147,horo,noun,hora,784.7
+148,deziri,verb,desear,777.7
+149,ofte,adverb,"a menudo, con frecuencia",773.4
+150,ajn,particle,"cualquier, -quiera (con ki- e i-)",765.6
+151,senti,verb,sentir,764.4
+152,sola,adjective,"solo, único",758.4
+153,mem,particle,"mismo (énfasis), uno mismo",756.7
+154,mondo,noun,mundo,752.4
+155,problemo,noun,problema,751.6
+156,viro,noun,"hombre, varón",746.3
+157,hundo,noun,perro,742.8
+158,kia,correlative,"qué clase de, cómo",740.1
+159,eble,adverb,"quizá, posiblemente",738.7
+160,lasi,verb,dejar,735.1
+161,koni,verb,conocer,726.9
+162,tia,correlative,"tal, de esa clase",725.5
+163,ŝajni,verb,parecer,724.7
+164,hejme,adverb,en casa,716.1
+165,lando,noun,"país, tierra",698.8
+166,uzi,verb,"usar, utilizar",697.4
+167,morgaŭ,adverb,mañana,677.3
+168,hieraŭ,adverb,ayer,674.6
+169,preni,verb,"tomar, coger",672.9
+170,opinii,verb,"opinar, ser de la opinión",672.7
+171,iam,correlative,"alguna vez, algún día",666.7
+172,ludi,verb,"jugar, tocar (un instrumento)",666.5
+173,patrino,noun,madre,663.3
+174,virino,noun,mujer,662.8
+175,ĉambro,noun,"habitación, cuarto",653.8
+176,inter,preposition,entre,653.3
+177,alveni,verb,llegar,640.0
+178,kontraŭ,preposition,"contra, frente a",637.7
+179,ekzisti,verb,existir,635.2
+180,unua,adjective,primero,634.1
+181,akvo,noun,agua,630.7
+182,morti,verb,morir,628.0
+183,skribi,verb,escribir,628.0
+184,lernejo,noun,escuela,626.1
+185,franca,adjective,francés,625.9
+186,sukcesi,verb,"lograr, tener éxito",624.7
+187,ja,particle,"sí que, ciertamente (énfasis)",619.9
+188,demandi,verb,preguntar,617.3
+189,urbo,noun,ciudad,613.2
+190,foriri,verb,"irse, marcharse",611.7
+191,forgesi,verb,olvidar,592.1
+192,trinki,verb,beber,588.7
+193,angla,adjective,inglés,582.5
+194,rajti,verb,"tener derecho a, poder (permiso)",579.1
+195,do,particle,"pues, así que",576.2
+196,frazo,noun,"oración, frase",572.7
+197,dek,numeral,diez,568.1
+198,tuj,adverb,"enseguida, al instante",563.5
+199,nomo,noun,nombre,556.6
+200,aspekti,verb,"tener aspecto, parecer",553.7
+201,demando,noun,pregunta,550.6
+202,kato,noun,gato,550.6
+203,iĝi,verb,"hacerse, volverse",543.6
+204,viziti,verb,visitar,533.0
+205,kapabli,verb,"ser capaz de, poder",526.6
+206,perdi,verb,perder,520.9
+207,ricevi,verb,recibir,520.1
+208,dio,noun,"Dios, dios",517.3
+209,reveni,verb,"volver, regresar",516.8
+210,rapide,adverb,"rápido, rápidamente",514.8
+211,preskaŭ,adverb,casi,512.0
+212,timi,verb,"temer, tener miedo",510.1
+213,ilia,possessive,su (de ellos),510.0
+214,sufiĉe,adverb,"bastante, suficientemente",507.4
+215,dormi,verb,dormir,505.5
+216,longe,adverb,"mucho tiempo, largamente",504.8
+217,pordo,noun,puerta,494.2
+218,knabo,noun,"niño, chico",491.5
+219,ĉesi,verb,"cesar, parar",483.2
+220,plaĉi,verb,"agradar, gustar",482.5
+221,frato,noun,hermano,480.8
+222,esperi,verb,"esperar, tener esperanza",479.5
+223,okulo,noun,ojo,478.9
+224,komenci,verb,"comenzar, empezar",476.9
+225,mano,noun,mano,475.5
+226,vero,noun,verdad,472.8
+227,tiam,correlative,entonces,470.2
+228,knabino,noun,"niña, chica",469.7
+229,malbona,adjective,malo,468.3
+230,edzino,noun,esposa,461.8
+231,renkonti,verb,"encontrarse con, conocer a",461.1
+232,ideo,noun,idea,459.0
+233,instruisto,noun,"maestro, profesor",450.8
+234,loko,noun,lugar,450.8
+235,simple,adverb,simplemente,449.6
+236,necesi,verb,ser necesario,444.6
+237,filo,noun,hijo,444.3
+238,persono,noun,persona,443.8
+239,serĉi,verb,buscar,435.4
+240,studi,verb,estudiar,435.0
+241,gepatro,noun,"padre o madre, progenitor",431.4
+242,vojo,noun,"camino, vía",430.6
+243,meti,verb,"poner, colocar",429.2
+244,montri,verb,"mostrar, enseñar",428.9
+245,baldaŭ,adverb,"pronto, dentro de poco",428.7
+246,denove,adverb,"de nuevo, otra vez",424.9
+247,juna,adjective,joven,423.9
+248,lasta,adjective,último,420.6
+249,memori,verb,"recordar, acordarse",417.0
+250,ebli,verb,ser posible,414.8
+251,grava,adjective,importante,410.0
+252,longa,adjective,largo,406.4
+253,feliĉa,adjective,feliz,405.7
+254,eraro,noun,"error, equivocación",398.2
+255,amo,noun,amor,397.0
+256,tra,preposition,a través de,392.2
+257,letero,noun,carta,391.3
+258,atingi,verb,"alcanzar, lograr",388.9
+259,troviĝi,verb,"encontrarse, hallarse",388.2
+260,aŭskulti,verb,escuchar,388.1
+261,fratino,noun,hermana,388.1
+262,arbo,noun,árbol,387.2
+263,apud,preposition,"junto a, al lado de",385.8
+264,scipovi,verb,saber (hacer algo),385.5
+265,nek,conjunction,"ni, tampoco",383.1
+266,antaŭe,adverb,"antes, anteriormente",382.6
+267,decidi,verb,decidir,381.9
+268,malgranda,adjective,pequeño,381.7
+269,nokto,noun,noche,381.2
+270,eliri,verb,salir,380.9
+271,respondi,verb,"responder, contestar",378.8
+272,vespere,adverb,"por la tarde, al anochecer",377.9
+273,semajno,noun,semana,376.7
+274,propra,adjective,propio,369.7
+275,certe,adverb,"seguro, por supuesto",368.2
+276,fojo,noun,vez,366.8
+277,sama,adjective,"mismo, igual",366.8
+278,vera,adjective,verdadero,362.0
+279,poste,adverb,"después, luego",361.0
+280,sub,preposition,"debajo de, bajo",355.3
+281,familio,noun,familia,355.1
+282,fariĝi,verb,"volverse, convertirse en",354.3
+283,frue,adverb,temprano,350.7
+284,esperanto,noun,esperanto (el idioma),349.3
+285,ĵus,adverb,"hace un momento, acaba de",349.3
+286,ambaŭ,adjective,ambos,348.1
+287,sidi,verb,estar sentado,342.8
+288,pagi,verb,pagar,341.1
+289,eniri,verb,entrar,339.2
+290,alta,adjective,alto,337.0
+291,ŝanĝi,verb,cambiar,336.1
+292,kafo,noun,café,330.4
+293,kvin,numeral,cinco,330.1
+294,kuracisto,noun,médico,329.9
+295,facile,adverb,fácilmente,328.4
+296,ekde,preposition,"desde, a partir de",327.9
+297,malpli,adverb,menos,325.8
+298,helpo,noun,ayuda,325.3
+299,tablo,noun,mesa,324.8
+300,ruĝa,adjective,rojo,322.2
+301,fenestro,noun,ventana,321.2
+302,gravi,verb,"importar, ser importante",320.1
+303,tamen,adverb,"sin embargo, no obstante",316.7
+304,ĉirkaŭ,preposition,"alrededor de, aproximadamente",313.6
+305,filmo,noun,película,312.9
+306,malnova,adjective,"viejo, antiguo",309.7
+307,trajno,noun,tren,309.5
+308,rakonti,verb,"contar, relatar",309.3
+309,forlasi,verb,"abandonar, dejar",309.0
+310,koro,noun,corazón,308.0
+311,akcepti,verb,aceptar,307.8
+312,tero,noun,"tierra, suelo",307.6
+313,kanti,verb,cantar,307.3
+314,pasigi,verb,pasar (tiempo),306.3
+315,jes,particle,sí,306.1
+316,sendi,verb,"enviar, mandar",305.4
+317,sinjoro,noun,señor,305.4
+318,blanka,adjective,blanco,305.2
+319,malfermi,verb,abrir,305.1
+320,manki,verb,faltar,303.9
+321,naĝi,verb,nadar,303.7
+322,matene,adverb,por la mañana,300.9
+323,opinio,noun,opinión,300.8
+324,kvazaŭ,conjunction,como si,299.9
+325,igi,verb,"hacer que, causar",298.2
+326,mortigi,verb,matar,295.5
+327,preferi,verb,preferir,293.9
+328,morto,noun,muerte,293.1
+329,intenci,verb,tener la intención de,292.5
+330,stari,verb,estar de pie,292.2
+331,minuto,noun,minuto,291.7
+332,strato,noun,calle,289.1
+333,verŝajne,adverb,"probablemente, seguramente",286.9
+334,malfacile,adverb,con dificultad,286.2
+335,floro,noun,flor,285.9
+336,teni,verb,"sostener, mantener",285.3
+337,kune,adverb,"juntos, en compañía",285.0
+338,instrui,verb,enseñar,283.5
+339,fini,verb,"terminar, acabar",283.1
+340,konsideri,verb,considerar,282.8
+341,gajni,verb,ganar,281.9
+342,filino,noun,hija,280.2
+343,verda,adjective,verde,279.9
+344,monato,noun,mes,278.8
+345,kapo,noun,cabeza,278.5
+346,dua,adjective,segundo,277.6
+347,porti,verb,"llevar, traer",277.3
+348,plenumi,verb,"cumplir, realizar",276.6
+349,bedaŭri,verb,"lamentar, sentir",275.4
+350,ĉiutage,adverb,"cada día, a diario",275.1
+351,muziko,noun,música,270.1
+352,ĝardeno,noun,jardín,267.8
+353,kuri,verb,correr,265.8
+354,besto,noun,"animal, bestia",265.4
+355,festo,noun,fiesta,265.3
+356,agi,verb,"actuar, obrar",264.8
+357,historio,noun,historia,264.1
+358,ĉielo,noun,cielo,262.5
+359,zorgi,verb,"cuidar, preocuparse",262.4
+360,finfine,adverb,"por fin, finalmente",262.0
+361,signifi,verb,significar,260.5
+362,iomete,adverb,un poco,260.0
+363,manĝaĵo,noun,comida,259.3
+364,fali,verb,caer,259.1
+365,sekvi,verb,seguir,258.9
+366,ege,adverb,"sumamente, extremadamente",257.9
+367,rivero,noun,río,257.2
+368,respondo,noun,respuesta,256.2
+369,kutime,adverb,"normalmente, por lo general",255.7
+370,telefoni,verb,llamar por teléfono,251.6
+371,maniero,noun,"manera, modo",250.5
+372,nomi,verb,"llamar, nombrar",249.8
+373,klarigi,verb,"explicar, aclarar",247.6
+374,studento,noun,estudiante,247.6
+375,forta,adjective,fuerte,246.6
+376,milito,noun,guerra,246.2
+377,mil,numeral,mil,245.9
+378,birdo,noun,"pájaro, ave",244.5
+379,nigra,adjective,negro,244.5
+380,situacio,noun,situación,244.5
+381,vetero,noun,tiempo (meteorológico),244.0
+382,surhavi,verb,llevar puesto,243.3
+383,suno,noun,sol,243.0
+384,naskiĝi,verb,nacer,242.5
+385,elekti,verb,"elegir, escoger",242.1
+386,plia,adjective,"adicional, otro más",241.3
+387,kapti,verb,"atrapar, capturar",240.4
+388,malfacila,adjective,difícil,240.4
+389,arbaro,noun,bosque,239.6
+390,veturi,verb,"ir en vehículo, viajar",239.6
+391,momento,noun,momento,238.5
+392,danko,noun,"gracias, agradecimiento",237.5
+393,kosti,verb,costar,237.3
+394,plena,adjective,"lleno, completo",236.0
+395,krom,preposition,"excepto, además de",235.8
+396,parto,noun,parte,235.6
+397,fidi,verb,confiar,235.3
+398,plano,noun,plan,234.2
+399,certi,verb,"estar seguro, ser cierto",234.1
+400,germana,adjective,alemán,234.1
+401,pluvi,verb,llover,233.6
+402,edzo,noun,"esposo, marido",232.5
+403,maljuna,adjective,"viejo, anciano",232.4
+404,mensogi,verb,mentir,232.4
+405,celo,noun,"meta, objetivo",229.6
+406,konsenti,verb,"estar de acuerdo, consentir",227.6
+407,permesi,verb,permitir,226.5
+408,atenti,verb,prestar atención,225.5
+409,same,adverb,"igualmente, del mismo modo",225.5
+410,japana,adjective,japonés,224.6
+411,vizaĝo,noun,"cara, rostro",224.3
+412,vendi,verb,vender,224.1
+413,kvar,numeral,cuatro,223.8
+414,komputilo,noun,"computadora, ordenador",223.4
+415,certa,adjective,"seguro, cierto",222.9
+416,plori,verb,llorar,221.7
+417,vino,noun,vino,220.7
+418,ekstere,adverb,"fuera, afuera",220.2
+419,novaĵo,noun,"noticia, novedad",219.5
+420,ĝia,possessive,su (de ello),218.5
+421,malfrue,adverb,tarde,218.5
+422,temi,verb,tratar de (un tema),218.3
+423,kvankam,conjunction,aunque,217.4
+424,pano,noun,pan,217.1
+425,funkcii,verb,funcionar,216.2
+426,fakte,adverb,"de hecho, en realidad",215.9
+427,alporti,verb,traer,213.8
+428,pardoni,verb,perdonar,213.8
+429,for,adverb,"lejos, fuera",212.8
+430,ĝuste,adverb,"exactamente, justo",212.5
+431,kies,correlative,"cuyo, de quién",211.8
+432,kreski,verb,crecer,211.8
+433,daŭri,verb,"durar, continuar",210.7
+434,konduki,verb,"conducir, guiar",209.7
+435,lumo,noun,luz,209.4
+436,blua,adjective,azul,209.0
+437,akiri,verb,"adquirir, conseguir",208.7
+438,vojaĝi,verb,viajar,208.0
+439,teo,noun,té,207.8
+440,akcidento,noun,accidente,207.7
+441,riĉa,adjective,rico,206.6
+442,kaŝi,verb,"esconder, ocultar",206.5
+443,ho,interjection,oh,206.3
+444,pomo,noun,manzana,206.1
+445,malami,verb,odiar,205.6
+446,lavi,verb,lavar,205.4
+447,maro,noun,mar,205.3
+448,donaco,noun,"regalo, obsequio",204.9
+449,ludo,noun,juego,204.7
+450,lito,noun,cama,204.4
+451,interesa,adjective,interesante,203.9
+452,ĉevalo,noun,caballo,202.2
+453,stulta,adjective,"tonto, estúpido",202.2
+454,stranga,adjective,"extraño, raro",202.0
+455,promesi,verb,prometer,201.1
+456,tasko,noun,tarea,199.9
+457,homa,adjective,humano,199.8
+458,pasi,verb,pasar,199.6
+459,skatolo,noun,caja,199.6
+460,fumi,verb,fumar,199.4
+461,rimarki,verb,"notar, darse cuenta de",199.1
+462,traduki,verb,traducir,198.4
+463,venki,verb,vencer,197.7
+464,foto,noun,"foto, fotografía",197.4
+465,popolo,noun,pueblo,195.5
+466,restoracio,noun,restaurante,195.5
+467,finiĝi,verb,"terminar, acabarse",195.1
+468,parko,noun,parque,195.0
+469,tial,correlative,"por eso, por esa razón",194.8
+470,buso,noun,autobús,194.5
+471,fermi,verb,cerrar,193.3
+472,aparteni,verb,pertenecer,193.1
+473,muro,noun,"muro, pared",193.1
+474,polico,noun,policía,193.1
+475,spekti,verb,ver (un espectáculo),192.6
+476,vojaĝo,noun,viaje,191.7
+477,regi,verb,"gobernar, dirigir",190.5
+478,multo,noun,"multitud, gran cantidad",190.3
+479,trafi,verb,"acertar, dar en",190.2
+480,kaŭzi,verb,causar,189.8
+481,ridi,verb,reír,189.5
+482,unue,adverb,"primero, en primer lugar",189.5
+483,venonta,adjective,"próximo, siguiente",188.8
+484,ekzameno,noun,examen,188.3
+485,farti,verb,encontrarse (de salud),187.6
+486,lakto,noun,leche,187.6
+487,ĝui,verb,disfrutar,187.4
+488,nomiĝi,verb,llamarse,187.3
+489,aperi,verb,aparecer,186.7
+490,ĝusta,adjective,"correcto, justo",186.7
+491,super,preposition,"sobre, por encima de",186.4
+492,malfrui,verb,"llegar tarde, retrasarse",185.5
+493,fiŝo,noun,"pez, pescado",185.4
+494,supozi,verb,suponer,184.7
+495,haro,noun,"pelo, cabello",184.5
+496,leĝo,noun,ley,184.3
+497,ĝoji,verb,"alegrarse, estar contento",184.0
+498,fakto,noun,hecho,183.7
+499,ĉeesti,verb,"estar presente, asistir",183.0
+500,kuŝi,verb,"estar acostado, yacer",182.6
+501,imagi,verb,imaginar,182.5
+502,daŭre,adverb,"continuamente, sin cesar",181.3
+503,pravi,verb,tener razón,181.1
+504,kisi,verb,besar,180.7
+505,oficejo,noun,oficina,180.2
+506,ŝategi,verb,"gustar mucho, adorar",180.2
+507,ulo,noun,"individuo, tipo",179.9
+508,amikino,noun,amiga,179.7
+509,bildo,noun,"imagen, cuadro",179.5
+510,lernanto,noun,"alumno, estudiante",179.0
+511,tridek,numeral,treinta,179.0
+512,biciklo,noun,bicicleta,178.0
+513,malsana,adjective,enfermo,177.8
+514,korpo,noun,cuerpo,177.7
+515,nokte,adverb,"de noche, por la noche",177.7
+516,plura,adjective,varios,177.5
+517,ŝuo,noun,zapato,176.6
+518,konsilo,noun,consejo,176.5
+519,kialo,noun,"razón, motivo",176.3
+520,reĝo,noun,rey,175.9
+521,sento,noun,"sentimiento, sensación",175.9
+522,monto,noun,"montaña, monte",175.6
+523,almenaŭ,adverb,al menos,175.3
+524,apenaŭ,adverb,apenas,175.3
+525,pasinta,adjective,"pasado, último",175.3
+526,precize,adverb,"con precisión, exactamente",175.3
+527,nu,particle,"bueno, pues",175.1
+528,simili,verb,parecerse a,174.9
+529,voĉo,noun,voz,174.4
+530,voki,verb,llamar,174.2
+531,suferi,verb,sufrir,174.1
+532,fino,noun,"fin, final",173.9
+533,ŝlosilo,noun,llave,173.5
+534,komenciĝi,verb,"iniciarse, empezar",173.4
+535,sukceso,noun,éxito,173.4
+536,rifuzi,verb,"rechazar, negarse",173.2
+537,laca,adjective,cansado,173.0
+538,glaso,noun,"vaso, copa",172.5
+539,eta,adjective,"pequeño, diminuto",171.8
+540,konstrui,verb,construir,171.8
+541,preta,adjective,"listo, preparado",171.3
+542,verki,verb,"escribir (una obra), componer",170.8
+543,alvoki,verb,"convocar, llamar",170.4
+544,kuiri,verb,cocinar,170.3
+545,dudek,numeral,veinte,170.1
+546,temo,noun,tema,169.2
+547,libera,adjective,libre,168.6
+548,prepari,verb,preparar,168.4
+549,solvi,verb,resolver,167.5
+550,flugi,verb,volar,167.4
+551,pluvo,noun,lluvia,167.2
+552,hejmo,noun,hogar,166.3
+553,rezulto,noun,resultado,166.2
+554,ŝipo,noun,"barco, buque",166.0
+555,rakonto,noun,"cuento, relato",165.8
+556,telefono,noun,teléfono,165.3
+557,ŝanco,noun,"suerte, oportunidad",164.3
+558,rompi,verb,romper,163.4
+559,ŝteli,verb,robar,162.4
+560,aĝo,noun,edad,162.0
+561,malantaŭ,preposition,detrás de,161.5
+562,feliĉo,noun,felicidad,161.4
+563,eviti,verb,evitar,161.0
+564,konstruaĵo,noun,edificio,161.0
+565,seĝo,noun,silla,160.7
+566,ekscii,verb,"enterarse, descubrir",160.3
+567,ĵeti,verb,"lanzar, arrojar",160.2
+568,biero,noun,cerveza,159.5
+569,purigi,verb,limpiar,159.5
+570,subite,adverb,de repente,159.0
+571,malamiko,noun,enemigo,158.8
+572,postuli,verb,"exigir, requerir",158.6
+573,preti,verb,estar listo,158.4
+574,vento,noun,viento,158.3
+575,kanto,noun,"canción, canto",157.8
+576,prezo,noun,precio,157.8
+577,dolaro,noun,dólar,157.1
+578,des,particle,tanto más (ju pli… des pli: cuanto más… más),156.9
+579,sano,noun,salud,156.9
+580,ŝajne,adverb,"al parecer, aparentemente",156.7
+581,sinjorino,noun,señora,156.7
+582,kuko,noun,"pastel, tarta",156.6
+583,forto,noun,fuerza,156.0
+584,vortaro,noun,diccionario,156.0
+585,hotelo,noun,hotel,155.9
+586,decido,noun,decisión,155.5
+587,ĝeni,verb,"molestar, incomodar",155.5
+588,rezigni,verb,"renunciar, rendirse",155.4
+589,fine,adverb,"al final, finalmente",155.2
+590,frukto,noun,"fruta, fruto",154.7
+591,panjo,noun,mamá,154.0
+592,danci,verb,bailar,153.8
+593,simpla,adjective,"sencillo, simple",153.8
+594,duono,noun,mitad,152.3
+595,proponi,verb,proponer,152.3
+596,scivoli,verb,sentir curiosidad,151.9
+597,koloro,noun,color,151.6
+598,malsano,noun,enfermedad,151.6
+599,varma,adjective,"caliente, cálido",151.6
+600,reiri,verb,"volver, ir de regreso",151.2
+601,kelkfoje,adverb,"a veces, algunas veces",151.1
+602,bebo,noun,bebé,150.9
+603,pripensi,verb,"reflexionar, meditar",150.4
+604,aĵo,noun,"cosa, objeto",150.2
+605,piedo,noun,pie,150.2
+606,nepre,adverb,"sin falta, forzosamente",150.0
+607,bedaŭrinde,adverb,lamentablemente,149.9
+608,folio,noun,hoja,149.9
+609,regulo,noun,"regla, norma",149.7
+610,ses,numeral,seis,149.7
+611,estonteco,noun,"futuro, porvenir",149.5
+612,farita,adjective,"hecho, realizado",149.5
+613,okupata,adjective,ocupado,149.4
+614,ovo,noun,huevo,149.4
+615,projekto,noun,"proyecto, plan",149.2
+616,starigi,verb,"erigir, establecer",148.8
+617,ŝatata,adjective,"querido, favorito",148.7
+618,aldoni,verb,"añadir, agregar",148.5
+619,fama,adjective,famoso,148.0
+620,prezenti,verb,presentar,148.0
+621,aĝa,adjective,"mayor, de edad",147.6
+622,fajro,noun,fuego,147.3
+623,bonega,adjective,"excelente, estupendo",147.1
+624,kristnasko,noun,Navidad,147.0
+625,halti,verb,"detenerse, parar",146.6
+626,bruna,adjective,"marrón, pardo",145.8
+627,posedi,verb,poseer,145.8
+628,diferenco,noun,diferencia,145.4
+629,ia,correlative,alguna clase de,145.2
+630,penso,noun,pensamiento,144.7
+631,promeni,verb,pasear,144.7
+632,krei,verb,crear,144.4
+633,erari,verb,"equivocarse, errar",144.2
+634,animo,noun,"alma, espíritu",143.9
+635,danki,verb,"dar las gracias, agradecer",143.7
+636,najbaro,noun,vecino,142.8
+637,ŝanĝiĝi,verb,"cambiar, transformarse",142.5
+638,flanko,noun,lado,142.3
+639,malbone,adverb,mal,142.0
+640,propono,noun,propuesta,142.0
+641,trakti,verb,tratar,141.8
+642,neĝo,noun,nieve,141.1
+643,malvarma,adjective,frío,140.8
+644,usona,adjective,estadounidense,140.3
+645,ju,particle,cuanto (ju pli… des pli: cuanto más… más),139.2
+646,vilaĝo,noun,"pueblo, aldea",139.1
+647,enlitiĝi,verb,acostarse,138.9
+648,edziĝi,verb,casarse (el hombre),138.7
+649,ellitiĝi,verb,levantarse (de la cama),138.7
+650,proksime,adverb,cerca,138.6
+651,registaro,noun,gobierno,138.6
+652,insulo,noun,isla,138.4
+653,rajto,noun,derecho,138.2
+654,prefere,adverb,"preferentemente, más bien",137.7
+655,aviadilo,noun,avión,137.2
+656,boni,verb,ser bueno,137.2
+657,ĉapelo,noun,sombrero,136.7
+658,malmulta,adjective,poco,136.3
+659,emi,verb,"tender a, ser propenso a",136.2
+660,valori,verb,valer,136.2
+661,inviti,verb,invitar,136.0
+662,ĉemizo,noun,camisa,135.8
+663,anstataŭ,preposition,"en lugar de, en vez de",135.5
+664,konfesi,verb,confesar,135.5
+665,malaperi,verb,desaparecer,135.5
+666,klaso,noun,clase,135.1
+667,facila,adjective,fácil,135.0
+668,ĉina,adjective,chino,134.6
+669,robo,noun,vestido (de mujer),134.6
+670,vesto,noun,prenda de vestir,134.4
+671,stiri,verb,"dirigir, pilotar",134.3
+672,terura,adjective,"terrible, espantoso",134.1
+673,tuŝi,verb,tocar,133.8
+674,diskuti,verb,"discutir, debatir",133.2
+675,afabla,adjective,amable,133.1
+676,sufiĉi,verb,"bastar, ser suficiente",132.9
+677,interesi,verb,interesar,132.2
+678,romano,noun,novela,132.2
+679,nuntempe,adverb,"actualmente, hoy en día",132.0
+680,proksima,adjective,"cercano, próximo",132.0
+681,malsama,adjective,"diferente, distinto",131.7
+682,okazo,noun,"ocasión, oportunidad",131.5
+683,stelo,noun,estrella,131.4
+684,danĝera,adjective,peligroso,131.2
+685,viando,noun,carne,131.0
+686,kuirejo,noun,cocina,130.8
+687,savi,verb,"salvar, rescatar",130.8
+688,horloĝo,noun,reloj,130.7
+689,malŝati,verb,"desagradar, no gustar",130.3
+690,proksimume,adverb,aproximadamente,130.3
+691,relative,adverb,relativamente,130.3
+692,ekiri,verb,"ponerse en marcha, partir",129.8
+693,mateno,noun,mañana,129.3
+694,paco,noun,paz,129.3
+695,vespermanĝo,noun,cena,129.3
+696,ĉie,correlative,en todas partes,129.1
+697,espero,noun,esperanza,128.8
+698,kastelo,noun,castillo,128.8
+699,naturo,noun,naturaleza,128.6
+700,nombro,noun,"número, cantidad",128.6
+701,sekreto,noun,secreto,128.1
+702,kampo,noun,campo,127.9
+703,konsisti,verb,consistir,127.9
+704,malfermita,adjective,abierto,127.8
+705,inteligenta,adjective,inteligente,127.6
+706,celi,verb,"apuntar, tener como meta",127.4
+707,dento,noun,diente,127.2
+708,vestaĵo,noun,prenda de vestir,127.2
+709,luno,noun,luna,126.7
+710,leciono,noun,lección,126.2
+711,malmulte,adverb,poco,126.0
+712,situi,verb,estar situado,126.0
+713,aero,noun,aire,125.7
+714,doloro,noun,dolor,125.7
+715,forigi,verb,"quitar, eliminar",125.7
+716,brako,noun,brazo,125.5
+717,arto,noun,arte,125.4
+718,neniel,correlative,de ningún modo,125.2
+719,avo,noun,abuelo,124.5
+720,mesaĝo,noun,mensaje,124.5
+721,plani,verb,"planear, planificar",124.3
+722,aĝi,verb,tener cierta edad,124.1
+723,informo,noun,"información, dato",124.1
+724,vespero,noun,"tarde, atardecer",124.1
+725,religio,noun,religión,124.0
+726,kutimi,verb,"soler, acostumbrar",123.6
+727,ree,adverb,de nuevo,123.6
+728,flava,adjective,amarillo,123.3
+729,ago,noun,"acto, acción",123.1
+730,universitato,noun,universidad,122.9
+731,plezuro,noun,"placer, gusto",122.6
+732,rusa,adjective,ruso,122.4
+733,sako,noun,"saco, bolsa",122.4
+734,revo,noun,"ensueño, anhelo",121.9
+735,daŭrigi,verb,"continuar, proseguir",121.7
+736,manĝo,noun,comida,121.7
+737,biblioteko,noun,biblioteca,121.6
+738,foje,adverb,"una vez, en una ocasión",121.6
+739,interesiĝi,verb,interesarse,121.6
+740,onklo,noun,tío,121.6
+741,mallonga,adjective,"corto, breve",121.4
+742,nutraĵo,noun,alimento,121.4
+743,fremda,adjective,"extranjero, extraño",121.2
+744,ripari,verb,"reparar, arreglar",120.9
+745,sperto,noun,experiencia,120.5
+746,taso,noun,taza,120.2
+747,ŝajnigi,verb,"fingir, simular",120.0
+748,konduti,verb,comportarse,119.7
+749,soni,verb,sonar,119.7
+750,rapidi,verb,"darse prisa, apresurarse",119.5
+751,konservi,verb,"conservar, guardar",119.2
+752,tria,adjective,tercero,119.2
+753,rilato,noun,relación,119.0
+754,malkovri,verb,descubrir,118.8
+755,vekiĝi,verb,despertarse,118.7
+756,amuza,adjective,"divertido, gracioso",118.1
+757,pardono,noun,perdón,117.6
+758,elteni,verb,"soportar, aguantar",117.5
+759,diversa,adjective,"diverso, variado",117.3
+760,lago,noun,lago,117.3
+761,partopreni,verb,participar,117.1
+762,koleri,verb,"estar enfadado, enfadarse",116.9
+763,saĝa,adjective,"sabio, prudente",116.8
+764,dika,adjective,"grueso, gordo",116.4
+765,cent,numeral,cien,116.3
+766,teamo,noun,equipo,116.1
+767,kunveno,noun,reunión,115.9
+768,agrabla,adjective,agradable,115.7
+769,butiko,noun,tienda,115.7
+770,konduto,noun,"comportamiento, conducta",115.7
+771,eblo,noun,posibilidad,115.2
+772,scio,noun,"conocimiento, saber",115.2
+773,konsili,verb,aconsejar,115.1
+774,multekosta,adjective,"caro, costoso",115.1
+775,danĝero,noun,peligro,114.9
+776,pura,adjective,"puro, limpio",114.7
+777,bruo,noun,ruido,114.5
+778,esprimi,verb,expresar,114.5
+779,timo,noun,"miedo, temor",114.5
+780,deziro,noun,deseo,114.4
+781,planedo,noun,planeta,114.4
+782,ĉefurbo,noun,capital,114.2
+783,kalkuli,verb,"calcular, contar",114.2
+784,mortinta,adjective,"muerto, difunto",114.2
+785,malofte,adverb,"raramente, pocas veces",114.0
+786,silenti,verb,"callar, guardar silencio",114.0
+787,taŭgi,verb,"servir, ser adecuado",113.9
+788,buŝo,noun,boca,113.5
+789,malrapide,adverb,"despacio, lentamente",113.5
+790,dolori,verb,doler,113.3
+791,hejmtasko,noun,"tarea, deberes",113.3
+792,estro,noun,"jefe, líder",113.0
+793,renkontiĝi,verb,"encontrarse, reunirse",113.0
+794,rozo,noun,rosa,112.8
+795,orelo,noun,oreja,112.7
+796,konata,adjective,conocido,112.1
+797,grupo,noun,grupo,112.0
+798,kioma,adjective,"qué número, cuál (en una serie)",112.0
+799,solvo,noun,solución,112.0
+800,somero,noun,verano,112.0
+801,ŝerco,noun,"broma, chiste",111.8
+802,hispana,adjective,"español, hispano",111.5
+803,sep,numeral,siete,111.3
+804,posteno,noun,"puesto, cargo",111.1
+805,sciigi,verb,"informar, avisar",111.1
+806,freneza,adjective,"loco, demente",110.9
+807,plendi,verb,quejarse,110.9
+808,kontroli,verb,"comprobar, controlar",110.4
+809,junulo,noun,"joven, muchacho",110.1
+810,prezidanto,noun,presidente,110.1
+811,ferio,noun,"vacaciones, día festivo",109.7
+812,kontenta,adjective,"contento, satisfecho",109.1
+813,mensogo,noun,mentira,109.1
+814,ie,correlative,en alguna parte,108.7
+815,neniom,correlative,"nada, en absoluto",108.7
+816,stacidomo,noun,estación (de tren),108.7
+817,ŝtono,noun,piedra,108.7
+818,surmeti,verb,ponerse (ropa),108.7
+819,gazeto,noun,"periódico, revista",108.5
+820,kruro,noun,pierna,108.5
+821,medikamento,noun,medicamento,108.5
+822,malgraŭ,preposition,a pesar de,108.4
+823,ĉarma,adjective,encantador,107.9
+824,maljunulo,noun,anciano,107.9
+825,bati,verb,"golpear, pegar",107.7
+826,france,adverb,en francés,107.7
+827,avino,noun,abuela,107.3
+828,jarcento,noun,siglo,107.2
+829,levi,verb,"levantar, alzar",107.2
+830,gasto,noun,"invitado, huésped",107.0
+831,meriti,verb,merecer,107.0
+832,aliulo,noun,"otra persona, alguien más",106.8
+833,komenco,noun,"comienzo, principio",106.8
+834,malfacili,verb,ser difícil,106.8
+835,belega,adjective,"magnífico, precioso",106.7
+836,paĉjo,noun,papá,106.7
+837,posttagmeze,adverb,por la tarde,106.7
+838,edziniĝi,verb,casarse (la mujer),106.5
+839,tranĉilo,noun,cuchillo,106.5
+840,dependi,verb,depender,106.3
+841,menso,noun,mente,106.3
+842,botelo,noun,botella,106.0
+843,donaci,verb,"regalar, donar",106.0
+844,fojfoje,adverb,de vez en cuando,106.0
+845,koramikino,noun,novia,106.0
+846,griza,adjective,gris,105.8
+847,konscii,verb,ser consciente de,105.5
+848,ponto,noun,puente,105.3
+849,rekoni,verb,reconocer,105.3
+850,batali,verb,"luchar, pelear",104.9
+851,disponi,verb,disponer de,104.9
+852,malsanulejo,noun,hospital,104.9
+853,formo,noun,forma,104.8
+854,ene,adverb,"dentro, adentro",104.3
+855,drinki,verb,beber (alcohol),103.9
+856,enhavi,verb,contener,103.7
+857,klopodi,verb,esforzarse,103.7
+858,veri,verb,ser verdad,103.7
+859,ĝustatempe,adverb,a tiempo,103.6
+860,eskapi,verb,escapar,103.4
+861,krii,verb,gritar,103.4
+862,kaŭzo,noun,causa,103.1
+863,ordo,noun,orden,103.1
+864,supo,noun,sopa,103.1
+865,okupita,adjective,ocupado,102.9
+866,enamiĝi,verb,enamorarse,102.7
+867,forte,adverb,"con fuerza, fuertemente",102.7
+868,politiko,noun,política,102.7
+869,bongusta,adjective,"sabroso, delicioso",102.4
+870,televido,noun,televisión,102.4
+871,entrepreno,noun,"empresa, iniciativa",102.0
+872,peco,noun,"pedazo, pieza",102.0
+873,turni,verb,"girar, volver",102.0
+874,klare,adverb,claramente,101.9
+875,mirinda,adjective,maravilloso,101.7
+876,marŝi,verb,"caminar, marchar",101.3
+877,rideti,verb,sonreír,101.3
+878,ĉefa,adjective,principal,101.0
+879,fermita,adjective,cerrado,101.0
+880,observi,verb,observar,100.8
+881,papero,noun,papel,100.8
+882,ties,correlative,"de ese, de aquel",100.8
+883,sonĝo,noun,sueño (al dormir),100.5
+884,teksto,noun,texto,100.5
+885,demeti,verb,"quitarse, dejar",100.3
+886,akompani,verb,acompañar,100.1
+887,antikva,adjective,antiguo,100.1
+888,aserti,verb,"afirmar, sostener",100.1
+889,ŝtato,noun,estado,99.8
+890,elekto,noun,"elección, opción",99.6
+891,ĝojo,noun,alegría,99.6
+892,maltrafi,verb,"fallar, no acertar",99.6
+893,ok,numeral,ocho,99.6
+894,traduko,noun,traducción,99.6
+895,rimedo,noun,"medio, remedio",99.1
+896,ripozi,verb,descansar,98.9
+897,malriĉa,adjective,pobre,98.8
+898,rapida,adjective,rápido,98.8
+899,regiono,noun,región,98.6
+900,banko,noun,banco,97.9
+901,lundo,noun,lunes,97.9
+902,kutimo,noun,"costumbre, hábito",97.6
+903,malsati,verb,tener hambre,97.4
+904,scienco,noun,ciencia,97.2
+905,sekva,adjective,siguiente,96.5
+906,subteni,verb,"sostener, apoyar",96.4
+907,preĝejo,noun,iglesia,95.7
+908,sistemo,noun,sistema,95.7
+909,superi,verb,superar,95.7
+910,konvinki,verb,convencer,95.5
+911,malproksime,adverb,lejos,95.5
+912,vintro,noun,invierno,95.3
+913,saluto,noun,saludo,95.2
+914,miliono,noun,millón,95.0
+915,matematiko,noun,matemáticas,94.8
+916,soldato,noun,soldado,94.8
+917,firmao,noun,"empresa, firma",94.7
+918,frapi,verb,"dar un golpe, llamar (a la puerta)",94.7
+919,grandega,adjective,enorme,94.7
+920,kompreneble,adverb,"por supuesto, naturalmente",94.7
+921,kulturo,noun,cultura,94.7
+922,mendi,verb,"pedir, encargar",94.7
+923,supre,adverb,arriba,94.7
+924,kapablo,noun,capacidad,94.5
+925,raporto,noun,informe,94.3
+926,veki,verb,despertar (a alguien),94.3
+927,komuna,adjective,común,94.1
+928,okulvitro,noun,"gafas, lentes",94.1
+929,loĝejo,noun,"vivienda, domicilio",94.0
+930,kara,adjective,querido,93.8
+931,paŝo,noun,paso,93.8
+932,sango,noun,sangre,93.8
+933,sorto,noun,"suerte, destino",93.8
+934,homaro,noun,humanidad,93.6
+935,malhelpi,verb,"impedir, estorbar",93.6
+936,bileto,noun,"billete, boleto",93.1
+937,kinejo,noun,cine,92.8
+938,eksterlande,adverb,en el extranjero,92.6
+939,sperti,verb,"experimentar, vivir",92.6
+940,memoro,noun,memoria,92.4
+941,nutri,verb,"alimentar, nutrir",92.4
+942,serioza,adjective,serio,92.4
+943,artikolo,noun,artículo,92.3
+944,hararo,noun,"cabello, cabellera",92.3
+945,kolekti,verb,"reunir, coleccionar",91.9
+946,libereco,noun,libertad,91.9
+947,trans,preposition,"al otro lado de, más allá de",91.9
+948,mantelo,noun,"capa, abrigo",91.7
+949,sukero,noun,azúcar,91.7
+950,samtempe,adverb,al mismo tiempo,91.6
+951,nubo,noun,nube,91.2
+952,internacia,adjective,internacional,91.1
+953,koncerne,adverb,"en cuanto a, respecto a",91.1
+954,perfekta,adjective,perfecto,91.1
+955,sidiĝi,verb,sentarse,91.1
+956,utili,verb,"servir, ser útil",91.1
+957,parolado,noun,discurso,90.9
+958,tagmanĝo,noun,"almuerzo, comida",90.9
+959,malplena,adjective,vacío,90.7
+960,rigardo,noun,mirada,90.7
+961,freŝa,adjective,fresco,90.5
+962,premi,verb,"apretar, presionar",90.5
+963,devo,noun,"deber, obligación",90.2
+964,haltigi,verb,"detener, parar",90.2
+965,malsukcesi,verb,fracasar,90.2
+966,krimo,noun,"crimen, delito",90.0
+967,manko,noun,"falta, carencia",90.0
+968,adreso,noun,dirección,89.9
+969,socio,noun,sociedad,89.9
+970,sesa,adjective,sexto,89.7
+971,trompi,verb,engañar,89.7
+972,ĵurnalo,noun,"periódico, diario",89.5
+973,promeso,noun,promesa,89.5
+974,malsani,verb,estar enfermo,89.3
+975,nazo,noun,nariz,89.3
+976,utila,adjective,útil,89.3
+977,itala,adjective,italiano,89.0
+978,stacio,noun,estación,89.0
+979,fieri,verb,"estar orgulloso, enorgullecerse",88.7
+980,kurso,noun,curso,88.5
+981,armilo,noun,arma,88.3
+982,prizorgi,verb,"cuidar, ocuparse de",88.1
+983,advokato,noun,abogado,88.0
+984,flughaveno,noun,aeropuerto,88.0
+985,numero,noun,número,88.0
+986,dubi,verb,dudar,87.8
+987,plenigi,verb,llenar,87.8
+988,verko,noun,obra,87.8
+989,eŭropa,adjective,europeo,87.5
+990,tagmanĝi,verb,almorzar,87.5
+991,antaŭa,adjective,"anterior, previo",87.1
+992,maltrankviliĝi,verb,"inquietarse, preocuparse",87.1
+993,protekti,verb,proteger,87.1
+994,redoni,verb,devolver,87.1
+995,malfacilaĵo,noun,dificultad,86.8
+996,natura,adjective,natural,86.8
+997,necesa,adjective,necesario,86.8
+998,taŭga,adjective,"adecuado, apto",86.6
+999,malbono,noun,"mal, algo malo",86.4
+1000,fingro,noun,dedo,86.3

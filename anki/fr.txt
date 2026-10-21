@@ -1,0 +1,1000 @@
+la	le, la, les
+mi	je, moi
+esti	être
+vi	tu, vous
+ne	ne… pas, non
+li	il, lui (homme)
+de	de, depuis, par
+al	à, vers
+en	dans, en
+ke	que (conjonction)
+kaj	et
+tio	cela, ça
+ĉu	est-ce que ; si (interrogatif)
+ni	nous
+ŝi	elle
+tiu	celui-là, ce, cette
+mia	mon, ma, mes
+por	pour, afin de
+povi	pouvoir
+kiu	qui, lequel, quel
+havi	avoir
+ili	ils, elles
+ĉi	ci, ici (comme dans *tiu ĉi*)
+ĝi	il, elle (chose, animal)
+sia	son, sa, leur (propre)
+pri	au sujet de, sur
+fari	faire
+kio	quoi, ce que
+via	ton, ta, votre
+diri	dire
+voli	vouloir
+pli	plus, davantage
+kun	avec
+kiel	comment, comme
+scii	savoir
+oni	on
+ĉiu	chaque, chacun, tout le monde
+da	de (après une quantité)
+devi	devoir
+iri	aller
+tie	là, là-bas
+sed	mais
+kiam	quand
+tre	très
+el	hors de, de, parmi
+se	si (condition)
+ŝati	aimer bien, apprécier
+ol	que (comparaison)
+lia	son, sa (de lui)
+paroli	parler
+nur	seulement, ne… que
+vidi	voir
+sur	sur
+plej	le plus
+homo	être humain, personne
+per	au moyen de, avec
+bona	bon
+unu	un
+je	préposition générale (*je la tria* : à trois heures)
+nia	notre, nos
+veni	venir
+dum	pendant, pendant que
+alia	autre
+kial	pourquoi
+io	quelque chose
+nun	maintenant
+kredi	croire
+tiel	ainsi, de cette façon
+pro	à cause de
+jam	déjà
+neniam	jamais
+bone	bien
+kie	où
+si	se, soi (réfléchi)
+iu	quelqu’un, un certain
+ĉio	tout
+ankoraŭ	encore, toujours
+tempo	temps
+ĉiam	toujours
+pensi	penser
+granda	grand
+multa	beaucoup de, nombreux
+manĝi	manger
+bezoni	avoir besoin de
+aŭ	ou
+antaŭ	avant, devant
+neniu	personne, aucun
+libro	livre
+infano	enfant
+jaro	an, année
+lingvo	langue
+multe	beaucoup
+kiom	combien
+vere	vraiment
+vivo	vie
+tago	jour, journée
+okazi	arriver, avoir lieu
+ŝia	son, sa (d’elle)
+trovi	trouver
+du	deux
+doni	donner
+post	après, derrière
+domo	maison
+ĉe	chez, auprès de
+nenio	rien
+hodiaŭ	aujourd’hui
+tro	trop
+ankaŭ	aussi, également
+plu	plus, davantage, encore
+helpi	aider
+aĉeti	acheter
+resti	rester
+mono	argent
+afero	affaire, chose
+ĉar	car, parce que
+amiko	ami
+bela	beau
+nova	nouveau
+tute	tout à fait, complètement
+peti	demander, prier
+kompreni	comprendre
+eĉ	même
+tuta	entier, tout
+bonvoli	avoir la bonté de (*bonvolu* : s’il vous plaît)
+laboro	travail
+labori	travailler
+ĝis	jusqu’à
+jen	voici, voilà
+vivi	vivre
+iom	un peu, une certaine quantité
+atendi	attendre
+laŭ	selon, le long de
+patro	père
+sen	sans
+rigardi	regarder
+provi	essayer
+lerni	apprendre
+aŭto	voiture
+tiom	autant, tant
+legi	lire
+vorto	mot
+tri	trois
+kelka	quelque, quelques
+aŭdi	entendre
+ami	aimer
+loĝi	habiter
+horo	heure
+deziri	désirer, souhaiter
+ofte	souvent
+ajn	n’importe (*kiu ajn* : n’importe qui)
+senti	sentir, ressentir
+sola	seul
+mem	même, soi-même
+mondo	monde
+problemo	problème
+viro	homme (adulte)
+hundo	chien
+kia	quel, de quelle sorte
+eble	peut-être
+lasi	laisser
+koni	connaître
+tia	tel, de cette sorte
+ŝajni	sembler, paraître
+hejme	à la maison
+lando	pays
+uzi	utiliser
+morgaŭ	demain
+hieraŭ	hier
+preni	prendre
+opinii	être d’avis, penser
+iam	un jour, jadis
+ludi	jouer
+patrino	mère
+virino	femme
+ĉambro	pièce, chambre
+inter	entre, parmi
+alveni	arriver
+kontraŭ	contre, en face de
+ekzisti	exister
+unua	premier
+akvo	eau
+morti	mourir
+skribi	écrire
+lernejo	école
+franca	français
+sukcesi	réussir
+ja	en effet, certes
+demandi	demander, poser une question
+urbo	ville
+foriri	partir, s’en aller
+forgesi	oublier
+trinki	boire
+angla	anglais
+rajti	avoir le droit de
+do	donc, alors
+frazo	phrase
+dek	dix
+tuj	tout de suite
+nomo	nom
+aspekti	avoir l’air, paraître
+demando	question
+kato	chat
+iĝi	devenir
+viziti	visiter, rendre visite à
+kapabli	être capable de
+perdi	perdre
+ricevi	recevoir
+dio	Dieu, dieu
+reveni	revenir
+rapide	vite, rapidement
+preskaŭ	presque
+timi	craindre, avoir peur de
+ilia	leur, leurs
+sufiĉe	assez, suffisamment
+dormi	dormir
+longe	longtemps
+pordo	porte
+knabo	garçon
+ĉesi	cesser, s’arrêter
+plaĉi	plaire
+frato	frère
+esperi	espérer
+okulo	œil
+komenci	commencer
+mano	main
+vero	vérité
+tiam	alors, à ce moment-là
+knabino	fille (enfant)
+malbona	mauvais
+edzino	épouse
+renkonti	rencontrer
+ideo	idée
+instruisto	enseignant
+loko	lieu, endroit
+simple	simplement
+necesi	être nécessaire
+filo	fils
+persono	personne
+serĉi	chercher
+studi	étudier
+gepatro	parent (père ou mère)
+vojo	chemin, route
+meti	mettre, poser
+montri	montrer
+baldaŭ	bientôt
+denove	de nouveau
+juna	jeune
+lasta	dernier
+memori	se souvenir, se rappeler
+ebli	être possible
+grava	important, grave
+longa	long
+feliĉa	heureux
+eraro	erreur, faute
+amo	amour
+tra	à travers, par
+letero	lettre
+atingi	atteindre
+troviĝi	se trouver
+aŭskulti	écouter
+fratino	sœur
+arbo	arbre
+apud	près de, à côté de
+scipovi	savoir (faire)
+nek	ni
+antaŭe	avant, auparavant
+decidi	décider
+malgranda	petit
+nokto	nuit
+eliri	sortir
+respondi	répondre
+vespere	le soir
+semajno	semaine
+propra	propre, personnel
+certe	certainement, sûrement
+fojo	fois
+sama	même, identique
+vera	vrai
+poste	ensuite, plus tard
+sub	sous
+familio	famille
+fariĝi	devenir
+frue	tôt
+esperanto	espéranto (la langue)
+ĵus	à l’instant, tout juste
+ambaŭ	les deux, tous deux
+sidi	être assis
+pagi	payer
+eniri	entrer
+alta	haut, grand (taille)
+ŝanĝi	changer
+kafo	café
+kvin	cinq
+kuracisto	médecin
+facile	facilement
+ekde	depuis, à partir de
+malpli	moins
+helpo	aide
+tablo	table
+ruĝa	rouge
+fenestro	fenêtre
+gravi	être important, compter
+tamen	pourtant, cependant
+ĉirkaŭ	autour de, environ
+filmo	film
+malnova	vieux, ancien
+trajno	train
+rakonti	raconter
+forlasi	quitter, abandonner
+koro	cœur
+akcepti	accepter
+tero	terre, sol
+kanti	chanter
+pasigi	passer (le temps)
+jes	oui
+sendi	envoyer
+sinjoro	monsieur
+blanka	blanc
+malfermi	ouvrir
+manki	manquer
+naĝi	nager
+matene	le matin
+opinio	opinion, avis
+kvazaŭ	comme si
+igi	rendre, faire (+ infinitif)
+mortigi	tuer
+preferi	préférer
+morto	mort
+intenci	avoir l’intention de
+stari	être debout
+minuto	minute
+strato	rue
+verŝajne	probablement
+malfacile	difficilement
+floro	fleur
+teni	tenir, garder
+kune	ensemble
+instrui	enseigner
+fini	finir, terminer
+konsideri	considérer
+gajni	gagner
+filino	fille (de quelqu’un)
+verda	vert
+monato	mois
+kapo	tête
+dua	deuxième, second
+porti	porter
+plenumi	accomplir, remplir
+bedaŭri	regretter
+ĉiutage	chaque jour
+muziko	musique
+ĝardeno	jardin
+kuri	courir
+besto	animal, bête
+festo	fête
+agi	agir
+historio	histoire
+ĉielo	ciel
+zorgi	se soucier de, prendre soin de
+finfine	enfin, finalement
+signifi	signifier
+iomete	un petit peu
+manĝaĵo	nourriture
+fali	tomber
+sekvi	suivre
+ege	extrêmement
+rivero	cours d’eau, rivière
+respondo	réponse
+kutime	d’habitude
+telefoni	téléphoner
+maniero	manière, façon
+nomi	nommer, appeler
+klarigi	expliquer
+studento	étudiant
+forta	fort
+milito	guerre
+mil	mille
+birdo	oiseau
+nigra	noir
+situacio	situation
+vetero	temps (météo)
+surhavi	porter (sur soi)
+suno	soleil
+naskiĝi	naître
+elekti	choisir
+plia	supplémentaire, autre
+kapti	attraper
+malfacila	difficile
+arbaro	forêt
+veturi	aller en véhicule
+momento	instant, moment
+danko	remerciement, merci
+kosti	coûter
+plena	plein, complet
+krom	sauf, outre
+parto	partie, part
+fidi	avoir confiance en
+plano	plan, projet
+certi	être certain
+germana	allemand
+pluvi	pleuvoir
+edzo	mari, époux
+maljuna	vieux, âgé
+mensogi	mentir
+celo	but, objectif
+konsenti	être d’accord, consentir
+permesi	permettre, autoriser
+atenti	faire attention
+same	de même, pareillement
+japana	japonais
+vizaĝo	visage
+vendi	vendre
+kvar	quatre
+komputilo	ordinateur
+certa	certain, sûr
+plori	pleurer
+vino	vin
+ekstere	dehors, à l’extérieur
+novaĵo	nouvelle, nouveauté
+ĝia	son, sa (d’une chose)
+malfrue	tard
+temi	s’agir de, concerner
+kvankam	bien que, quoique
+pano	pain
+funkcii	fonctionner
+fakte	en fait
+alporti	apporter
+pardoni	pardonner
+for	loin, au loin
+ĝuste	justement, exactement
+kies	dont, de qui
+kreski	croître, pousser
+daŭri	durer, continuer
+konduki	conduire, mener
+lumo	lumière
+blua	bleu
+akiri	acquérir, obtenir
+vojaĝi	voyager
+teo	thé
+akcidento	accident
+riĉa	riche
+kaŝi	cacher
+ho	oh, ô
+pomo	pomme
+malami	haïr, détester
+lavi	laver
+maro	mer
+donaco	cadeau, don
+ludo	jeu
+lito	lit
+interesa	intéressant
+ĉevalo	cheval
+stulta	bête, stupide
+stranga	étrange, bizarre
+promesi	promettre
+tasko	tâche
+homa	humain
+pasi	passer
+skatolo	boîte
+fumi	fumer
+rimarki	remarquer
+traduki	traduire
+venki	vaincre
+foto	photo
+popolo	peuple
+restoracio	restaurant
+finiĝi	finir, se terminer
+parko	parc
+tial	c’est pourquoi, donc
+buso	autobus
+fermi	fermer
+aparteni	appartenir
+muro	mur
+polico	police
+spekti	regarder (un spectacle)
+vojaĝo	voyage
+regi	gouverner, régner
+multo	grande quantité
+trafi	atteindre, toucher (un but)
+kaŭzi	causer, provoquer
+ridi	rire
+unue	d’abord, premièrement
+venonta	prochain, à venir
+ekzameno	examen
+farti	aller, se porter (santé)
+lakto	lait
+ĝui	savourer, apprécier
+nomiĝi	s’appeler
+aperi	apparaître, paraître
+ĝusta	juste, correct
+super	au-dessus de
+malfrui	être en retard
+fiŝo	poisson
+supozi	supposer
+haro	cheveu, poil
+leĝo	loi
+ĝoji	se réjouir, être content
+fakto	fait
+ĉeesti	assister à, être présent
+kuŝi	être couché
+imagi	imaginer
+daŭre	sans cesse, continuellement
+pravi	avoir raison
+kisi	embrasser
+oficejo	bureau
+ŝategi	aimer beaucoup
+ulo	individu, type
+amikino	amie
+bildo	image
+lernanto	élève, apprenant
+tridek	trente
+biciklo	vélo, bicyclette
+malsana	malade
+korpo	corps
+nokte	la nuit, de nuit
+plura	plusieurs
+ŝuo	chaussure
+konsilo	conseil
+kialo	raison, motif
+reĝo	roi
+sento	sentiment, sensation
+monto	montagne
+almenaŭ	au moins
+apenaŭ	à peine
+pasinta	passé, dernier
+precize	précisément
+nu	eh bien, allons
+simili	ressembler à
+voĉo	voix
+voki	appeler
+suferi	souffrir
+fino	fin
+ŝlosilo	clé
+komenciĝi	commencer, débuter
+sukceso	succès
+rifuzi	refuser
+laca	fatigué
+glaso	verre
+eta	petit, menu
+konstrui	construire
+preta	prêt
+verki	composer, écrire (une œuvre)
+alvoki	appeler à, invoquer
+kuiri	cuisiner, cuire
+dudek	vingt
+temo	sujet, thème
+libera	libre
+prepari	préparer
+solvi	résoudre
+flugi	voler (dans les airs)
+pluvo	pluie
+hejmo	foyer, chez-soi
+rezulto	résultat
+ŝipo	navire, bateau
+rakonto	récit, histoire
+telefono	téléphone
+ŝanco	chance
+rompi	casser, briser
+ŝteli	voler (dérober)
+aĝo	âge
+malantaŭ	derrière
+feliĉo	bonheur
+eviti	éviter
+konstruaĵo	bâtiment
+seĝo	chaise
+ekscii	apprendre (une nouvelle)
+ĵeti	jeter, lancer
+biero	bière
+purigi	nettoyer
+subite	soudain
+malamiko	ennemi
+postuli	exiger, réclamer
+preti	être prêt
+vento	vent
+kanto	chanson, chant
+prezo	prix
+dolaro	dollar
+des	…plus (*ju pli… des pli…*)
+sano	santé
+ŝajne	apparemment
+sinjorino	madame, dame
+kuko	gâteau
+forto	force
+vortaro	dictionnaire
+hotelo	hôtel
+decido	décision
+ĝeni	gêner, déranger
+rezigni	renoncer
+fine	enfin, finalement
+frukto	fruit
+panjo	maman
+danci	danser
+simpla	simple
+duono	moitié
+proponi	proposer
+scivoli	être curieux de savoir
+koloro	couleur
+malsano	maladie
+varma	chaud
+reiri	retourner
+kelkfoje	parfois, quelquefois
+bebo	bébé
+pripensi	réfléchir à
+aĵo	chose, objet
+piedo	pied
+nepre	obligatoirement, sans faute
+bedaŭrinde	malheureusement
+folio	feuille
+regulo	règle
+ses	six
+estonteco	avenir
+farita	fait, accompli
+okupata	occupé
+ovo	œuf
+projekto	projet
+starigi	dresser, mettre debout
+ŝatata	apprécié, favori
+aldoni	ajouter
+fama	célèbre
+prezenti	présenter
+aĝa	âgé
+fajro	feu
+bonega	excellent, formidable
+kristnasko	Noël
+halti	s’arrêter, faire halte
+bruna	brun, marron
+posedi	posséder
+diferenco	différence
+ia	une sorte de, quelque
+penso	pensée
+promeni	se promener
+krei	créer
+erari	se tromper
+animo	âme, esprit
+danki	remercier
+najbaro	voisin
+ŝanĝiĝi	changer, se transformer
+flanko	côté
+malbone	mal
+propono	proposition
+trakti	traiter
+neĝo	neige
+malvarma	froid
+usona	américain (des États-Unis)
+ju	plus… (*ju pli… des pli…*)
+vilaĝo	village
+enlitiĝi	se coucher, aller au lit
+edziĝi	se marier (pour un homme)
+ellitiĝi	se lever (du lit)
+proksime	près, tout près
+registaro	gouvernement
+insulo	île
+rajto	droit
+prefere	plutôt, de préférence
+aviadilo	avion
+boni	être bon
+ĉapelo	chapeau
+malmulta	peu de
+emi	avoir tendance à
+valori	valoir
+inviti	inviter
+ĉemizo	chemise
+anstataŭ	au lieu de, à la place de
+konfesi	avouer, confesser
+malaperi	disparaître
+klaso	classe
+facila	facile
+ĉina	chinois
+robo	robe
+vesto	vêtement
+stiri	diriger, piloter
+terura	terrible, effroyable
+tuŝi	toucher
+diskuti	discuter
+afabla	aimable, gentil
+sufiĉi	suffire
+interesi	intéresser
+romano	roman
+nuntempe	de nos jours, actuellement
+proksima	proche
+malsama	différent
+okazo	occasion, cas
+stelo	étoile
+danĝera	dangereux
+viando	viande
+kuirejo	cuisine
+savi	sauver
+horloĝo	horloge, pendule
+malŝati	ne pas aimer, détester
+proksimume	environ, à peu près
+relative	relativement
+ekiri	partir, se mettre en route
+mateno	matin
+paco	paix
+vespermanĝo	dîner, souper
+ĉie	partout
+espero	espoir
+kastelo	château
+naturo	nature
+nombro	nombre
+sekreto	secret
+kampo	champ
+konsisti	consister en, se composer de
+malfermita	ouvert
+inteligenta	intelligent
+celi	viser, avoir pour but
+dento	dent
+vestaĵo	pièce de vêtement
+luno	lune
+leciono	leçon
+malmulte	peu
+situi	être situé
+aero	air
+doloro	douleur
+forigi	enlever, supprimer
+brako	bras
+arto	art
+neniel	en aucune façon
+avo	grand-père
+mesaĝo	message
+plani	projeter, planifier
+aĝi	être âgé de, avoir … ans
+informo	information, renseignement
+vespero	soir
+religio	religion
+kutimi	avoir l’habitude de
+ree	de nouveau, à nouveau
+flava	jaune
+ago	action, acte
+universitato	université
+plezuro	plaisir
+rusa	russe
+sako	sac
+revo	rêve
+daŭrigi	continuer, poursuivre
+manĝo	repas
+biblioteko	bibliothèque
+foje	une fois
+interesiĝi	s’intéresser
+onklo	oncle
+mallonga	court
+nutraĵo	nourriture, aliment
+fremda	étranger, inconnu
+ripari	réparer
+sperto	expérience
+taso	tasse
+ŝajnigi	faire semblant de
+konduti	se comporter, se conduire
+soni	sonner, résonner
+rapidi	se dépêcher
+konservi	conserver, garder
+tria	troisième
+rilato	relation, rapport
+malkovri	découvrir
+vekiĝi	se réveiller
+amuza	amusant, drôle
+pardono	pardon
+elteni	supporter, endurer
+diversa	divers
+lago	lac
+partopreni	participer
+koleri	être en colère
+saĝa	sage
+dika	gros, épais
+cent	cent
+teamo	équipe
+kunveno	réunion
+agrabla	agréable
+butiko	boutique, magasin
+konduto	comportement, conduite
+eblo	possibilité
+scio	savoir, connaissance
+konsili	conseiller
+multekosta	cher, coûteux
+danĝero	danger
+pura	propre, pur
+bruo	bruit
+esprimi	exprimer
+timo	peur, crainte
+deziro	désir, souhait
+planedo	planète
+ĉefurbo	capitale
+kalkuli	calculer, compter
+mortinta	mort, défunt
+malofte	rarement
+silenti	se taire, rester silencieux
+taŭgi	convenir, être adapté
+buŝo	bouche
+malrapide	lentement
+dolori	faire mal
+hejmtasko	devoirs (à la maison)
+estro	chef, dirigeant
+renkontiĝi	se rencontrer, se réunir
+rozo	rose
+orelo	oreille
+konata	connu
+grupo	groupe
+kioma	quantième, de quel rang
+solvo	solution
+somero	été
+ŝerco	plaisanterie, blague
+hispana	espagnol
+sep	sept
+posteno	poste, emploi
+sciigi	informer, faire savoir
+freneza	fou, insensé
+plendi	se plaindre
+kontroli	vérifier, contrôler
+junulo	jeune homme
+prezidanto	président
+ferio	jour férié, congé
+kontenta	content, satisfait
+mensogo	mensonge
+ie	quelque part
+neniom	pas du tout, rien
+stacidomo	gare
+ŝtono	pierre
+surmeti	enfiler, mettre (sur soi)
+gazeto	journal, magazine
+kruro	jambe
+medikamento	médicament
+malgraŭ	malgré
+ĉarma	charmant
+maljunulo	vieil homme, vieillard
+bati	frapper, battre
+france	en français
+avino	grand-mère
+jarcento	siècle
+levi	lever, soulever
+gasto	invité, hôte
+meriti	mériter
+aliulo	quelqu’un d’autre, autrui
+komenco	début, commencement
+malfacili	être difficile
+belega	magnifique, superbe
+paĉjo	papa
+posttagmeze	l’après-midi
+edziniĝi	se marier (pour une femme)
+tranĉilo	couteau
+dependi	dépendre
+menso	esprit
+botelo	bouteille
+donaci	offrir, faire cadeau de
+fojfoje	de temps en temps
+koramikino	petite amie
+griza	gris
+konscii	avoir conscience de
+ponto	pont
+rekoni	reconnaître
+batali	se battre, combattre
+disponi	disposer de
+malsanulejo	hôpital
+formo	forme
+ene	dedans, à l’intérieur
+drinki	boire (de l’alcool)
+enhavi	contenir
+klopodi	s’efforcer, se démener
+veri	être vrai
+ĝustatempe	à temps
+eskapi	s’échapper
+krii	crier
+kaŭzo	cause
+ordo	ordre
+supo	soupe
+okupita	occupé
+enamiĝi	tomber amoureux
+forte	fort, fortement
+politiko	politique
+bongusta	bon, délicieux
+televido	télévision
+entrepreno	entreprise, projet
+peco	morceau, pièce
+turni	tourner
+klare	clairement
+mirinda	merveilleux
+marŝi	marcher
+rideti	sourire
+ĉefa	principal
+fermita	fermé
+observi	observer
+papero	papier
+ties	de celui-là, de celle-là
+sonĝo	songe, rêve (en dormant)
+teksto	texte
+demeti	enlever (un vêtement), poser
+akompani	accompagner
+antikva	antique
+aserti	affirmer
+ŝtato	État
+elekto	choix, élection
+ĝojo	joie
+maltrafi	rater, manquer
+ok	huit
+traduko	traduction
+rimedo	moyen, remède
+ripozi	se reposer
+malriĉa	pauvre
+rapida	rapide
+regiono	région
+banko	banque
+lundo	lundi
+kutimo	habitude, coutume
+malsati	avoir faim
+scienco	science
+sekva	suivant
+subteni	soutenir
+preĝejo	église
+sistemo	système
+superi	dépasser, surpasser
+konvinki	convaincre
+malproksime	loin
+vintro	hiver
+saluto	salutation, salut
+miliono	million
+matematiko	mathématiques
+soldato	soldat
+firmao	entreprise, firme
+frapi	frapper, cogner
+grandega	énorme, immense
+kompreneble	bien sûr, naturellement
+kulturo	culture
+mendi	commander
+supre	en haut
+kapablo	capacité, aptitude
+raporto	rapport, compte rendu
+veki	réveiller
+komuna	commun
+okulvitro	lunettes
+loĝejo	logement, habitation
+kara	cher, chéri
+paŝo	pas
+sango	sang
+sorto	sort, destin
+homaro	humanité
+malhelpi	empêcher, gêner
+bileto	billet, ticket
+kinejo	cinéma
+eksterlande	à l’étranger
+sperti	éprouver, faire l’expérience de
+memoro	mémoire
+nutri	nourrir
+serioza	sérieux
+artikolo	article
+hararo	chevelure, cheveux
+kolekti	rassembler, collecter
+libereco	liberté
+trans	au-delà de, de l’autre côté de
+mantelo	manteau
+sukero	sucre
+samtempe	en même temps
+nubo	nuage
+internacia	international
+koncerne	concernant, à propos de
+perfekta	parfait
+sidiĝi	s’asseoir
+utili	être utile, servir
+parolado	discours
+tagmanĝo	déjeuner (repas de midi)
+malplena	vide
+rigardo	regard
+freŝa	frais
+premi	appuyer sur, presser
+devo	devoir, obligation
+haltigi	arrêter
+malsukcesi	échouer
+krimo	crime
+manko	manque
+adreso	adresse
+socio	société
+sesa	sixième
+trompi	tromper
+ĵurnalo	journal
+promeso	promesse
+malsani	être malade
+nazo	nez
+utila	utile
+itala	italien
+stacio	station
+fieri	être fier de
+kurso	cours
+armilo	arme
+prizorgi	s’occuper de, soigner
+advokato	avocat
+flughaveno	aéroport
+numero	numéro
+dubi	douter
+plenigi	remplir
+verko	œuvre
+eŭropa	européen
+tagmanĝi	déjeuner
+antaŭa	précédent, antérieur
+maltrankviliĝi	s’inquiéter
+protekti	protéger
+redoni	rendre, redonner
+malfacilaĵo	difficulté
+natura	naturel
+necesa	nécessaire
+taŭga	convenable, adapté
+malbono	mal
+fingro	doigt
