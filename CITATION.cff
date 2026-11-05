@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "The 1,000 most common Esperanto words"
+type: dataset
+authors:
+  - name: "Esperantopedia"
+    website: "https://esperantopedia.org"
+abstract: "The 1,000 most frequent Esperanto words, ranked by frequency in the Tatoeba sentence corpus, with part of speech and short meanings in 11 languages (CSV and Anki)."
+version: "1.0"
+date-released: "2026-11-05"
+license: CC-BY-SA-4.0
+url: "https://esperantopedia.org/learn/common-words/"
+repository-code: "https://github.com/automatylicza/esperanto-1000-words"
+keywords:
+  - Esperanto
+  - word frequency
+  - vocabulary
+  - dataset
+  - Tatoeba
